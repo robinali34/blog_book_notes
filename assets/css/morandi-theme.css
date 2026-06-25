@@ -478,29 +478,40 @@ hr {
   -webkit-overflow-scrolling: touch;
 }
 
-.post-content figure.diagram-figure img {
+/* Wide diagrams (structure charts, etc.) — not tarot card thumbnails */
+.post-content figure.diagram-figure:not(.tarot-card-figure) img,
+.post-content figure.diagram-figure.diagram-structure-figure svg {
   width: 100%;
-  max-width: 100%;
+  max-width: min(720px, 100%);
   height: auto;
-  min-width: 280px;
+  min-width: 0;
   margin: 0 auto;
   display: block;
   box-shadow: 0 4px 16px rgba(122, 138, 117, 0.12);
 }
 
+.post-content figure.diagram-figure.diagram-structure-figure svg {
+  border-radius: 4px;
+  border: 1px solid var(--morandi-border-light);
+}
+
 /* Tarot card thumbnails in reference posts */
 .post-content figure.diagram-figure.tarot-card-figure {
   display: inline-block;
-  margin: 0.25rem 0.75rem 0.5rem 0;
+  margin: 0.5rem 1rem 0.75rem 0;
   vertical-align: top;
-  max-width: 150px;
+  max-width: 120px;
+  text-align: center;
 }
 
 .post-content figure.diagram-figure.tarot-card-figure img {
-  width: 140px;
-  max-width: 140px;
+  width: 110px;
+  max-width: 110px;
+  height: auto;
   min-width: 0;
-  margin: 0;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 2px 8px rgba(122, 138, 117, 0.15);
 }
 
 .post-content figure.diagram-figure.tarot-card-figure figcaption {
@@ -1358,11 +1369,16 @@ body {
     margin-bottom: 0.4rem;
   }
   
-  /* Ensure images are responsive */
-  .post-content img {
+  /* Ensure images are responsive (except fixed-size tarot thumbnails) */
+  .post-content img:not(.tarot-card-img) {
     max-width: 100%;
     height: auto;
     margin: 1rem 0;
+  }
+
+  .post-content figure.diagram-figure.tarot-card-figure img {
+    width: 100px;
+    max-width: 100px;
   }
   
   .post-content {

@@ -43,10 +43,7 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 | 7 | **与《鬼谷子》之别** | 鬼谷子重识人察势；塔罗重内观象征与直觉联结 |
 | 8 | **实践原则** | 先建立牌面语言系统，再追求「解准」；每日一牌 + 写笔记 |
 
-<figure class="diagram-figure">
-<img src="{{ '/assets/images/tarot/tarot-structure.svg' | relative_url }}" alt="Tarot 78张牌结构" />
-<figcaption>图 1 — 78 张牌：大阿卡纳 22 张 + 小阿卡纳四组各 14 张</figcaption>
-</figure>
+{% include tarot-structure-diagram.html caption="图 1 — 78 张牌：大阿卡纳 22 张 + 小阿卡纳四组各 14 张" %}
 
 ---
 

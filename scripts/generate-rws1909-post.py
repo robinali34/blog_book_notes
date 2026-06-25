@@ -140,8 +140,13 @@ def esc(text: str) -> str:
 
 def fig(path: str, alt: str, cap: str, *, card: bool = False) -> str:
     cls = "diagram-figure tarot-card-figure" if card else "diagram-figure"
+    img_attrs = (
+        'class="tarot-card-img" width="110" height="191" '
+        if card
+        else ""
+    )
     return f"""<figure class="{cls}">
-<img src="{{{{ '{IMG}/{path}' | relative_url }}}}" alt="{alt}" loading="lazy" />
+<img {img_attrs}src="{{{{ '{IMG}/{path}' | relative_url }}}}" alt="{alt}" loading="lazy" />
 <figcaption>{cap}</figcaption>
 </figure>"""
 
@@ -252,10 +257,7 @@ tags: [塔罗, Rider-Waite, 韦特, A.E.Waite, Pamela Colman Smith, 1909, 牌义
 | **牌义来源** | *The Pictorial Key to the Tarot*（1910）— **中文全译，未删节** |
 | **中文参考** | 林侑青译《韦特塔罗图像解读秘钥》【新译完整版】（地平线文化，2024，ISBN 9786269821334） |
 
-<figure class="diagram-figure">
-<img src="{{{{ '/assets/images/tarot/tarot-structure.svg' | relative_url }}}}" alt="Tarot 78张牌结构" />
-<figcaption>图 0 — 大阿卡纳 22 + 小阿卡纳 56（权杖/圣杯/宝剑/星币各 14）</figcaption>
-</figure>
+{% include tarot-structure-diagram.html caption="图 0 — 大阿卡纳 22 + 小阿卡纳 56（权杖/圣杯/宝剑/星币各 14）" %}
 
 ### 市面常见版本
 

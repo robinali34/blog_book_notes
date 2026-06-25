@@ -520,7 +520,7 @@ hr {
   line-height: 1.3;
 }
 
-/* Tarot upright / reversed meanings — two-column table */
+/* Tarot upright / reversed — label column + meaning column */
 .post-content table.tarot-meanings-table {
   display: table;
   width: 100%;
@@ -531,22 +531,24 @@ hr {
   line-height: 1.45;
 }
 
-.post-content table.tarot-meanings-table thead th {
-  width: 50%;
+.post-content table.tarot-meanings-table th[scope="row"] {
+  width: 3.25rem;
   padding: 0.45rem 0.55rem;
   text-align: left;
+  vertical-align: top;
   font-weight: 600;
   font-size: 0.82rem;
   color: var(--morandi-gray-dark, #5A6A58);
   background: var(--morandi-beige, #E8EDE5);
   border: 1px solid var(--morandi-border-light, #E0E6DC);
+  white-space: nowrap;
 }
 
-.post-content table.tarot-meanings-table thead th:first-child {
+.post-content table.tarot-meanings-table tr:first-child th[scope="row"] {
   border-left: 3px solid #7A9078;
 }
 
-.post-content table.tarot-meanings-table thead th:last-child {
+.post-content table.tarot-meanings-table tr:last-child th[scope="row"] {
   border-left: 3px solid #A89080;
 }
 
@@ -558,12 +560,8 @@ hr {
   word-break: break-word;
 }
 
-.post-content table.tarot-meanings-table tbody tr td:first-child {
-  border-left: 3px solid #7A9078;
-}
-
-.post-content table.tarot-meanings-table tbody tr td:last-child {
-  border-left: 3px solid #A89080;
+.post-content table.tarot-meanings-table tr:first-child td {
+  border-top: 1px solid var(--morandi-border-light, #E0E6DC);
 }
 
 /* Legacy div layout (if any remain) */
@@ -1465,13 +1463,17 @@ body {
   .post-content table.tarot-meanings-table {
     display: table;
     width: 100%;
-    table-layout: auto;
+    table-layout: fixed;
     font-size: 0.85rem;
   }
 
-  .post-content table.tarot-meanings-table thead th,
+  .post-content table.tarot-meanings-table th[scope="row"],
   .post-content table.tarot-meanings-table tbody td {
     padding: 0.4rem 0.45rem;
+  }
+
+  .post-content table.tarot-meanings-table th[scope="row"] {
+    width: 2.75rem;
   }
 
   .post-content .tarot-meanings-compact {

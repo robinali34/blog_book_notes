@@ -164,8 +164,10 @@ def meanings_block(card: dict, *, include_desc: bool = False) -> str:
     rev = esc(card["meaning_rev_zh"]).replace("\n", " ")
     lines = [
         '<table class="tarot-meanings-table">',
-        "<thead><tr><th scope=\"col\">正位</th><th scope=\"col\">逆位</th></tr></thead>",
-        f"<tbody><tr><td>{up}</td><td>{rev}</td></tr></tbody>",
+        "<tbody>",
+        f"<tr><th scope=\"row\">正位</th><td>{up}</td></tr>",
+        f"<tr><th scope=\"row\">逆位</th><td>{rev}</td></tr>",
+        "</tbody>",
         "</table>",
     ]
     desc = card.get("desc_zh") or ""

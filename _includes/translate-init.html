@@ -66,11 +66,47 @@
     return host === 'localhost' || host === '127.0.0.1' || host === '0.0.0.0';
   }
 
+  function getProductionOrigin() {
+    var meta = document.querySelector('meta[name="blog-production-origin"]');
+    var origin = meta ? meta.getAttribute('content') : 'https://robinali34.github.io/blog_book_notes';
+    return origin.replace(/\/+$/, '');
+  }
+
+  function normalizePublicUrl(url) {
+    return url
+      .replace(/(\/blog_book_notes){2,}/g, '/blog_book_notes')
+      .replace(/([^:]\/)\/+/g, '$1');
+  }
+
   function getPublicPageUrl() {
-    return window.location.href;
+    var canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical && canonical.href && canonical.href.indexOf('http') === 0) {
+      return normalizePublicUrl(canonical.href);
+    }
+
+    var path = window.location.pathname || '/';
+    var base = '/blog_book_notes';
+    if (path.indexOf(base) !== 0) {
+      path = base + (path.startsWith('/') ? path : '/' + path);
+    }
+
+    return normalizePublicUrl(getProductionOrigin() + path);
+  }
+
+  function showTranslateUrlHint(url) {
+    document.querySelectorAll('.translate-hint-url').forEach(function(el) {
+      el.hidden = false;
+      el.textContent = '翻译地址：' + url;
+    });
   }
 
   function openChinaTranslate(provider) {
+    if (isLocalPreview()) {
+      document.querySelectorAll('.translate-hint-local').forEach(function(el) {
+        el.hidden = false;
+      });
+    }
+
     var toSelect = document.getElementById('cn-translate-to');
     var toLang = toSelect ? toSelect.value : 'zh';
     var fromLang = getBaiduLangCode();
@@ -79,7 +115,15 @@
       if (toSelect) toSelect.value = toLang;
     }
 
-    var pageUrl = encodeURIComponent(getPublicPageUrl());
+    var publicUrl = getPublicPageUrl();
+    showTranslateUrlHint(publicUrl);
+
+    if (publicUrl.indexOf('localhost') >= 0 || publicUrl.indexOf('127.0.0.1') >= 0) {
+      window.alert('百度翻译无法访问本地地址。请使用「复制本页链接」或部署到 GitHub Pages 后再试。\n\n公网地址应为：\n' + publicUrl);
+      return;
+    }
+
+    var pageUrl = encodeURIComponent(publicUrl);
     var targetUrl;
 
     if (provider === 'sogou') {
@@ -96,6 +140,7 @@
       btn.addEventListener('click', function() {
         if (btn.dataset.action === 'copy-url') {
           var url = getPublicPageUrl();
+          showTranslateUrlHint(url);
           if (navigator.clipboard && navigator.clipboard.writeText) {
             navigator.clipboard.writeText(url).then(function() {
               btn.textContent = '已复制链接';
@@ -114,6 +159,7 @@
       document.querySelectorAll('.translate-hint-local').forEach(function(el) {
         el.hidden = false;
       });
+      showTranslateUrlHint(getPublicPageUrl());
     }
 
     var toSelect = document.getElementById('cn-translate-to');

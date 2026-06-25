@@ -2,7 +2,7 @@
 title: "Robina Li"
 description: "Book Reading Notes — reflections, summaries, and takeaways from books I'm reading"
 baseurl: "/blog_book_notes"
-url: "https://robinali34.github.io/blog_book_notes/"
+url: "https://robinali34.github.io"
 
 # Build settings
 markdown: kramdown

@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/morandi-theme.css" | relative_url }}">
   {%- feed_meta -%}
+  <meta name="blog-production-origin" content="{{ site.url | append: site.baseurl }}">
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}

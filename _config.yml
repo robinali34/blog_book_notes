@@ -1,0 +1,60 @@
+# Site settings
+title: "Robina Li"
+description: "Book Reading Notes — reflections, summaries, and takeaways from books I'm reading"
+baseurl: "/blog_book_notes"
+url: "https://robinali34.github.io/blog_book_notes/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+show_excerpts: true
+future: true
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 10
+paginate_path: "/posts/page:num/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Navigation
+header_pages:
+  - about.md
+  - reading-list.md
+
+# Social links
+github_username: robinali34
+linkedin_username: robinali

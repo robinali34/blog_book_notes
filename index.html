@@ -1,0 +1,133 @@
+---
+layout: default
+---
+
+<div class="post-container">
+  <!-- Header Navigation -->
+  <header class="post-header">
+    <div class="header-content">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.title | default: "Robina Li" }}</a>
+      </h1>
+      <nav class="site-nav">
+        {%- for page_path in site.header_pages -%}
+          {%- assign page_obj = site.pages | where: "path", page_path | first -%}
+          {%- if page_obj -%}
+            <a href="{{ page_obj.url | relative_url }}">{{ page_obj.title | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </nav>
+    </div>
+  </header>
+
+<div class="home">
+
+  <section class="welcome-section">
+    <h2>Welcome to My Book Notes</h2>
+    <p>Reflections, summaries, and takeaways from books I'm reading — fiction, non-fiction, and technical</p>
+    <div class="welcome-stats">
+      <div class="stat-item">
+        <span class="stat-number">{{ site.posts.size }}</span>
+        <span class="stat-label">Notes Posted</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">📚</span>
+        <span class="stat-label">Always Reading</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">✍️</span>
+        <span class="stat-label">Learning in Public</span>
+      </div>
+    </div>
+  </section>
+
+  {%- if site.posts.size > 0 -%}
+    <section class="latest-posts">
+      <h2>Latest Notes</h2>
+      <div class="post-grid">
+        {%- for post in site.posts limit:6 -%}
+        <article class="post-card">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <div class="post-meta">{{ post.date | date: date_format }}</div>
+          <h3 class="post-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if post.excerpt -%}
+            <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
+          {%- endif -%}
+          {%- if post.categories -%}
+            <div class="post-categories">
+              {%- for category in post.categories -%}
+                <span class="category-tag">{{ category }}</span>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </article>
+        {%- endfor -%}
+      </div>
+      {%- if site.posts.size > 3 -%}
+        <div class="view-all-posts">
+          <a href="{{ "/posts/" | relative_url }}" class="btn">View All Notes</a>
+        </div>
+      {%- endif -%}
+    </section>
+  {%- else -%}
+    <section class="latest-posts">
+      <h2>Latest Notes</h2>
+      <p>No book notes yet — check back soon, or add your first post in <code>_posts/</code>.</p>
+    </section>
+  {%- endif -%}
+
+  {%- if paginator and paginator.posts -%}
+    <section class="all-posts">
+      <h2>All Notes</h2>
+      <div class="posts-list">
+        {%- for post in paginator.posts -%}
+        <article class="post-item">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <div class="post-meta">{{ post.date | date: date_format }}</div>
+          <h3 class="post-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if post.excerpt -%}
+            <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</div>
+          {%- endif -%}
+          {%- if post.categories -%}
+            <div class="post-categories">
+              {%- for category in post.categories -%}
+                <span class="category-tag">{{ category }}</span>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </article>
+        {%- endfor -%}
+      </div>
+
+      <nav class="pagination" role="navigation">
+        {%- if paginator.previous_page -%}
+          <a class="newer-posts" href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>
+        {%- else -%}
+          <span class="newer-posts disabled">← Newer</span>
+        {%- endif -%}
+
+        <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+        {%- if paginator.next_page -%}
+          <a class="older-posts" href="{{ paginator.next_page_path | relative_url }}">Older →</a>
+        {%- else -%}
+          <span class="older-posts disabled">Older →</span>
+        {%- endif -%}
+      </nav>
+    </section>
+  {%- endif -%}
+
+  <section class="rss-section">
+    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a> to stay updated</p>
+  </section>
+
+</div>
+</div>

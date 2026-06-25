@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" role="img" aria-label="Case study cycle time compression">
+  <rect width="900" height="340" rx="16" fill="#F5F7F3" stroke="#C8D4C0" stroke-width="1.5"/>
+  <text x="450" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#4A5A45" font-weight="bold">Case Studies  Cycle Time Compression</text>
+  <text x="450" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#7A8A75">Before (industry norm) vs. After (The Algorithm applied)</text>
+
+  <!-- Scale -->
+  <line x1="80" y1="270" x2="820" y2="270" stroke="#7A8A75" stroke-width="2"/>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">0</text>
+  <text x="230" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">10 wks</text>
+  <text x="380" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">20 wks</text>
+  <text x="530" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">30 wks</text>
+  <text x="680" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">45 wks</text>
+  <text x="800" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">60 wks</text>
+
+  <!-- Lululemon -->
+  <text x="80" y="100" font-family="Arial, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">Lululemon  Olympic apparel</text>
+  <rect x="80" y="110" width="740" height="22" rx="6" fill="#E8EDE5" stroke="#C8D4C0"/>
+  <rect x="80" y="110" width="99" height="22" rx="6" fill="#7A9078"/>
+  <text x="185" y="125" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">8 weeks</text>
+  <text x="820" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">was ~60 weeks</text>
+
+  <!-- GM -->
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">GM  Hummer EV program</text>
+  <rect x="80" y="175" width="740" height="22" rx="6" fill="#E8EDE5" stroke="#C8D4C0"/>
+  <rect x="80" y="175" width="296" height="22" rx="6" fill="#9CB098"/>
+  <text x="385" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">~1926 months</text>
+  <text x="820" y="190" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">industry ~36 months</text>
+
+  <!-- Tesla revenue -->
+  <text x="80" y="230" font-family="Arial, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">Tesla  Revenue scale (McNeill tenure)</text>
+  <rect x="80" y="240" width="120" height="22" rx="6" fill="#B8C8B0"/>
+  <text x="140" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B">$2B</text>
+  <line x1="210" y1="251" x2="340" y2="251" stroke="#7A8A75" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="350" y="240" width="200" height="22" rx="6" fill="#7A9078"/>
+  <text x="450" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F5F7F3" font-weight="bold">$20B · ~30 months</text>
+  <text x="820" y="255" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7A8A75">operational transformation</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#7A8A75"/>
+    </marker>
+  </defs>
+
+  <text x="450" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75" font-style="italic">Compression comes from deletion + simplification  not just "work harder"</text>
+</svg>

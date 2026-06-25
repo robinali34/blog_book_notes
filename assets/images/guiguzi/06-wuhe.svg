@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="äÇ:þ">
+  <defs><marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#7A8A75"/></marker></defs>
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">äÇ · à¿ä</text>
+  <circle cx="400" cy="115" r="22" fill="#7A9078"/>
+  <text x="400" y="121" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#F5F7F3" font-weight="bold">¿</text>
+  <path d="M400 93 L280 70" fill="none" stroke="#9CB098" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="200" y="55" width="100" height="36" rx="8" fill="#B8C8B0"/>
+  <text x="250" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold"></text>
+  <text x="250" y="108" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#7A8A75">z¿T</text>
+  <path d="M400 93 L520 70" fill="none" stroke="#7A9078" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="500" y="55" width="100" height="36" rx="8" fill="#D4DDCE"/>
+  <text x="550" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#4A5A45" font-weight="bold">ä</text>
+  <text x="550" y="108" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#7A8A75">Ì¿»</text>
+  <text x="150" y="155" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">Ïæµ</text>
+  <text x="620" y="155" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75"> êÞ*</text>
+  <text x="400" y="175" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">à85 · ‹à8 · éö¨</text>
+</svg>

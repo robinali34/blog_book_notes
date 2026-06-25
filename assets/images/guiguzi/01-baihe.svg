@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="捭阖篇示意图">
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">捭阖篇 · 开口与闭口</text>
+  <rect x="280" y="55" width="240" height="120" rx="4" fill="#E8EDE5" stroke="#9CB098" stroke-width="2"/>
+  <path d="M400 55 L400 175" stroke="#7A8A75" stroke-width="2"/>
+  <path d="M290 175 L290 70 Q290 55 320 55 L380 55 L380 175 Z" fill="#B8C8B0" opacity="0.9"/>
+  <text x="335" y="115" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#2F3D2B" font-weight="bold">捭</text>
+  <text x="335" y="138" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#4A5A45">开 · 张扬引导</text>
+  <path d="M510 175 L510 55 L420 55 L420 175 Z" fill="#7A9078" opacity="0.85"/>
+  <text x="465" y="115" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#F5F7F3" font-weight="bold">阖</text>
+  <text x="465" y="138" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#E8EDE5">闭 · 收敛守密</text>
+  <text x="120" y="110" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">实者捭之使言</text>
+  <text x="120" y="130" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">虚者阖之使谋</text>
+  <text x="680" y="110" text-anchor="end" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">一阴一阳</text>
+  <text x="680" y="130" text-anchor="end" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">言说之道</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="อ”ว:þ">
+  <defs><marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#7A8A75"/></marker></defs>
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">อ”ว ท อย€</text>
+  <rect x="80" y="70" width="140" height="50" rx="8" fill="#D4DDCE"/>
+  <text x="150" y="100" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#4A5A45">€ ท วป</text>
+  <rect x="580" y="70" width="140" height="50" rx="8" fill="#B8C8B0"/>
+  <text x="650" y="100" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B">e ท *e</text>
+  <path d="M220 95 C320 55, 480 55, 580 95" fill="none" stroke="#9CB098" stroke-width="2.5" marker-end="url(#ar)"/>
+  <path d="M580 115 C480 155, 320 155, 220 115" fill="none" stroke="#7A9078" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#ar)"/>
+  <text x="400" y="88" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">อๅย€</text>
+  <text x="400" y="158" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">ๅ฿e</text>
+  <ellipse cx="400" cy="120" rx="55" ry="28" fill="#E8EDE5" stroke="#9CB098"/>
+  <text x="400" y="125" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">aิ ท “ํ</text>
+</svg>

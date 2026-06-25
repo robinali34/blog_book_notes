@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="黄帝内经思想总览">
+  <rect width="900" height="360" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">黄帝内经 · 天人合一</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">素问 · 灵枢 · 阴阳 · 五行 · 治未病</text>
+  <ellipse cx="450" cy="185" rx="95" ry="55" fill="none" stroke="#9CB098" stroke-width="2"/>
+  <text x="450" y="182" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="15" fill="#4A5A45" font-weight="bold">人</text>
+  <text x="450" y="200" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#7A8A75">形神 · 气血 · 脏腑</text>
+  <rect x="330" y="78" width="240" height="44" rx="8" fill="#7A9078"/>
+  <text x="450" y="106" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#F5F7F3" font-weight="bold">天 · 四时阴阳</text>
+  <line x1="450" y1="122" x2="450" y2="130" stroke="#9CB098" stroke-width="2"/>
+  <rect x="330" y="248" width="240" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="450" y="276" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">地 · 饮食居处</text>
+  <line x1="450" y1="240" x2="450" y2="248" stroke="#9CB098" stroke-width="2"/>
+  <rect x="60" y="155" width="120" height="60" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="120" y="182" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">阴阳</text>
+  <text x="120" y="200" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">对立统一</text>
+  <rect x="720" y="155" width="120" height="60" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="780" y="182" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">五行</text>
+  <text x="780" y="200" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">生克制化</text>
+  <rect x="140" y="300" width="140" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="210" y="328" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">治未病</text>
+  <rect x="380" y="300" width="140" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="450" y="328" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">正气存内</text>
+  <rect x="620" y="300" width="140" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="690" y="328" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">形神兼养</text>
+  <text x="450" y="352" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">春夏养阳 · 秋冬养阴 · 正气存内邪不可干</text>
+</svg>

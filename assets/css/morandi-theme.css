@@ -520,6 +520,41 @@ hr {
   line-height: 1.3;
 }
 
+/* Compact upright / reversed meanings beside tarot cards */
+.post-content .tarot-meanings-compact {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0.5rem 0.75rem;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.post-content .tarot-meaning-upright,
+.post-content .tarot-meaning-reversed {
+  padding: 0.4rem 0.55rem;
+  border-radius: 4px;
+  background: var(--morandi-bg-light, #F5F7F3);
+  border: 1px solid var(--morandi-border-light, #E0E6DC);
+}
+
+.post-content .tarot-meaning-upright {
+  border-left: 3px solid #7A9078;
+}
+
+.post-content .tarot-meaning-reversed {
+  border-left: 3px solid #A89080;
+}
+
+.post-content .tarot-meaning-label {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.82rem;
+  margin-right: 0.35rem;
+  color: var(--morandi-gray-dark, #5A6A58);
+  white-space: nowrap;
+}
+
 .post-content figure {
   margin: 2rem 0;
   text-align: center;
@@ -1379,6 +1414,12 @@ body {
   .post-content figure.diagram-figure.tarot-card-figure img {
     width: 100px;
     max-width: 100px;
+  }
+
+  .post-content .tarot-meanings-compact {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+    font-size: 0.85rem;
   }
   
   .post-content {

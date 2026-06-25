@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" role="img" aria-label="Boundaries and communication reading stack">
+  <rect width="880" height="420" rx="14" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="440" y="34" text-anchor="middle" font-family="Noto Sans SC, Arial, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">边界与沟通 · 阅读栈</text>
+  <text x="440" y="56" text-anchor="middle" font-family="Noto Sans SC, Arial, sans-serif" font-size="12" fill="#7A8A75">由内到外：自我 → 关系 → 表达 → 经典养心</text>
+
+  <rect x="300" y="78" width="280" height="52" rx="8" fill="#7A9078" stroke="#5A6A58"/>
+  <text x="440" y="102" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#fff" font-weight="bold">内核</text>
+  <text x="440" y="120" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#E8EDE5">高敏感 · 蛤蟆先生 · 被讨厌的勇气</text>
+
+  <rect x="250" y="142" width="380" height="52" rx="8" fill="#A8B8A0" stroke="#7A9078"/>
+  <text x="440" y="166" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">边界</text>
+  <text x="440" y="184" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#4A5A45">不懂拒绝 · DBT 人际效能 · 亲密关系</text>
+
+  <rect x="200" y="206" width="480" height="52" rx="8" fill="#C8D4C0" stroke="#A8B8A0"/>
+  <text x="440" y="230" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">表达</text>
+  <text x="440" y="248" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#4A5A45">非暴力沟通 · DEAR MAN · 传习录「诚意」</text>
+
+  <rect x="160" y="270" width="560" height="52" rx="8" fill="#E8EDE5" stroke="#B8C8B0"/>
+  <text x="440" y="294" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">实践层</text>
+  <text x="440" y="312" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#5A6A58">复盘 · 四镜头 · 管理的本质（利益与边界）</text>
+
+  <text x="440" y="360" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">读序建议：蛤蟆 → 高敏感 → 被讨厌的勇气 → 不懂拒绝 → 非暴力沟通 → 亲密关系 → 传习录</text>
+  <text x="440" y="382" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">先懂自己，再立边界，再练表达，最后用经典校心</text>
+</svg>

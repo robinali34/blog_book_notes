@@ -160,14 +160,13 @@ def blockquote(text: str) -> str:
 
 
 def meanings_block(card: dict, *, include_desc: bool = False) -> str:
+    up = esc(card["meaning_up_zh"]).replace("\n", " ")
+    rev = esc(card["meaning_rev_zh"]).replace("\n", " ")
     lines = [
-        "**正位**",
-        "",
-        blockquote(card["meaning_up_zh"]),
-        "",
-        "**逆位**",
-        "",
-        blockquote(card["meaning_rev_zh"]),
+        '<div class="tarot-meanings-compact">',
+        f'<div class="tarot-meaning-upright"><span class="tarot-meaning-label">正位</span>{up}</div>',
+        f'<div class="tarot-meaning-reversed"><span class="tarot-meaning-label">逆位</span>{rev}</div>',
+        "</div>",
     ]
     desc = card.get("desc_zh") or ""
     if include_desc and desc.strip():

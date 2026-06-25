@@ -1,0 +1,26 @@
+---
+description: New Jekyll posts use today's date in filename and front matter
+globs: _posts/**/*.md
+alwaysApply: false
+---
+
+# Blog post dates
+
+When creating a new post in `_posts/`:
+
+1. **Date** — Use the **current calendar day** (the day you are writing the post), not a guessed future date or the book's publication date.
+2. **Filename** — `YYYY-MM-DD-slug.md` must match the front-matter `date` (same `YYYY-MM-DD`).
+3. **Front matter** — `date: YYYY-MM-DD HH:MM:SS -0000` (time may be a reasonable default, e.g. `09:00:00`).
+
+Example (if today is 2026-06-24):
+
+```yaml
+---
+title: "道德经 — 道法自然，无为而无不为"
+date: 2026-06-24 09:00:00 -0000
+---
+```
+
+File: `_posts/2026-06-24-daodejing.md`
+
+Do **not** retroactively change dates on existing posts unless the user asks.

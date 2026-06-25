@@ -564,7 +564,7 @@ tags: [菜根谭, 洪应明, 明史, 处世, 修身, 儒释道]
 - [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})，日课与周复盘  
 - [管理的本质 — 本站笔记]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }})，素心交换  
 - 《论语》— 仁义根本，儒家正源  
-- 《道德经》— 道家渊源  
+- [《道德经》— 本站笔记]({{ '/2026/06/24/daodejing.html' | relative_url }})，道家渊源  
 - 《曾国藩家书》— 晚清实践派修身实录  
 
 ## 状态

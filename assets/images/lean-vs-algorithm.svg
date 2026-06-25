@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Lean manufacturing vs The Algorithm comparison">
   <rect width="900" height="380" rx="16" fill="#F5F7F3" stroke="#C8D4C0" stroke-width="1.5"/>
   <text x="450" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#4A5A45" font-weight="bold">Lean vs. The Algorithm</text>
-  <text x="450" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#7A8A75">Two operating architectures  different starting questions</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#7A8A75">Two operating architectures - different starting questions</text>
 
-  <!-- Lean column -->
   <rect x="40" y="80" width="380" height="270" rx="14" fill="#E8EDE5" stroke="#B8C8B0" stroke-width="2"/>
   <text x="230" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#4A5A45" font-weight="bold">Toyota Lean / Kaizen</text>
   <text x="230" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75">McNeill's background</text>
@@ -11,13 +10,12 @@
   <rect x="70" y="155" width="320" height="44" rx="8" fill="#D4DDCE"/>
   <text x="230" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">Assumes the process should exist</text>
 
-  <text x="90" y="225" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">" Incremental improvement (1% better)</text>
-  <text x="90" y="248" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">" Optimize throughput &amp; waste in-place</text>
-  <text x="90" y="271" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">" Innovates around existing systems</text>
-  <text x="90" y="294" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">" Best for stable, mature operations</text>
-  <text x="90" y="317" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">" Question: "How do we improve this step?"</text>
+  <text x="90" y="225" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">- Incremental improvement (1% better)</text>
+  <text x="90" y="248" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">- Optimize throughput and waste in-place</text>
+  <text x="90" y="271" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">- Innovates around existing systems</text>
+  <text x="90" y="294" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">- Best for stable, mature operations</text>
+  <text x="90" y="317" font-family="Arial, sans-serif" font-size="12" fill="#4A5A45">- Question: How do we improve this step?</text>
 
-  <!-- Algorithm column -->
   <rect x="480" y="80" width="380" height="270" rx="14" fill="#D4E0D0" stroke="#7A9078" stroke-width="2"/>
   <text x="670" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#2F3D2B" font-weight="bold">The Algorithm</text>
   <text x="670" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5A6A58">Learned at Tesla</text>
@@ -25,12 +23,11 @@
   <rect x="510" y="155" width="320" height="44" rx="8" fill="#B8C8B0"/>
   <text x="670" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">Questions whether the process should exist</text>
 
-  <text x="530" y="225" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">" Radical deletion before optimization</text>
-  <text x="530" y="248" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">" Zero-based process design</text>
-  <text x="530" y="271" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">" Innovates new products &amp; business models</text>
-  <text x="530" y="294" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">" Best for crisis, hypergrowth, complexity bloat</text>
-  <text x="530" y="317" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">" Question: "Should this step exist at all?"</text>
+  <text x="530" y="225" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">- Radical deletion before optimization</text>
+  <text x="530" y="248" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">- Zero-based process design</text>
+  <text x="530" y="271" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">- Innovates new products and business models</text>
+  <text x="530" y="294" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">- Best for crisis, hypergrowth, complexity bloat</text>
+  <text x="530" y="317" font-family="Arial, sans-serif" font-size="12" fill="#2F3D2B">- Question: Should this step exist at all?</text>
 
-  <!-- Bridge -->
-  <text x="450" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75" font-style="italic">Both value efficiency  but The Algorithm deletes first, optimizes second</text>
+  <text x="450" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75" font-style="italic">Both value efficiency - but The Algorithm deletes first, optimizes second</text>
 </svg>

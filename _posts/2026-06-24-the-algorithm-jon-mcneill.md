@@ -19,9 +19,10 @@ The framework runs on a **weekly cadence** — not a one-time workshop. Teams cy
 
 ## What This Book Is For
 
-![The Algorithm five-step sequence]({{ "/assets/images/algorithm-five-steps.svg" | relative_url }})
-
-*Figure 1 — The five steps must run in strict order, on a weekly cadence. Automate last.*
+<figure class="diagram-figure">
+<img src="{{ '/assets/images/algorithm-five-steps.svg' | relative_url }}" alt="The Algorithm five-step sequence" />
+<figcaption>Figure 1 — The five steps must run in strict order, on a weekly cadence. Automate last.</figcaption>
+</figure>
 
 | | |
 |---|---|
@@ -52,9 +53,10 @@ The framework runs on a **weekly cadence** — not a one-time workshop. Teams cy
 
 ## Architecture Analysis
 
-![Organizational system architecture of The Algorithm]({{ "/assets/images/algorithm-system-architecture.svg" | relative_url }})
-
-*Figure 2 — The Algorithm as a four-layer control loop: mandate → cadence → execution → measurable outputs.*
+<figure class="diagram-figure">
+<img src="{{ '/assets/images/algorithm-system-architecture.svg' | relative_url }}" alt="Organizational system architecture of The Algorithm" />
+<figcaption>Figure 2 — The Algorithm as a four-layer control loop: mandate → cadence → execution → measurable outputs.</figcaption>
+</figure>
 
 Think of The Algorithm not as a checklist but as an **organizational operating system** — a closed-loop control system that runs continuously.
 
@@ -81,9 +83,10 @@ The **feedback arrow** is what separates this from a one-time reorg. Every week,
 
 ### Lean vs. Algorithm — Architectural Fork
 
-![Lean manufacturing vs The Algorithm]({{ "/assets/images/lean-vs-algorithm.svg" | relative_url }})
-
-*Figure 3 — Same efficiency goal, different starting architecture. Lean optimizes in-place; The Algorithm zero-bases first.*
+<figure class="diagram-figure">
+<img src="{{ '/assets/images/lean-vs-algorithm.svg' | relative_url }}" alt="Lean manufacturing vs The Algorithm" />
+<figcaption>Figure 3 — Same efficiency goal, different starting architecture. Lean optimizes in-place; The Algorithm zero-bases first.</figcaption>
+</figure>
 
 | Dimension | Lean / TPS | The Algorithm |
 |-----------|------------|---------------|
@@ -177,9 +180,10 @@ Automation multiplies whatever you feed it. A broken process becomes broken outp
 
 ## Case Examples
 
-![Case study cycle time compression]({{ "/assets/images/case-cycle-compression.svg" | relative_url }})
-
-*Figure 4 — Real compression ratios from the book's case studies. Gains come from deleting gates, not adding hours.*
+<figure class="diagram-figure">
+<img src="{{ '/assets/images/case-cycle-compression.svg' | relative_url }}" alt="Case study cycle time compression" />
+<figcaption>Figure 4 — Real compression ratios from the book's case studies. Gains come from deleting gates, not adding hours.</figcaption>
+</figure>
 
 ### Tesla: Model 3 — The Automation Mistake
 

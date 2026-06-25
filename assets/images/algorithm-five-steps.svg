@@ -12,10 +12,9 @@
     </marker>
   </defs>
   <rect width="900" height="320" rx="16" fill="url(#bg)" stroke="#C8D4C0" stroke-width="1.5"/>
-  <text x="450" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#4A5A45" font-weight="bold">The Algorithm  Strict Sequence</text>
-  <text x="450" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#7A8A75">Order is non-negotiable · Weekly cadence · Automate LAST</text>
+  <text x="450" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#4A5A45" font-weight="bold">The Algorithm - Strict Sequence</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#7A8A75">Order is non-negotiable | Weekly cadence | Automate LAST</text>
 
-  <!-- Steps -->
   <g filter="url(#shadow)">
     <rect x="30" y="100" width="140" height="90" rx="12" fill="#B8C8B0" stroke="#9CB098"/>
     <text x="100" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">1. Question</text>
@@ -32,13 +31,13 @@
     <rect x="370" y="100" width="140" height="90" rx="12" fill="#9CB098" stroke="#7A9078"/>
     <text x="440" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">3. Simplify</text>
     <text x="440" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B">Then optimize</text>
-    <text x="440" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B">Products · process · org</text>
+    <text x="440" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2F3D2B">Products, process, org</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="540" y="100" width="140" height="90" rx="12" fill="#8FA88F" stroke="#6A8068"/>
     <text x="610" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#F5F7F3" font-weight="bold">4. Accelerate</text>
     <text x="610" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#E8EDE5">Cycle time</text>
-    <text x="610" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#E8EDE5">Idea ’ cash faster</text>
+    <text x="610" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#E8EDE5">Idea to cash faster</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="710" y="100" width="140" height="90" rx="12" fill="#7A9078" stroke="#5A6A58"/>
@@ -47,17 +46,14 @@
     <text x="780" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#E8EDE5">After process proven</text>
   </g>
 
-  <!-- Arrows -->
   <line x1="170" y1="145" x2="198" y2="145" stroke="#7A8A75" stroke-width="2.5" marker-end="url(#arrow)"/>
   <line x1="340" y1="145" x2="368" y2="145" stroke="#7A8A75" stroke-width="2.5" marker-end="url(#arrow)"/>
   <line x1="510" y1="145" x2="538" y2="145" stroke="#7A8A75" stroke-width="2.5" marker-end="url(#arrow)"/>
   <line x1="680" y1="145" x2="708" y2="145" stroke="#7A8A75" stroke-width="2.5" marker-end="url(#arrow)"/>
 
-  <!-- Feedback loop -->
   <path d="M780 200 C780 250, 100 250, 100 192" fill="none" stroke="#9CB098" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arrow)"/>
-  <text x="450" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75">º Weekly cadence  repeat on every process, product, and team</text>
+  <text x="450" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7A8A75">Weekly cadence: repeat on every process, product, and team</text>
 
-  <!-- Warning -->
   <rect x="250" y="220" width="400" height="34" rx="8" fill="#E8EDE5" stroke="#C8D4C0"/>
-  <text x="450" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5A6A58">  Model 3 lesson: skipping to Step 5 first broke production</text>
+  <text x="450" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5A6A58">Model 3 lesson: skipping to Step 5 first broke production</text>
 </svg>

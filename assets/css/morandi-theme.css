@@ -471,6 +471,23 @@ hr {
   margin: 1.5rem 0;
 }
 
+.post-content figure.diagram-figure {
+  margin: 2rem 0;
+  text-align: center;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.post-content figure.diagram-figure img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  min-width: 280px;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 4px 16px rgba(122, 138, 117, 0.12);
+}
+
 .post-content figure {
   margin: 2rem 0;
   text-align: center;

@@ -60,21 +60,12 @@ Think of The Algorithm not as a checklist but as an **organizational operating s
 
 ### Layer Model
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  L1  Executive Mandate     Crisis / hypergrowth trigger  │
-│      Board + CEO air cover for deletion                 │
-├─────────────────────────────────────────────────────────┤
-│  L2  Weekly Cadence        Recurring Q→D→S→A→Auto cycle │
-│      Not a quarterly offsite — an operating rhythm      │
-├─────────────────────────────────────────────────────────┤
-│  L3  Cross-Functional Teams  Engineering · Ops · GTM  │
-│      Each function deletes its own complexity           │
-├─────────────────────────────────────────────────────────┤
-│  L4  Outputs               Cycle time · Part count · $  │
-│      Feedback loop → back to L1/L2                    │
-└─────────────────────────────────────────────────────────┘
-```
+| Layer | Component | Key Elements |
+|-------|-----------|--------------|
+| **L1** | Executive Mandate | Crisis / hypergrowth trigger; Board + CEO air cover for deletion |
+| **L2** | Weekly Cadence | Recurring Q→D→S→A→Auto cycle; operating rhythm, not a quarterly offsite |
+| **L3** | Cross-Functional Teams | Engineering · Ops · GTM; each function deletes its own complexity |
+| **L4** | Outputs | Cycle time · Part count · $; feedback loop → back to L1/L2 |
 
 ### Control Flow
 

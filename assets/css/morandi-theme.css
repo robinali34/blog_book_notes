@@ -223,9 +223,19 @@ blockquote {
 }
 
 /* Tables */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1em 0;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
+  margin: 0;
+}
+
+.post-content table {
   margin: 1em 0;
 }
 
@@ -1198,20 +1208,25 @@ body {
     margin: 1rem 0;
   }
   
-  /* Tables should scroll horizontally */
-  .post-content table {
-    display: block;
+  .post-content {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    width: 100%;
   }
-  
+
+  /* Tables scroll horizontally on small screens without breaking layout */
+  .post-content table {
+    display: table;
+    width: 100%;
+    table-layout: auto;
+  }
+
   .post-content th,
   .post-content td {
-    padding: 0.4rem;
+    padding: 0.5rem 0.4rem;
     font-size: 0.85rem;
+    word-break: break-word;
   }
-  
+
   /* Blockquotes */
   .post-content blockquote {
     padding: 0.75rem 1rem;

@@ -583,9 +583,128 @@ hr {
   box-sizing: border-box;
 }
 
-/* Translation Widget Sidebar */
+/* Translation Widget */
 .translate-section {
   margin-top: 1rem;
+}
+
+.translate-heading {
+  margin-bottom: 0.75rem;
+}
+
+.translate-tabs {
+  display: flex;
+  gap: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.translate-tab {
+  flex: 1;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--morandi-border-medium);
+  border-radius: 6px;
+  background: var(--morandi-bg-primary);
+  color: var(--morandi-text-medium);
+  font-family: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.translate-tab:hover {
+  border-color: var(--morandi-border-dark);
+  background: var(--morandi-bg-hover);
+}
+
+.translate-tab.is-active {
+  background: var(--morandi-green, #B8C8B0);
+  border-color: var(--morandi-green-dark, #7A9078);
+  color: var(--morandi-text-dark);
+  font-weight: 600;
+}
+
+.translate-panel {
+  display: none;
+}
+
+.translate-panel.is-active {
+  display: block;
+}
+
+.cn-translate-label {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--morandi-text-medium);
+  margin-bottom: 0.35rem;
+}
+
+.cn-translate-select {
+  width: 100%;
+  padding: 0.45rem 0.5rem;
+  margin-bottom: 0.6rem;
+  border: 1px solid var(--morandi-border-medium);
+  border-radius: 6px;
+  background: var(--morandi-bg-primary);
+  color: var(--morandi-text-dark);
+  font-family: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.cn-translate-select:hover,
+.cn-translate-select:focus {
+  border-color: var(--morandi-border-dark);
+  outline: none;
+}
+
+.cn-translate-btn {
+  width: 100%;
+  margin-bottom: 0.45rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.85rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cn-translate-btn-secondary {
+  background: var(--morandi-beige);
+  border-color: var(--morandi-border-medium);
+  color: var(--morandi-text-dark);
+}
+
+.cn-translate-btn-secondary:hover {
+  background: var(--morandi-bg-hover);
+}
+
+.translate-hint {
+  margin: 0.5rem 0 0;
+  font-size: 0.75rem;
+  color: var(--morandi-text-medium, #7A8A75);
+  line-height: 1.45;
+}
+
+.header-translate {
+  margin-top: 0.75rem;
+  margin-left: auto;
+  width: 100%;
+  max-width: 260px;
+}
+
+.page-header-translate {
+  margin-top: 1rem;
+  max-width: 320px;
+}
+
+.translate-fallback {
+  margin: 0.5rem 0 0;
+  font-size: 0.8rem;
+  color: var(--morandi-text-medium, #7A8A75);
+  line-height: 1.4;
+}
+
+.post-header .header-content {
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .translate-section .goog-te-gadget {

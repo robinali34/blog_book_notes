@@ -1,0 +1,174 @@
+<script>
+(function() {
+  var STORAGE_KEY = 'blog_translate_tab';
+
+  function getPageLangCode() {
+    var lang = (document.documentElement.lang || 'en').toLowerCase();
+    if (lang.indexOf('zh') === 0) return 'zh';
+    if (lang.indexOf('ja') === 0) return 'jp';
+    if (lang.indexOf('ko') === 0) return 'kor';
+    return 'en';
+  }
+
+  function suggestChinaTab() {
+    try {
+      var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+      var navLang = (navigator.language || '').toLowerCase();
+      if (tz.indexOf('Asia/Shanghai') >= 0 || tz.indexOf('Asia/Chongqing') >= 0 || tz.indexOf('Asia/Urumqi') >= 0) {
+        return 'cn';
+      }
+      if (navLang === 'zh-cn' || navLang === 'zh') return 'cn';
+    } catch (e) { /* ignore */ }
+    return null;
+  }
+
+  function setActiveTab(tab) {
+    document.querySelectorAll('[data-translate-widget]').forEach(function(widget) {
+      widget.querySelectorAll('.translate-tab').forEach(function(btn) {
+        var isActive = btn.dataset.tab === tab;
+        btn.classList.toggle('is-active', isActive);
+        btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      });
+      widget.querySelectorAll('.translate-panel').forEach(function(panel) {
+        var isActive = panel.dataset.panel === tab;
+        panel.classList.toggle('is-active', isActive);
+        panel.hidden = !isActive;
+      });
+    });
+    try { localStorage.setItem(STORAGE_KEY, tab); } catch (e) { /* ignore */ }
+  }
+
+  function initTabs() {
+    document.querySelectorAll('[data-translate-widget] .translate-tab').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        setActiveTab(btn.dataset.tab);
+      });
+    });
+
+    var saved = null;
+    try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) { /* ignore */ }
+    var initial = saved || suggestChinaTab() || 'intl';
+    setActiveTab(initial);
+  }
+
+  function isLocalPreview() {
+    var host = window.location.hostname;
+    return host === 'localhost' || host === '127.0.0.1' || host === '0.0.0.0';
+  }
+
+  function getPublicPageUrl() {
+    return window.location.href;
+  }
+
+  function openChinaTranslate(provider) {
+    var toSelect = document.getElementById('cn-translate-to');
+    var toLang = toSelect ? toSelect.value : 'zh';
+    var fromLang = getPageLangCode();
+    if (toLang === fromLang) {
+      toLang = fromLang === 'zh' ? 'en' : 'zh';
+      if (toSelect) toSelect.value = toLang;
+    }
+
+    var pageUrl = encodeURIComponent(getPublicPageUrl());
+    var targetUrl;
+
+    if (provider === 'sogou') {
+      targetUrl = 'https://fanyi.sogou.com/text?keyword=' + pageUrl + '&transfrom=' + fromLang + '&transto=' + toLang;
+    } else {
+      targetUrl = 'https://fanyi.baidu.com/transpage?query=' + pageUrl + '&from=' + fromLang + '&to=' + toLang + '&source=url';
+    }
+
+    window.open(targetUrl, '_blank', 'noopener,noreferrer');
+  }
+
+  function initChinaButtons() {
+    document.querySelectorAll('.cn-translate-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        if (btn.dataset.action === 'copy-url') {
+          var url = getPublicPageUrl();
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(function() {
+              btn.textContent = '已复制链接';
+              window.setTimeout(function() { btn.textContent = '复制本页链接'; }, 2000);
+            });
+          } else {
+            window.prompt('复制此链接到百度翻译：', url);
+          }
+          return;
+        }
+        openChinaTranslate(btn.dataset.provider || 'baidu');
+      });
+    });
+
+    if (isLocalPreview()) {
+      document.querySelectorAll('.translate-hint-local').forEach(function(el) {
+        el.hidden = false;
+      });
+    }
+
+    var toSelect = document.getElementById('cn-translate-to');
+    if (toSelect) {
+      var pageLang = getPageLangCode();
+      toSelect.value = pageLang === 'zh' ? 'en' : 'zh';
+    }
+  }
+
+  window.googleTranslateElementInit = function() {
+    var mount = document.getElementById('google_translate_element');
+    if (!mount || mount.dataset.initialized === 'true') return;
+    if (!window.google || !window.google.translate) return;
+
+    mount.dataset.initialized = 'true';
+    var pageLang = getPageLangCode();
+
+    new google.translate.TranslateElement({
+      pageLanguage: pageLang,
+      includedLanguages: 'en,zh-CN,zh-TW,ja,ko,es,fr,de,pt,ru,ar,hi,vi,th,id,it,nl,pl,tr',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_element');
+  };
+
+  function loadGoogleTranslate() {
+    if (!document.getElementById('google_translate_element')) return;
+    if (document.querySelector('script[src*="translate.google.com"]')) return;
+
+    var script = document.createElement('script');
+    script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    script.async = true;
+    script.onerror = function() {
+      document.querySelectorAll('.translate-fallback').forEach(function(el) {
+        el.hidden = false;
+      });
+      setActiveTab('cn');
+    };
+
+    var timeout = window.setTimeout(function() {
+      var mount = document.getElementById('google_translate_element');
+      if (mount && mount.dataset.initialized !== 'true' && mount.childElementCount === 0) {
+        document.querySelectorAll('.translate-fallback').forEach(function(el) {
+          el.hidden = false;
+        });
+      }
+    }, 8000);
+
+    script.onload = function() {
+      window.clearTimeout(timeout);
+    };
+
+    document.body.appendChild(script);
+  }
+
+  function boot() {
+    initTabs();
+    initChinaButtons();
+    loadGoogleTranslate();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
+  }
+})();
+</script>

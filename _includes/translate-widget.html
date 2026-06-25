@@ -1,0 +1,43 @@
+<div class="translate-section" data-translate-widget>
+  <h3 class="sidebar-title translate-heading">翻译 / Translate</h3>
+
+  <div class="translate-tabs" role="tablist" aria-label="Translation provider">
+    <button type="button" class="translate-tab is-active" data-tab="intl" role="tab" aria-selected="true" aria-controls="translate-panel-intl">
+      海外 Google
+    </button>
+    <button type="button" class="translate-tab" data-tab="cn" role="tab" aria-selected="false" aria-controls="translate-panel-cn">
+      国内
+    </button>
+  </div>
+
+  <div id="translate-panel-intl" class="translate-panel is-active" data-panel="intl" role="tabpanel">
+    <div id="google_translate_element"></div>
+    <p class="translate-fallback" hidden>Google 翻译不可用（网络可能屏蔽）。请切换到「国内」标签。</p>
+  </div>
+
+  <div id="translate-panel-cn" class="translate-panel" data-panel="cn" role="tabpanel" hidden>
+    <label class="cn-translate-label" for="cn-translate-to">译为</label>
+    <select id="cn-translate-to" class="cn-translate-select">
+      <option value="zh">中文</option>
+      <option value="en">English</option>
+      <option value="jp">日本語</option>
+      <option value="kor">한국어</option>
+      <option value="fra">Français</option>
+      <option value="de">Deutsch</option>
+      <option value="spa">Español</option>
+    </select>
+
+    <button type="button" class="btn cn-translate-btn" data-provider="baidu">
+      百度翻译此页
+    </button>
+    <button type="button" class="btn cn-translate-btn cn-translate-btn-secondary" data-provider="sogou">
+      搜狗翻译此页
+    </button>
+    <button type="button" class="btn cn-translate-btn cn-translate-btn-secondary" data-action="copy-url">
+      复制本页链接
+    </button>
+
+    <p class="translate-hint">国内网络可用 · 在新标签打开整页译文</p>
+    <p class="translate-hint translate-hint-local" hidden>本地预览（localhost）需部署到公网后，百度/搜狗才能翻译整页。</p>
+  </div>
+</div>

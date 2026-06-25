@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-label="资治通鉴十大主题地图">
+  <rect width="900" height="300" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">十大主题地图</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">礼崩 · 变法 · 一统 · 开国 · 中兴 · 党争 · 谋断 · 藩镇 · 改革 · 五代</text>
+  <circle cx="450" cy="165" r="88" fill="none" stroke="#9CB098" stroke-width="2" stroke-dasharray="8 5"/>
+  <rect x="390" y="68" width="120" height="44" rx="8" fill="#7A9078"/>
+  <text x="450" y="96" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#F5F7F3" font-weight="bold">礼崩序乱</text>
+  <rect x="580" y="128" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="640" y="156" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">变法图强</text>
+  <rect x="580" y="198" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="640" y="226" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">开国守成</text>
+  <rect x="200" y="198" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="260" y="226" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">君臣纳谏</text>
+  <rect x="200" y="128" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="260" y="156" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">谋断人心</text>
+  <rect x="390" y="218" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="450" y="246" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">兴衰周期</text>
+  <text x="450" y="285" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">每主题配典型史案 · 读因果不读热闹</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 200" role="img" aria-label="韩非子寓言与史案">
+  <rect width="920" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="460" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">寓言与史案（精选）</text>
+  <rect x="30" y="55" width="125" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="92" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">守株待兔</text>
+  <text x="92" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">守旧不化</text>
+  <rect x="170" y="55" width="125" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="232" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">郑人买履</text>
+  <text x="232" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">教条主义</text>
+  <rect x="310" y="55" width="125" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="372" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">自相矛盾</text>
+  <text x="372" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">言行一致</text>
+  <rect x="450" y="55" width="125" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="512" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">滥竽充数</text>
+  <text x="512" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">考核失效</text>
+  <rect x="590" y="55" width="125" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="652" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">商鞅徙木</text>
+  <text x="652" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">信赏必罚</text>
+  <rect x="730" y="55" width="160" height="50" rx="6" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="810" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">指鹿为马</text>
+  <text x="810" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">法败之鉴</text>
+  <rect x="120" y="125" width="160" height="50" rx="6" fill="#DDE6D8" stroke="#9CB098"/>
+  <text x="200" y="148" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">韩非说难</text>
+  <text x="200" y="165" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">进言之道</text>
+  <rect x="300" y="125" width="160" height="50" rx="6" fill="#DDE6D8" stroke="#9CB098"/>
+  <text x="380" y="148" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">始皇重韩书</text>
+  <text x="380" y="165" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">法家实践</text>
+  <rect x="480" y="125" width="160" height="50" rx="6" fill="#DDE6D8" stroke="#9CB098"/>
+  <text x="560" y="148" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">李斯害韩非</text>
+  <text x="560" y="165" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">术之反噬</text>
+  <rect x="660" y="125" width="160" height="50" rx="6" fill="#DDE6D8" stroke="#9CB098"/>
+  <text x="740" y="148" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">八奸</text>
+  <text x="740" y="165" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">组织风控</text>
+  <text x="460" y="192" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">寓言见理 · 史案见术 · 合读方知法家边界</text>
+</svg>

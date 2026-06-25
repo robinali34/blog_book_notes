@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="修省篇示意">
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">修省篇 · 向内打磨</text>
+  <circle cx="400" cy="115" r="55" fill="none" stroke="#9CB098" stroke-width="2"/>
+  <text x="400" y="108" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">慎独</text>
+  <text x="400" y="128" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">念头初起</text>
+  <rect x="120" y="85" width="100" height="60" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="170" y="112" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">宠辱不惊</text>
+  <rect x="580" y="85" width="100" height="60" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="630" y="112" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">半九十</text>
+  <text x="400" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">先治己，后论人 · 独处是修行主战场</text>
+</svg>
+cat > /home/robina/rli/blog_book_notes/assets/images/caigentan/03-pingyi.svg << 'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="评议篇示意">
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">评议篇 · 观人论事</text>
+  <rect x="150" y="75" width="140" height="70" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="220" y="105" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">义利之辨</text>
+  <text x="220" y="125" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">识人第一关</text>
+  <rect x="330" y="75" width="140" height="70" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="400" y="105" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">降自心</text>
+  <text x="400" y="125" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">偏见先伏</text>
+  <rect x="510" y="75" width="140" height="70" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="580" y="105" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">好丑勿尽</text>
+  <text x="580" y="125" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">水至清无鱼</text>
+  <text x="400" y="175" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">评议非八卦 · 在世事中保持清醒判断</text>
+</svg>
+cat > /home/robina/rli/blog_book_notes/assets/images/caigentan/caigentan-scenarios.svg << 'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" role="img" aria-label="菜根谭场景应用">
+  <rect width="920" height="220" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="460" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">场景应用地图</text>
+  <rect x="40" y="55" width="130" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="105" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">职场</text>
+  <text x="105" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">应酬·评议</text>
+  <rect x="185" y="55" width="130" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="250" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">情绪</text>
+  <text x="250" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">修省·闲适</text>
+  <rect x="330" y="55" width="130" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="395" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">领导</text>
+  <text x="395" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">概论·鹰虎</text>
+  <rect x="475" y="55" width="130" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="540" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">合伙</text>
+  <text x="540" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">评议·义利</text>
+  <rect x="620" y="55" width="130" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="685" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">线上</text>
+  <text x="685" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">修省·表演</text>
+  <rect x="765" y="55" width="115" height="50" rx="6" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="822" y="78" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B" font-weight="bold">家庭</text>
+  <text x="822" y="95" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">让三分</text>
+  <rect x="120" y="130" width="720" height="50" rx="6" fill="#DDE6D8" stroke="#9CB098"/>
+  <text x="480" y="160" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">读法：先选场景 → 对五编 → 取一条格言 → 当日践行 → 周复盘</text>
+  <text x="460" y="205" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">外攻鬼谷子 · 内守菜根谭 · 制度韩非 · 明心阳明</text>
+</svg>

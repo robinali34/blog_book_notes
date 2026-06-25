@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="~d:þ">
+  <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">~d - iDËiD</text>
+  <g transform="translate(220,55)">
+    <rect width="24" height="8" fill="#2F3D2B"/><rect y="16" width="24" height="8" fill="#2F3D2B"/><rect y="32" width="24" height="8" fill="#2F3D2B"/>
+    <rect y="48" width="24" height="8" fill="#2F3D2B"/><rect y="64" width="24" height="8" fill="#2F3D2B"/><rect y="80" width="24" height="8" fill="#2F3D2B"/>
+    <text x="12" y="110" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">~</text>
+  </g>
+  <g transform="translate(520,55)">
+    <rect width="24" height="8" fill="#2F3D2B"/><rect y="16" width="12" height="8" fill="#2F3D2B"/><rect x="16" y="16" width="8" height="8" fill="#2F3D2B"/>
+    <rect y="32" width="24" height="8" fill="#2F3D2B"/><rect y="48" width="12" height="8" fill="#2F3D2B"/><rect x="16" y="48" width="8" height="8" fill="#2F3D2B"/>
+    <rect y="64" width="24" height="8" fill="#2F3D2B"/><text x="12" y="110" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">d</text>
+  </g>
+  <text x="280" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">eLe</text>
+  <text x="532" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">zz</text>
+</svg>

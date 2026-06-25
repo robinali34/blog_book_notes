@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" role="img" aria-label="荀子思想总览">
+  <rect width="900" height="340" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">荀子 · 隆礼重法</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">化性起伪 · 劝学修身 · 名实礼法</text>
+  <rect x="350" y="80" width="200" height="56" rx="8" fill="#7A9078" stroke="#5A6A58"/>
+  <text x="450" y="115" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="15" fill="#F5F7F3" font-weight="bold">化性起伪</text>
+  <line x1="450" y1="136" x2="450" y2="158" stroke="#9CB098" stroke-width="2"/>
+  <line x1="120" y1="158" x2="780" y2="158" stroke="#9CB098" stroke-width="2"/>
+  <line x1="120" y1="158" x2="120" y2="178" stroke="#9CB098" stroke-width="2"/>
+  <line x1="300" y1="158" x2="300" y2="178" stroke="#9CB098" stroke-width="2"/>
+  <line x1="480" y1="158" x2="480" y2="178" stroke="#9CB098" stroke-width="2"/>
+  <line x1="660" y1="158" x2="660" y2="178" stroke="#9CB098" stroke-width="2"/>
+  <rect x="40" y="178" width="160" height="90" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="120" y="212" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">劝学</text>
+  <text x="120" y="235" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">积学累德 · 青出于蓝</text>
+  <rect x="220" y="178" width="160" height="90" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="300" y="212" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">性恶</text>
+  <text x="300" y="235" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">伪善须礼法教化</text>
+  <rect x="400" y="178" width="160" height="90" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="480" y="212" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">礼论</text>
+  <text x="480" y="235" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">分君臣 · 定名分</text>
+  <rect x="580" y="178" width="160" height="90" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="660" y="212" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#2F3D2B" font-weight="bold">王制</text>
+  <text x="660" y="235" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">隆礼重法 · 强国</text>
+  <text x="450" y="310" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">儒法之间：以礼化性，以法辅礼</text>
+</svg>
+cat > /home/robina/rli/blog_book_notes/assets/images/shangjunshu/shangjunshu-overview.svg << 'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-label="商君书变法总纲">
+  <rect width="900" height="320" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">商君书 · 变法图强</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">更法 · 垦令 · 赏刑 · 弱民 · 壹教</text>
+  <rect x="350" y="85" width="200" height="48" rx="8" fill="#7A9078"/>
+  <text x="450" y="115" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="15" fill="#F5F7F3" font-weight="bold">富国强国</text>
+  <line x1="150" y1="155" x2="750" y2="155" stroke="#9CB098" stroke-width="2"/>
+  <rect x="60" y="170" width="140" height="70" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="130" y="198" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">废井田</text>
+  <text x="130" y="218" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">开阡陌</text>
+  <rect x="220" y="170" width="140" height="70" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="290" y="198" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">重农战</text>
+  <text x="290" y="218" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">抑商贾</text>
+  <rect x="380" y="170" width="140" height="70" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="450" y="198" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">信赏必罚</text>
+  <text x="450" y="218" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">徙木立信</text>
+  <rect x="540" y="170" width="140" height="70" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="610" y="198" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">连坐</text>
+  <text x="610" y="218" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">什伍制</text>
+  <rect x="700" y="170" width="140" height="70" rx="6" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="770" y="198" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#2F3D2B" font-weight="bold">壹教</text>
+  <text x="770" y="218" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="9" fill="#4A5A45">法令一统</text>
+  <text x="450" y="285" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">变法有代价 · 强国亦积怨 · 宜与通鉴合读</text>
+</svg>
+cat > /home/robina/rli/blog_book_notes/assets/images/yangming/yangming-overview.svg << 'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" role="img" aria-label="阳明心学总纲">
+  <rect width="900" height="340" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">阳明心学 · 知行合一</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">心即理 · 致良知 · 事上磨练</text>
+  <circle cx="450" cy="175" r="95" fill="none" stroke="#9CB098" stroke-width="2" stroke-dasharray="8 5"/>
+  <rect x="390" y="72" width="120" height="44" rx="8" fill="#7A9078"/>
+  <text x="450" y="100" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#F5F7F3" font-weight="bold">心即理</text>
+  <rect x="580" y="138" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="640" y="166" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">致良知</text>
+  <rect x="580" y="208" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="640" y="236" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">知行合一</text>
+  <rect x="200" y="208" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="260" y="236" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">事上磨练</text>
+  <rect x="200" y="138" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
+  <text x="260" y="166" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">龙场悟道</text>
+  <text x="450" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#4A5A45" font-weight="bold">四句教</text>
+  <text x="450" y="310" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">知是行之始 · 行是知之成 · 破心中贼</text>
+</svg>

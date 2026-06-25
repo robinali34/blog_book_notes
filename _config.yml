@@ -1,6 +1,7 @@
 # Site settings
 title: "Robina Li"
 description: "Book Reading Notes — reflections, summaries, and takeaways from books I'm reading"
+lang: en
 baseurl: "/blog_book_notes"
 url: "https://robinali34.github.io"
 

@@ -96,7 +96,7 @@
   function showTranslateUrlHint(url) {
     document.querySelectorAll('.translate-hint-url').forEach(function(el) {
       el.hidden = false;
-      el.textContent = '翻译地址：' + url;
+      el.textContent = 'Translation URL: ' + url;
     });
   }
 
@@ -119,7 +119,7 @@
     showTranslateUrlHint(publicUrl);
 
     if (publicUrl.indexOf('localhost') >= 0 || publicUrl.indexOf('127.0.0.1') >= 0) {
-      window.alert('百度翻译无法访问本地地址。请使用「复制本页链接」或部署到 GitHub Pages 后再试。\n\n公网地址应为：\n' + publicUrl);
+      window.alert('Baidu Translate cannot access localhost. Use Copy page link or deploy to GitHub Pages first.\n\nPublic URL:\n' + publicUrl);
       return;
     }
 
@@ -143,11 +143,11 @@
           showTranslateUrlHint(url);
           if (navigator.clipboard && navigator.clipboard.writeText) {
             navigator.clipboard.writeText(url).then(function() {
-              btn.textContent = '已复制链接';
-              window.setTimeout(function() { btn.textContent = '复制本页链接'; }, 2000);
+              btn.textContent = 'Link copied';
+              window.setTimeout(function() { btn.textContent = 'Copy page link'; }, 2000);
             });
           } else {
-            window.prompt('复制此链接到百度翻译：', url);
+            window.prompt('Copy this link for Baidu Translate:', url);
           }
           return;
         }

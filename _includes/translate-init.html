@@ -2,12 +2,22 @@
 (function() {
   var STORAGE_KEY = 'blog_translate_tab';
 
-  function getPageLangCode() {
+  function getBaiduLangCode() {
     var lang = (document.documentElement.lang || 'en').toLowerCase();
     if (lang.indexOf('zh') === 0) return 'zh';
     if (lang.indexOf('ja') === 0) return 'jp';
     if (lang.indexOf('ko') === 0) return 'kor';
     return 'en';
+  }
+
+  /* Google Translate uses BCP-47 codes (zh-CN, ja, ko) — not Baidu codes */
+  function getGooglePageLanguage() {
+    var lang = (document.documentElement.lang || 'en').trim().toLowerCase();
+    if (lang === 'zh-cn' || lang === 'zh') return 'zh-CN';
+    if (lang === 'zh-tw' || lang === 'zh-hk') return 'zh-TW';
+    if (lang.indexOf('ja') === 0) return 'ja';
+    if (lang.indexOf('ko') === 0) return 'ko';
+    return lang.split('-')[0] || 'en';
   }
 
   function suggestChinaTab() {
@@ -63,7 +73,7 @@
   function openChinaTranslate(provider) {
     var toSelect = document.getElementById('cn-translate-to');
     var toLang = toSelect ? toSelect.value : 'zh';
-    var fromLang = getPageLangCode();
+    var fromLang = getBaiduLangCode();
     if (toLang === fromLang) {
       toLang = fromLang === 'zh' ? 'en' : 'zh';
       if (toSelect) toSelect.value = toLang;
@@ -108,7 +118,7 @@
 
     var toSelect = document.getElementById('cn-translate-to');
     if (toSelect) {
-      var pageLang = getPageLangCode();
+      var pageLang = getBaiduLangCode();
       toSelect.value = pageLang === 'zh' ? 'en' : 'zh';
     }
   }
@@ -119,11 +129,11 @@
     if (!window.google || !window.google.translate) return;
 
     mount.dataset.initialized = 'true';
-    var pageLang = getPageLangCode();
 
     new google.translate.TranslateElement({
-      pageLanguage: pageLang,
-      includedLanguages: 'en,zh-CN,zh-TW,ja,ko,es,fr,de,pt,ru,ar,hi,vi,th,id,it,nl,pl,tr',
+      pageLanguage: getGooglePageLanguage(),
+      includedLanguages: 'en,zh-CN,zh-TW,ja,ko,es,fr,de,pt,ru,ar,vi,th,id,it,nl,pl,tr',
+      multilanguagePage: true,
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
     }, 'google_translate_element');

@@ -163,10 +163,10 @@ def meanings_block(card: dict, *, include_desc: bool = False) -> str:
     up = esc(card["meaning_up_zh"]).replace("\n", " ")
     rev = esc(card["meaning_rev_zh"]).replace("\n", " ")
     lines = [
-        '<div class="tarot-meanings-compact">',
-        f'<div class="tarot-meaning-upright"><span class="tarot-meaning-label">正位</span>{up}</div>',
-        f'<div class="tarot-meaning-reversed"><span class="tarot-meaning-label">逆位</span>{rev}</div>',
-        "</div>",
+        '<table class="tarot-meanings-table">',
+        "<thead><tr><th scope=\"col\">正位</th><th scope=\"col\">逆位</th></tr></thead>",
+        f"<tbody><tr><td>{up}</td><td>{rev}</td></tr></tbody>",
+        "</table>",
     ]
     desc = card.get("desc_zh") or ""
     if include_desc and desc.strip():

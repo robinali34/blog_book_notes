@@ -520,7 +520,53 @@ hr {
   line-height: 1.3;
 }
 
-/* Compact upright / reversed meanings beside tarot cards */
+/* Tarot upright / reversed meanings — two-column table */
+.post-content table.tarot-meanings-table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.post-content table.tarot-meanings-table thead th {
+  width: 50%;
+  padding: 0.45rem 0.55rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--morandi-gray-dark, #5A6A58);
+  background: var(--morandi-beige, #E8EDE5);
+  border: 1px solid var(--morandi-border-light, #E0E6DC);
+}
+
+.post-content table.tarot-meanings-table thead th:first-child {
+  border-left: 3px solid #7A9078;
+}
+
+.post-content table.tarot-meanings-table thead th:last-child {
+  border-left: 3px solid #A89080;
+}
+
+.post-content table.tarot-meanings-table tbody td {
+  vertical-align: top;
+  padding: 0.45rem 0.55rem;
+  background: var(--morandi-bg-light, #F5F7F3);
+  border: 1px solid var(--morandi-border-light, #E0E6DC);
+  word-break: break-word;
+}
+
+.post-content table.tarot-meanings-table tbody tr td:first-child {
+  border-left: 3px solid #7A9078;
+}
+
+.post-content table.tarot-meanings-table tbody tr td:last-child {
+  border-left: 3px solid #A89080;
+}
+
+/* Legacy div layout (if any remain) */
 .post-content .tarot-meanings-compact {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -1414,6 +1460,18 @@ body {
   .post-content figure.diagram-figure.tarot-card-figure img {
     width: 100px;
     max-width: 100px;
+  }
+
+  .post-content table.tarot-meanings-table {
+    display: table;
+    width: 100%;
+    table-layout: auto;
+    font-size: 0.85rem;
+  }
+
+  .post-content table.tarot-meanings-table thead th,
+  .post-content table.tarot-meanings-table tbody td {
+    padding: 0.4rem 0.45rem;
   }
 
   .post-content .tarot-meanings-compact {

@@ -1,19 +1,37 @@
 ---
 layout: post
-title: "传习录 — 诚意、省察与言行边界"
+title: "传习录（导读）— 诚意、省察与言行边界"
 date: 2026-06-17 11:00:00 -0000
 categories: philosophy chinese-classics psychology
 lang: zh-CN
-tags: [传习录, 王阳明, 心学, 边界, 沟通, 诚意]
+tags: [传习录, 王阳明, 心学, 边界, 沟通, 诚意, 传习录系列]
 ---
 
-**《传习录》**  
+**《传习录》系列 · 导读篇**  
 王守仁（王阳明）及弟子辑录 · 心学语录体经典 · 核心：**内求良知，外显诚意 — 沟通的边界在心，不在术 alone**
+
+> **系列结构**：本篇为**边界栈校心导读**（诚意、省察、知行、事上磨练）；**传习录三卷原文**（254 条）见下列 8 卷。
+
+## 系列导航
+
+| 卷 | 条次 | 篇目 |
+|----|------|------|
+| **导读** | — | **诚意、省察与言行边界** ← 本篇 |
+| 1 | 1–34 | [原文 1–34（徐爱录至格物问答）]({{ '/2026/08/29/chuanxilu-001-034.html' | relative_url }}) |
+| 2 | 35–76 | [原文 35–76（上卷问答续）]({{ '/2026/08/30/chuanxilu-035-076.html' | relative_url }}) |
+| 3 | 77–111 | [原文 77–111（上卷末至中卷开篇）]({{ '/2026/08/31/chuanxilu-077-111.html' | relative_url }}) |
+| 4 | 112–128 | [原文 112–128（答罗整庵等书信）]({{ '/2026/09/01/chuanxilu-112-128.html' | relative_url }}) |
+| 5 | 129–139 | [原文 129–139（答聂文蔚等书信）]({{ '/2026/09/02/chuanxilu-129-139.html' | relative_url }}) |
+| 6 | 140–190 | [原文 140–190（中卷末至下卷初）]({{ '/2026/09/03/chuanxilu-140-190.html' | relative_url }}) |
+| 7 | 191–230 | [原文 191–230（九川诸友问答）]({{ '/2026/09/04/chuanxilu-191-230.html' | relative_url }}) |
+| 8 | 231–254 | [原文 231–254（下卷末语录）]({{ '/2026/09/05/chuanxilu-231-254.html' | relative_url }}) |
+
+_经部原文录自 [维基文库](https://zh.wikisource.org/wiki/傳習錄)《传习录》上、中、下三卷（转简体，254 条辑录）。纲领《大学问》见 [阳明心学系列]({{ '/2026/09/06/yangming-daxuewen.html' | relative_url }})。导读篇评注与边界栈应用见下文。_
 
 > 诚者，言之所以为言，行之所以为行也。  
 > 无诚意而言，是欺人也；无诚意而默，是欺己也。
 
-**与专题关系**：本系列以现代心理学建边界；本篇为**经典校心层**，与 [阳明心学总论]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) 并读——总论讲体系，本篇侧重**人际诚意与沟通边界**；宜在边界栈**最后一本**读，作「正其心」收束。
+**与专题关系**：本系列以现代心理学建边界；本篇为**经典校心层**，与 [阳明心学（导读）]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) 并读——总论讲体系，本篇侧重**人际诚意与沟通边界**；宜在边界栈**最后一本**读，作「正其心」收束。
 
 读传习录，宜记三问：**今日之言是否诚意？知与行是否脱节？动心处是事还是我执？**
 
@@ -543,7 +561,7 @@ tags: [传习录, 王阳明, 心学, 边界, 沟通, 诚意]
 
 ## 关联阅读
 
-- 《传习录》— 陈荣捷《王阳明传习录详注集评》；《大学问》；《王阳明全集》  
+- [《传习录》原文 1–254 — 本站笔记]({{ '/2026/08/29/chuanxilu-001-034.html' | relative_url }})；[《大学问》]({{ '/2026/09/06/yangming-daxuewen.html' | relative_url }})  
 - [阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) · [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) · [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) · [荀子]({{ '/2026/06/18/xunzi.html' | relative_url }})  
 - 边界栈：[被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) · [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) · [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) · [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) · [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) · [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) · [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) · [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})  
 - 《孟子》· 《曾国藩家书》· [认知神经科学]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }})  

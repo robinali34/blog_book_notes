@@ -636,6 +636,7 @@ Continue（继续做）：
 - [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})，情绪调节与人际技能练习  
 - [管理的本质 — 本站笔记]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }})，主动交换利益与 1:1 对齐  
 - [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})，多棱镜分析框架  
+- [个人成长实践路径 — 本站笔记]({{ '/2026/06/25/personal-growth-practice-plan/' | relative_url }})，6 个月健康·自我·情商执行模板  
 - [不懂拒绝 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})，边界与周复盘联用  
 - [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})，关系复盘用语  
 - [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})，复盘过载与恢复  

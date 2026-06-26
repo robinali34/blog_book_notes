@@ -99,6 +99,7 @@ Book notes on this site, grouped by topic. **Start with the overview (导读)** 
 
 | Note | Source | About |
 |------|--------|-------|
+| [个人成长实践路径 — 健康、自我理解与情商]({{ site.baseurl }}/2026/06/25/personal-growth-practice-plan/) | Practice template | 6-month plan: body, mind, relate; people log & HSP-friendly networking |
 | [四镜头分析]({{ site.baseurl }}/2026/05/25/four-lenses-knowing-choosing/) | Personal framework | Tarot · Guiguzi · Yangming · Caigentan |
 | [有效复盘]({{ site.baseurl }}/2026/05/24/effective-retrospective/) | Practice notes | Timeline templates and use cases |
 | [管理的本质]({{ site.baseurl }}/2026/06/02/management-essence-interest-exchange/) | 《管理的本质》 | Interest exchange and sustainable management |
@@ -109,6 +110,7 @@ Book notes on this site, grouped by topic. **Start with the overview (导读)** 
 
 | Note | Deck / source | About |
 |------|---------------|-------|
+| [塔罗日课 — 每日一牌日志]({{ site.baseurl }}/tarot-daily/) | Rider-Waite 1909 | 活页总表 + 晨间/晚间记录与分析 |
 | [塔罗牌 — 新手入门]({{ site.baseurl }}/2026/04/30/tarot-getting-started/) | Rider-Waite 1909 | 7-day bonding and learning path |
 | [Rider-Waite 1909 全牌解析]({{ site.baseurl }}/2026/04/28/rider-waite-1909-waite-tarot/) | Waite / Colman Smith | All 78 cards and spreads |
 | [新牌磨合与多副牌协作]({{ site.baseurl }}/2026/05/16/tarot-new-deck-bonding/) | Personal practice | 21-day deepening workflow |

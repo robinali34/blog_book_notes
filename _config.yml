@@ -55,6 +55,7 @@ exclude:
 header_pages:
   - about.md
   - reading-list.md
+  - tarot-daily.md
 
 # Social links
 github_username: robinali34

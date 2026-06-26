@@ -1,14 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="��:�">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="概论">
   <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
-  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">�� - �9�s</text>
-  <rect x="160" y="70" width="140" height="90" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
-  <rect x="330" y="70" width="140" height="90" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
-  <rect x="500" y="70" width="140" height="90" rx="8" fill="#E8EDE5" stroke="#9CB098"/>
-  <text x="230" y="110" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold"></text>
-  <text x="230" y="132" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">�I</text>
-  <text x="400" y="110" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">S</text>
-  <text x="400" y="132" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">��</text>
-  <text x="570" y="110" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">�</text>
-  <text x="570" y="132" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="10" fill="#4A5A45">�</text>
-  <text x="400" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">Ss��� � ��߸A</text>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">概论</text>
+  <rect x="280" y="55" width="240" height="120" rx="4" fill="#E8EDE5" stroke="#9CB098" stroke-width="2"/>
+  <path d="M400 55 L400 175" stroke="#7A8A75" stroke-width="2"/>
+  <rect x="290" y="55" width="100" height="120" rx="4" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="340" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#2F3D2B" font-weight="bold">儒</text>
+  <text x="340" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#4A5A45">融通三家</text>
+  <rect x="410" y="55" width="100" height="120" rx="4" fill="#7A9078" opacity="0.9"/>
+  <text x="460" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#F5F7F3" font-weight="bold">释道</text>
+  <text x="460" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#E8EDE5">淡泊真味</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#7A8A75">菜根滋味</text>
 </svg>

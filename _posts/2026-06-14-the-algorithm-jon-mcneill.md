@@ -32,10 +32,10 @@ Three questions to carry while reading: **Who set this requirement and why is it
 | 4 | **Power dependency** | L1 executive delete authority is architectural; middle management without it becomes theater |
 | 5 | **Reading stance** | OS manual, not leadership fluff; does not teach copying Musk’s personality |
 | 6 | **Modern mapping** | Approval chains, meeting bloat, feature creep, stage gates, page counts, org layering |
-| 7 | **Boundaries series** | Deleting process ≠ deleting interpersonal boundaries; see [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) and [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) |
-| 8 | **Retrospectives** | Weekly rhythm needs [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) or complexity grows back |
-| 9 | **Classics** | [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}) on speed and position; [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) on institutional power; [Caigentan]({{ '/2026/06/03/caigentan.html' | relative_url }}) on cutting performative busyness |
-| 10 | **Emotion skills** | High-pressure deletion triggers defense; stabilize with [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) before hard delete conversations |
+| 7 | **Boundaries series** | Deleting process ≠ deleting interpersonal boundaries; see [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) and [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) |
+| 8 | **Retrospectives** | Weekly rhythm needs [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) or complexity grows back |
+| 9 | **Classics** | [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}) on speed and position; [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) on institutional power; [Caigentan]({{ '/2026/06/03/caigentan/' | relative_url }}) on cutting performative busyness |
+| 10 | **Emotion skills** | High-pressure deletion triggers defense; stabilize with [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) before hard delete conversations |
 
 ---
 
@@ -128,7 +128,7 @@ McNeill’s architectural point: **you cannot pipe lean straight into a hypergro
 
 **Out of scope:** Personal life (McNeill’s kitchen optimization experiment was vetoed at home), copying Musk’s leadership persona, mental-health support (McNeill learned this in 2017 the hard way).
 
-**Critical dependency:** L1 must hold. Without top-down delete authority, L3 teams get rolled back by middle layers protecting headcount and turf—architecture collapses into theater. Same shape as [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) on power: without **shi** (势), rules spin idle.
+**Critical dependency:** L1 must hold. Without top-down delete authority, L3 teams get rolled back by middle layers protecting headcount and turf—architecture collapses into theater. Same shape as [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) on power: without **shi** (势), rules spin idle.
 
 ### Deletion as the kernel
 
@@ -157,7 +157,7 @@ This is where lean and the Algorithm diverge most: lean asks *how do we improve 
 
 - **Zombie requirements:** No owner, nobody dares delete, everyone complies.
 - **Emotion disguised as process:** Compliance anxiety, tradition, fear of blame—not real requirements.
-- Cross-read [Caigentan]({{ '/2026/06/03/caigentan.html' | relative_url }}) “lower the self”: before questioning others, ask—is this my fear or real necessity?
+- Cross-read [Caigentan]({{ '/2026/06/03/caigentan/' | relative_url }}) “lower the self”: before questioning others, ask—is this my fear or real necessity?
 
 #### Practical filters
 
@@ -206,8 +206,8 @@ McNeill: **you cannot optimize your way out of unnecessary complexity**; dashboa
 #### Context
 
 - Organizational immune system: deleting process threatens headcount and power; needs L1 cover.
-- [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}) on speed: delete for velocity dividend, not deletion for its own sake.
-- Boundaries: delete **process steps**, not interpersonal limits in [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}).
+- [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}) on speed: delete for velocity dividend, not deletion for its own sake.
+- Boundaries: delete **process steps**, not interpersonal limits in [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}).
 
 #### Usage by scenario
 
@@ -244,7 +244,7 @@ Teams that shout “speed up” before cutting waste weld waste in place. Simpli
 #### Context
 
 - A 40-page loan contract cannot be “optimized” into a good experience—you delete to essence (Tesla’s one-page loan is that logic).
-- [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}): simplify to reduce decision variables, then choose.
+- [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}): simplify to reduce decision variables, then choose.
 
 #### Usage by scenario
 
@@ -281,8 +281,8 @@ McNeill ties this to **compounding learning**: each week shaved off development 
 #### Context
 
 - Accelerate only after the process deserves to exist (steps 1–3 done).
-- Pair with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}): short cycles + weekly retro = learning flywheel.
-- [Caigentan]({{ '/2026/06/03/caigentan.html' | relative_url }}) on “years are long, the hurried shorten them”: separate **busy work** (delete with Algorithm) from **anxious hurry** (inner work / DBT).
+- Pair with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}): short cycles + weekly retro = learning flywheel.
+- [Caigentan]({{ '/2026/06/03/caigentan/' | relative_url }}) on “years are long, the hurried shorten them”: separate **busy work** (delete with Algorithm) from **anxious hurry** (inner work / DBT).
 
 #### Acceleration levers
 
@@ -316,7 +316,7 @@ Automation is a multiplier: bad process → scaled bad output; clean process →
 #### Context
 
 - Unlike lean automation: the Algorithm stresses **sequence**; automation is step 5, not step 2.
-- [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}): tools must serve validated method; technique without law breeds chaos.
+- [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}): tools must serve validated method; technique without law breeds chaos.
 
 #### Pre-automation checklist
 
@@ -451,7 +451,7 @@ A unicorn kept a quarterly “release train” with 23 checklist items. Pilot te
 
 ## Weekly cadence templates
 
-The Algorithm is not a book report—it is an **OS you rerun weekly**. Pair with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) KPT / three-line journal.
+The Algorithm is not a book report—it is an **OS you rerun weekly**. Pair with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) KPT / three-line journal.
 
 ### Standard team loop
 
@@ -531,24 +531,24 @@ Needs L1 backing: Y/N
 
 | Note | Focus | Relation to Algorithm |
 |------|-------|------------------------|
-| [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}) | Speed, position | Deleting complexity = making opponent “empty”; cycle compression = 兵贵速 |
-| [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) | Law, method, power | L1 **shi** enables deletes; without it, process rebounds |
-| [Caigentan]({{ '/2026/06/03/caigentan.html' | relative_url }}) | Inner composure | Busy work → Algorithm; anxious hurry → inner cultivation |
-| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) | Sustainable exchange | Delete process, not fair exchange |
-| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | After-action correction | Weekly Algorithm needs weekly retro closure |
-| [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | Multi-lens decisions | Fewer variables after simplification |
-| [DBT Skills]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | Emotional/interpersonal stability | Stabilize before delete fights; DEAR MAN to propose cuts |
+| [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}) | Speed, position | Deleting complexity = making opponent “empty”; cycle compression = 兵贵速 |
+| [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) | Law, method, power | L1 **shi** enables deletes; without it, process rebounds |
+| [Caigentan]({{ '/2026/06/03/caigentan/' | relative_url }}) | Inner composure | Busy work → Algorithm; anxious hurry → inner cultivation |
+| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) | Sustainable exchange | Delete process, not fair exchange |
+| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | After-action correction | Weekly Algorithm needs weekly retro closure |
+| [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | Multi-lens decisions | Fewer variables after simplification |
+| [DBT Skills]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | Emotional/interpersonal stability | Stabilize before delete fights; DEAR MAN to propose cuts |
 
 **Boundaries series** (delete **process**, not **interpersonal limits**):
 
 | Note | Layer | With Algorithm |
 |------|-------|----------------|
-| [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | Overview | Task separation: don’t avoid deletes from fear of others’ turf |
-| [Counselling for Toads]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | States | Adult state before proposing deletes |
-| [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | Skill | Say no to unjustified process load |
-| [Nonviolent Communication]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | Expression | Observation–request language for cut proposals |
-| [Highly Sensitive Person]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | Temperament | Recovery boundaries during noisy change |
-| [Intimate Relationships]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | Intimacy | Don’t Algorithm-optimize your spouse (kitchen lesson) |
+| [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | Overview | Task separation: don’t avoid deletes from fear of others’ turf |
+| [Counselling for Toads]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | States | Adult state before proposing deletes |
+| [Art of Saying No]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | Skill | Say no to unjustified process load |
+| [Nonviolent Communication]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | Expression | Observation–request language for cut proposals |
+| [Highly Sensitive Person]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | Temperament | Recovery boundaries during noisy change |
+| [Intimate Relationships]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | Intimacy | Don’t Algorithm-optimize your spouse (kitchen lesson) |
 
 **One chain:** Sunzi on **position** → Algorithm deletes **bloat** → Hanfeizi on **power** → Retro tests **action** → Caigentan/DBT tend the **person**.
 
@@ -557,7 +557,7 @@ Needs L1 backing: Y/N
 ## Reading boundaries
 
 1. **Not a universal drug** — Stable mature businesses may fit lean better; don’t fake crises to justify cuts  
-2. **Not a humanity replacement** — McNeill 2017: speed and deletion need psychological support; see [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
+2. **Not a humanity replacement** — McNeill 2017: speed and deletion need psychological support; see [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
 3. **Not culture replacement** — “Special forces” culture exits some people; hire and compensate honestly  
 4. **Not default for personal life** — Kitchen, marriage, parenting: don’t mechanically optimize  
 5. **Must pair with interpersonal boundaries** — Fewer approvals ≠ 24/7 availability; see boundaries series  
@@ -591,19 +591,19 @@ In question phase, separate **statutory minimum** from **internal padding**. Opt
 Not necessarily. Scrum that becomes ritual bloat (extra reviews, ownerless backlog items) is what the Algorithm trims. Keep short iterations; delete ceremonies with no learning output.
 
 **Q4: Deletes trigger fear?**  
-Transparency: what, pilot duration, rollback switch; L1 owns accountability. Emotionally: [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) distress tolerance; structurally: [DEAR MAN]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}).
+Transparency: what, pilot duration, rollback switch; L1 owns accountability. Emotionally: [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) distress tolerance; structurally: [DEAR MAN]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}).
 
 **Q5: How to stop deleted steps growing back?**  
-L2 weekly rhythm + [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) tracking immune response—who restored what, in what name. New process needs **new owner + new reason**.
+L2 weekly rhythm + [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) tracking immune response—who restored what, in what name. New process needs **new owner + new reason**.
 
 **Q6: Won’t this kill creativity?**  
 Algorithm deletes **learning-blocking ritual**, not exploration. Keep prototypes, experiments, user research; delete 40-page internal decks nobody reads.
 
-**Q7: Use with [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})?**  
+**Q7: Use with [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})?**  
 Before major cuts: Guiguzi on political **shi**, Yangming on avoiding hard calls, Caigentan on performative busyness, tarot/intuition as marginal signal—then decide on data.
 
 **Q8: Personal use?**  
-Workflows yes (email templates, note systems, side-project delivery). Home life: McNeill kitchen lesson. Relationships: [boundaries series]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}), not Algorithm on people.
+Workflows yes (email templates, note systems, side-project delivery). Home life: McNeill kitchen lesson. Relationships: [boundaries series]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}), not Algorithm on people.
 
 **Q9: Time to results?**  
 Book cases often show month-scale compression; culture shift may need 2–3 full 8-week cycles. Week-one dividend is often **focus**—fewer wrong things done.
@@ -629,7 +629,7 @@ Book cases often show month-scale compression; culture shift may need 2–3 full
 
 - *The Goal* (Goldratt) — bottlenecks and systems thinking; *Working Backwards* (Amazon) — mechanisms culture  
 - [Business Insider — McNeill on limits](https://www.businessinsider.com/working-with-elon-musk-tesla-jon-mcneill-algorithm-limits-2026-3) · [Penguin title](https://www.penguinrandomhouse.com/books/799958/the-algorithm-by-jon-mcneill/) · [FOMO Sapiens podcast](https://fomosapiens.com/jon-mcneill-the-algorithmbehind-teslas-hypergrowth/)  
-- On this site: [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}) · [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) · [Caigentan]({{ '/2026/06/03/caigentan.html' | relative_url }}) · [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) · [We Have Never Been Middle Class — Weiss]({{ '/2026/06/20/we-have-never-been-middle-class-weiss.html' | relative_url }}) · [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) · [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) · [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) · [Boundaries series]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})  
+- On this site: [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}) · [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) · [Caigentan]({{ '/2026/06/03/caigentan/' | relative_url }}) · [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) · [We Have Never Been Middle Class — Weiss]({{ '/2026/06/20/we-have-never-been-middle-class-weiss/' | relative_url }}) · [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) · [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) · [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) · [Boundaries series]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})  
 
 ---
 

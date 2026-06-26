@@ -13,7 +13,7 @@ tags: [塔罗, 新牌磨合, 多副牌, 世界, 战车, 力量, 实践]
 
 > 塔罗不是预测机器，而是帮助你理解自己、整理思路的伙伴。解读质量取决于：**你与牌的连接 + 问题的质量 + 你是否参与了解读过程**。
 
-**关联阅读**：[入门笔记]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) · [RWS 1909 全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }})
+**关联阅读**：[入门笔记]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) · [RWS 1909 全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }})
 
 ---
 
@@ -26,7 +26,7 @@ tags: [塔罗, 新牌磨合, 多副牌, 世界, 战车, 力量, 实践]
 | 3 | **核心路径** | 连接 → 聚焦 → 驾驭（世界 → 战车 → 力量） |
 | 4 | **立场** | 建立属于自己的解读体系，而非只找标准答案 |
 | 5 | **多牌原则** | 四位顾问各有专长，不是四副牌竞争 |
-| 6 | **系列位置** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})内观镜的实践层 |
+| 6 | **系列位置** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})内观镜的实践层 |
 | 7 | **与入门关系** | 7 天方案 → 本笔记 21 天深化 → 多副牌协作 |
 | 8 | **安全边界** | 连环换牌 = 逃避责任；重大决策多镜并用 |
 
@@ -131,13 +131,13 @@ tags: [塔罗, 新牌磨合, 多副牌, 世界, 战车, 力量, 实践]
 | 学习 | 塔罗第二周、小阿卡纳混乱 | 这周练权杖还是圣杯对我更有用？ |
 | 情绪 | 焦虑、内疚、空耗 | 此刻我真正需要的是什么？ |
 
-联结 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})：背景里的「担心」常是**需要**的线索；「希望」常是**策略**——抽牌前分开写，解牌更清楚。
+联结 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})：背景里的「担心」常是**需要**的线索；「希望」常是**策略**——抽牌前分开写，解牌更清楚。
 
 ---
 
 ## 三、新牌磨合步骤（21 天起步）
 
-若刚入手，可先做 [入门笔记中的 7 天方案]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }})，再按下方 21 天深化。
+若刚入手，可先做 [入门笔记中的 7 天方案]({{ '/2026/04/30/tarot-getting-started/' | relative_url }})，再按下方 21 天深化。
 
 按「世界 → 战车 → 力量」路径设计的实操计划：
 
@@ -251,7 +251,7 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 
 这已经不是解读，是在寻找想听的答案。
 
-与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})：认可欲求让人想抽到「好答案」；课题分离是：**牌给出讯息后，决定仍在你**。
+与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})：认可欲求让人想抽到「好答案」；课题分离是：**牌给出讯息后，决定仍在你**。
 
 ---
 
@@ -309,9 +309,9 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 **复盘**：
 - 世界阶段被跳过——还不认识牌就上大题  
 - 牌面触发的是**已有焦虑**，非「神谕」  
-- 调整：先 7 天 [入门方案]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }})；感情题改问：「这段关系里，我此刻最需要看清什么？」  
+- 调整：先 7 天 [入门方案]({{ '/2026/04/30/tarot-getting-started/' | relative_url }})；感情题改问：「这段关系里，我此刻最需要看清什么？」  
 
-重大去留用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) + [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})阶段觉察，不单靠一抽。
+重大去留用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) + [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})阶段觉察，不单靠一抽。
 
 ### 案例二：两副牌结论相反
 
@@ -346,7 +346,7 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 3. 解牌用提问：「这哪里像你的生活？」而非「你就是怎样」  
 4. 不准也记录：哪张牌、哪种问法、对方反馈  
 
-与 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})：观察牌面，不评判对方。
+与 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})：观察牌面，不评判对方。
 
 ### 案例五：老牌太旧，角磨损
 
@@ -401,7 +401,7 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 | 4 | 当事人点头「有点像」 |
 | 5 | 事后验证有具体对应 |
 
-每周均分趋势，比单次「准不准」更有用——见 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})。
+每周均分趋势，比单次「准不准」更有用——见 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})。
 
 ---
 
@@ -435,10 +435,10 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 
 | 周 | 联读 | 练法 |
 |----|------|------|
-| 1 | [入门笔记]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) | 7 天 + 排序 |
-| 2 | [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }}) | 每日 3 张精读 |
-| 3 | [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }})修省 | 抽牌问：今日我执在哪？ |
-| 4 | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 抽牌前：这是谁的课题？ |
+| 1 | [入门笔记]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) | 7 天 + 排序 |
+| 2 | [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }}) | 每日 3 张精读 |
+| 3 | [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }})修省 | 抽牌问：今日我执在哪？ |
+| 4 | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 抽牌前：这是谁的课题？ |
 
 ---
 
@@ -463,7 +463,7 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 2. **不神化牌阵** — 牌是镜子，你是做决定的人  
 3. **不忽视物理牌质** — 弯曲、受潮影响手感与心情  
 4. **要记录验证** — 无记录则无「准度」可言  
-5. **与经典并读** — 塔罗操作 + [阳明]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})诚意 + [复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})验行  
+5. **与经典并读** — 塔罗操作 + [阳明]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})诚意 + [复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})验行  
 
 ---
 
@@ -493,14 +493,14 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 
 | 笔记 | 在磨合中的角色 |
 |------|----------------|
-| [入门笔记]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) | 7 天前置、每日一牌 |
-| [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }}) | 书义底本 |
-| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | 重大题多镜 |
-| [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | 周验证 |
-| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 不连环换牌 |
-| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 提问前先写需要 |
-| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | 关系题阶段觉察 |
-| [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) | 修省、不急求成 |
+| [入门笔记]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) | 7 天前置、每日一牌 |
+| [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }}) | 书义底本 |
+| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | 重大题多镜 |
+| [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | 周验证 |
+| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 不连环换牌 |
+| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 提问前先写需要 |
+| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | 关系题阶段觉察 |
+| [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }}) | 修省、不急求成 |
 
 ---
 
@@ -525,11 +525,11 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 
 **凯文**磨合六周仍「不准」，自检发现：从未晚间复盘、问题全是「他怎么想我」。  
 **调整**：两周每日一牌 + 问题改「我今天逃避什么」；第三周起三张牌阵准确度自评从 2 升到 4。  
-关键不是牌灵，是**问题质量 + 验证循环**——与 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})同源。
+关键不是牌灵，是**问题质量 + 验证循环**——与 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})同源。
 
 ### 与阳明「事上磨练」
 
-[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})强调在事上练；塔罗磨合亦然：**牌义在记录里长出来**，不在第一次抽牌时降临。世界阶段是「知」，战车是「辨」，力量是「合」——三周对应三心。
+[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})强调在事上练；塔罗磨合亦然：**牌义在记录里长出来**，不在第一次抽牌时降临。世界阶段是「知」，战车是「辨」，力量是「合」——三周对应三心。
 
 **口诀**：先完整（世界），再聚焦（战车），后整合（力量）；记录是唯一的捷径。
 
@@ -539,11 +539,11 @@ A 牌说不行 → 换 B → 换 C → 换 D → 终于满意
 
 ## 关联阅读
 
-- [塔罗牌 — 新手入门笔记]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }})
-- [Rider-Waite 1909 全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }})
+- [塔罗牌 — 新手入门笔记]({{ '/2026/04/30/tarot-getting-started/' | relative_url }})
+- [Rider-Waite 1909 全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }})
 - *78 Degrees of Wisdom*（Rachel Pollack）— 建立个人解读体系的经典
-- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})
-- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})
+- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})
+- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective/' | relative_url }})
 
 ## 状态
 

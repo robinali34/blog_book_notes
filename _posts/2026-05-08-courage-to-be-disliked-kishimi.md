@@ -32,11 +32,11 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 | 3 | **与弗洛伊德之别** | 少挖童年创伤「原因」，多问「你现在追求什么目的」 |
 | 4 | **边界核心** | **课题分离**：分清「谁的课题」——不干涉他人，也不让他人干涉自己 |
 | 5 | **阅读立场** | 自助哲学，非治疗；严重抑郁、创伤、自杀风险须专业支持 |
-| 6 | **系列位置** | 边界栈**内核层** — 与 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) 并读 |
+| 6 | **系列位置** | 边界栈**内核层** — 与 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) 并读 |
 | 7 | **现代映射** | 讨好型人格、职场讨好、家庭纠缠、社交焦虑、绩效认可成瘾 |
-| 8 | **站内对照** | [DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})守自尊；[阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})致良知 |
+| 8 | **站内对照** | [DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})守自尊；[阳明心学]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})致良知 |
 | 9 | **续篇** | 《幸福的勇气》深化共同体与「爱」；两本宜连读 |
-| 10 | **文化适配** | 部分表述偏个人主义，宜与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})「联结需求」并读，避免滑向冷漠 |
+| 10 | **文化适配** | 部分表述偏个人主义，宜与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})「联结需求」并读，避免滑向冷漠 |
 
 <figure class="diagram-figure">
 <img src="{{ '/assets/images/psychology/boundaries-communication-stack.svg' | relative_url }}" alt="边界与沟通阅读栈" />
@@ -66,7 +66,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 
 - 阿德勒与弗洛伊德早期合作，后强调**社会兴趣、目的论、自卑与超越**，与弗洛伊德的性驱力、决定论分道扬镳。
 - 本书不是阿德勒原著摘录，而是**日本语境下的通俗化**——读时应区分「阿德勒原意」与「对话体的简化」。
-- 与 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) 的 TA 可互证：蛤蟆的「人生坐标」与阿德勒的共同体感觉，都指向「我好，你也好」。
+- 与 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) 的 TA 可互证：蛤蟆的「人生坐标」与阿德勒的共同体感觉，都指向「我好，你也好」。
 
 ### 深度解析
 
@@ -75,7 +75,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 阿德勒式问法：「你这样做，要达到什么目的？」（目的 · 此刻）
 ```
 
-目的论不是否认创伤存在，而是强调：**即便过去发生过什么，此刻你仍可选择不同行动**。这与 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 的辩证一致：接纳过去 **且** 改变当下行为。
+目的论不是否认创伤存在，而是强调：**即便过去发生过什么，此刻你仍可选择不同行动**。这与 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 的辩证一致：接纳过去 **且** 改变当下行为。
 
 ### 名句或概念表
 
@@ -128,7 +128,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 对方失望/愤怒，主要是对方的情绪课题——我可选择如何回应，但不负责「让他一定满意」
 ```
 
-与 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})：分离给**心理许可**，拒绝术给**句子**；与 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})：分离定**边界**，NVC 定**说法**。
+与 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})：分离给**心理许可**，拒绝术给**句子**；与 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})：分离定**边界**，NVC 定**说法**。
 
 ### 名句或概念表
 
@@ -150,7 +150,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 同事把烂摊子推给你，说「团队精神」。  
 - 接不接：你的课题（职业后果你承担）  
 - 对方是否高兴：对方的课题  
-- 与 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) 并读：交换应清晰，非用「感情」掩盖边界。
+- 与 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) 并读：交换应清晰，非用「感情」掩盖边界。
 
 ### 用法与场景表
 
@@ -197,7 +197,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 勇气路径：价值锚定 → 行动 → 承受部分差评 → 自由
 ```
 
-[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) 读者：对评价更敏锐，更需要课题分离——不是「太矫情」，而是神经系统需要额外边界技能。[DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 的 **Stick to values** 与「勇气」同向：守价值比守好评重要。
+[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) 读者：对评价更敏锐，更需要课题分离——不是「太矫情」，而是神经系统需要额外边界技能。[DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 的 **Stick to values** 与「勇气」同向：守价值比守好评重要。
 
 ### 名句或概念表
 
@@ -213,7 +213,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 每次跨部门需求都答应，年终却评「缺乏主见」。他的目的或许是「不被任何一方讨厌」——结果谁都不太尊重边界。分离后练一句：「这周我无法接这项，可协助定优先级。」
 
 **朋友圈人设**  
-发动态前反复揣摩谁会点赞。认可欲求把生活变成舞台。练习：发一条「不讨好任何人」的真实记录，观察焦虑峰值会过去（与 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) 记录情绪曲线）。
+发动态前反复揣摩谁会点赞。认可欲求把生活变成舞台。练习：发一条「不讨好任何人」的真实记录，观察焦虑峰值会过去（与 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) 记录情绪曲线）。
 
 ### 用法与场景表
 
@@ -238,7 +238,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 |------|----------|
 | 对方急不急主要是对方课题 | 设响应时段 |
 | 我的休息是我的课题 | 自动回复 + 次日处理 |
-| 被说「冷淡」是可能代价 | 用 [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})说明需要 |
+| 被说「冷淡」是可能代价 | 用 [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})说明需要 |
 
 ---
 
@@ -258,7 +258,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 「我选择不 B，是为了得到 C」→ 看见后可改 C 或改选择
 ```
 
-与 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) 并读：重大决定用多镜头；日常人际用目的论快速自检。
+与 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) 并读：重大决定用多镜头；日常人际用目的论快速自检。
 
 ### 典型对话改写
 
@@ -304,15 +304,15 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 共同体：我的价值也来自对整体的贡献 → 联结而非讨好
 ```
 
-与 [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})「诚意」：不欺人亦不欺己；与 [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }})「侠气素心」：待人宽而不卑躬。
+与 [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})「诚意」：不欺人亦不欺己；与 [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }})「侠气素心」：待人宽而不卑躬。
 
 ### 典型案例（人物或情境）
 
 **管理场景**  
-领导用「表扬」驱动加班，员工用「讨好」换安全感——双向纵向。横向改法：用清晰目标与相互尊重的协商；见 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) 团队复盘中的「对事不对人」。
+领导用「表扬」驱动加班，员工用「讨好」换安全感——双向纵向。横向改法：用清晰目标与相互尊重的协商；见 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) 团队复盘中的「对事不对人」。
 
 **亲密关系**  
-[亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) 的幻灭期，常因把伴侣当「批准我价值的人」。共同体感觉改为：两人同属「我们的生活」这一共同体，而非「你评我够不够格」。
+[亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) 的幻灭期，常因把伴侣当「批准我价值的人」。共同体感觉改为：两人同属「我们的生活」这一共同体，而非「你评我够不够格」。
 
 ### 用法与场景表
 
@@ -353,15 +353,15 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 
 | 书 | 补足被讨厌的勇气 |
 |----|------------------|
-| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | 先识别父母/成人/儿童自我状态 |
-| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 拒绝的具体句式与步骤 |
-| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 高敏感者更需要分离，非「太矫情」 |
-| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | 幻灭期常因课题纠缠 |
-| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 「诚意」不欺人亦不欺己 |
-| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 分离后的表达工具 |
-| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 情绪危机时的技能兜底 |
+| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | 先识别父母/成人/儿童自我状态 |
+| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 拒绝的具体句式与步骤 |
+| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 高敏感者更需要分离，非「太矫情」 |
+| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | 幻灭期常因课题纠缠 |
+| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 「诚意」不欺人亦不欺己 |
+| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 分离后的表达工具 |
+| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 情绪危机时的技能兜底 |
 
-**一句链**：[蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})识状态 → **被讨厌的勇气**定课题 → [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})练句式 → [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})修说法 → [复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})验成效。
+**一句链**：[蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})识状态 → **被讨厌的勇气**定课题 → [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})练句式 → [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})修说法 → [复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})验成效。
 
 ---
 
@@ -416,7 +416,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 | 育儿作业大战 | 全家焦虑 | 后果在孩子；陪伴不等于代劳 |
 | 赡养分歧 | 兄弟姐妹道德绑架 | 能力范围内协商，非无限牺牲 |
 
-### 与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) 联读
+### 与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) 联读
 
 蜜月期易把对方当「理想父母」；幻灭期宜做课题分离——**你不是来满足我童年缺失的人，我也不是来当你父母的**。
 
@@ -429,7 +429,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 | 婆婆评价 | 婆婆课题 |
 | 美玲如何回应 | 美玲课题 |
 | 丈夫是否居中协商 | 夫妻共同体课题 |
-| 话术 | [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) + [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) |
+| 话术 | [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) + [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) |
 
 ### 反模式
 
@@ -449,7 +449,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 | 4 | 边界一句 | 练 1 次清晰拒绝/协商 | 内疚峰值 0–10？多久降？ |
 | 5 | 横向关系 | 把 1 次批评/表扬改写成鼓励 | 有无操纵或被操纵？ |
 | 6 | 共同体 | 做 1 件「对他人有用」的小事 | 贡献感 vs 讨好差别？ |
-| 7 | NVC 联练 | 分离 + [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) 四句 | 哪句最难？ |
+| 7 | NVC 联练 | 分离 + [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) 四句 | 哪句最难？ |
 | 8 | 总复盘 | 写「被讨厌却值得」的一件事 | 关系是否更清晰？ |
 
 ### 练习册模板（精简）
@@ -462,7 +462,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 【结果 · 下周试什么】
 ```
 
-与 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) 周课合并：本周课题分离成功 1 次；讨好复发 1 次。
+与 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) 周课合并：本周课题分离成功 1 次；讨好复发 1 次。
 
 ### 读书小组五夜议程（可选）
 
@@ -486,7 +486,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 | 和 DBT 冲突吗？ | 不冲突：DBT 管情绪技能，阿德勒管价值与课题 |
 | 适合抑郁的人吗？ | 轻中度自助可读；中重度须治疗，本书不替代 |
 | 哲人太说教？ | 对话体戏剧化，宜讨论不宜膜拜 |
-| 与阳明心学？ | 致良知是价值锚；课题分离是人际操作——见 [阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) |
+| 与阳明心学？ | 致良知是价值锚；课题分离是人际操作——见 [阳明心学]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) |
 | 与 NVC 谁先读？ | 先分离（内核）再 NVC（表达） |
 | 父母必读吗？ | 育儿纠缠者尤宜；但勿用理论当武器 |
 | 《幸福的勇气》要读吗？ | 续篇深化共同体与爱；两本连读更完整 |
@@ -504,7 +504,7 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 **研究生小赵**导师临时加任务，怕影响毕业全接。目的：「不被导师讨厌」。  
 **分离**：接不接、如何排期是小赵课题；导师失望是导师课题。  
 **做法**：书面列现有任务与截止日，请导师定优先级——横向尊重，非讨好。  
-联结 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }})：交换清晰，非用「懂事」掩盖边界。
+联结 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }})：交换清晰，非用「懂事」掩盖边界。
 
 ### 常见误读纠正
 
@@ -522,11 +522,11 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 
 | 文本 | 与阿德勒关系 |
 |------|--------------|
-| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | TA 状态识别先于分离 |
-| [鬼谷子]({{ '/2026/04/27/guiguzi.html' | relative_url }}) | 外攻识势；阿德勒治己 |
-| [阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) | 致良知 ≈ 价值锚定 |
-| [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) | 宠辱不惊 ≈ 评价分离 |
-| [塔罗入门]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) | 照见认可欲求与目的 |
+| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | TA 状态识别先于分离 |
+| [鬼谷子]({{ '/2026/04/27/guiguzi/' | relative_url }}) | 外攻识势；阿德勒治己 |
+| [阳明心学]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) | 致良知 ≈ 价值锚定 |
+| [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }}) | 宠辱不惊 ≈ 评价分离 |
+| [塔罗入门]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) | 照见认可欲求与目的 |
 
 ---
 
@@ -534,17 +534,17 @@ tags: [被讨厌的勇气, 阿德勒, 课题分离, 边界, 沟通, 心理学]
 
 - *The Courage to Be Disliked* — 岸見一郎、古賀史健；*The Courage to Be Happy* — 续篇《幸福的勇气》  
 - *The Individual Psychology of Alfred Adler* — 阿德勒原著选读  
-- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})  
-- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})  
-- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})  
-- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
-- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})  
-- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})  
-- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})  
-- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})  
-- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})  
-- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})  
-- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan.html' | relative_url }})  
+- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})  
+- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})  
+- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})  
+- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
+- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})  
+- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})  
+- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})  
+- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})  
+- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective/' | relative_url }})  
+- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})  
+- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan/' | relative_url }})  
 
 ## 状态
 

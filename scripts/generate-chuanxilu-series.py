@@ -52,7 +52,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def gloss(entry: dict) -> str:
@@ -166,15 +166,15 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, batch
             f"| 1 | 通读 {start}–{end}，标 3 处「诚意 / 知行 / 良知」落点 |",
             "| 2 | 选一沟通或边界场景，问：言是否诚意、行是否相副？ |",
             "| 3 | 与导读篇「读传习录四步法」写一则短省察 |",
-            "| 4 | 对照 [阳明心学（导读）]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) 或 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) |",
+            "| 4 | 对照 [阳明心学（导读）]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) 或 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) |",
             "",
             nav_footer,
             "",
             "## 关联阅读",
             "",
             f"- [传习录（导读）— 本站笔记]({rel(HUB_SLUG)})，诚意、省察与边界栈",
-            "- [阳明心学（导读）— 本站笔记]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})，八大专题与四句教",
-            "- [《大学问》原文 — 本站笔记]({{ '/2026/06/25/yangming-daxuewen.html' | relative_url }})，纲领一篇",
+            "- [阳明心学（导读）— 本站笔记]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})，八大专题与四句教",
+            "- [《大学问》原文 — 本站笔记]({{ '/2026/06/25/yangming-daxuewen/' | relative_url }})，纲领一篇",
         ]
     )
     for v, s, e, _label, sub in VOLUMES:

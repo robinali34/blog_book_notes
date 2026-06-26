@@ -34,9 +34,9 @@ tags: [蛤蟆先生, 心理咨询, 交流分析, TA, 边界, 沟通]
 | 5 | **与蛤蟆三部曲** | 本书 → 《蛤蟆先生情绪指南》→ 其他续作；情绪命名可延伸 |
 | 6 | **阅读立场** | 理解咨询如何发生；严重问题须找真人咨询师，本书不替代 |
 | 7 | **现代映射** | 抑郁情绪、讨好、愤怒爆发、不敢表达、职场 PUA 后的自我怀疑 |
-| 8 | **站内对照** | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})情绪调节；[复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})事后校正 |
+| 8 | **站内对照** | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})情绪调节；[复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})事后校正 |
 | 9 | **文化适配** | 英式童话人物与咨询设置；宜映射本土家庭与职场 |
-| 10 | **与阿德勒** | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})的共同体感觉 ≈ 「我好，你也好」 |
+| 10 | **与阿德勒** | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})的共同体感觉 ≈ 「我好，你也好」 |
 
 ---
 
@@ -82,7 +82,7 @@ Free Child：冲动、发泄 → 可能伤人
 Adult：「事实是什么？我选择什么？」→ 边界与负责
 ```
 
-与 [DBT 正念]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})：觉察「此刻状态」是正念的人际版；与 [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})「省察克治」：看见状态切换即省察入口。
+与 [DBT 正念]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})：觉察「此刻状态」是正念的人际版；与 [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})「省察克治」：看见状态切换即省察入口。
 
 ### 名句或概念表
 
@@ -151,7 +151,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 | 我不好，你不好 | 绝望、抑郁 | 放弃沟通 |
 | **我好，你也好** | 尊重自己与他人 | **边界 + 联结** |
 
-蛤蟆早期多落在「我不好，你好」——与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) 的认可欲求同构：用讨好换存在资格。
+蛤蟆早期多落在「我不好，你好」——与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) 的认可欲求同构：用讨好换存在资格。
 
 ### 深度解析
 
@@ -211,7 +211,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 新 Adult 链：事实 → 多种解释 → 选择回应
 ```
 
-与 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})：重大剧本改写（换城、换行、离婚）用多镜头；日常用情绪公式即可。
+与 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})：重大剧本改写（换城、换行、离婚）用多镜头；日常用情绪公式即可。
 
 ### 名句或概念表
 
@@ -270,7 +270,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 | _homework_ | 记录一周情绪与状态 |
 | 告别仪式 | 标记成长节点 |
 
-无咨询师时：用 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) 周记 + 信任友人作「见证人」，模拟 Adult 对话——**不能替代危机干预**。
+无咨询师时：用 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) 周记 + 信任友人作「见证人」，模拟 Adult 对话——**不能替代危机干预**。
 
 ### 十讲章回拆解（逐讲笔记）
 
@@ -378,7 +378,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 假边界（Parent/Child）：威胁、羞辱、冷战、报复
 ```
 
-[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) 练的是 Adult 拒绝；[DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 的 **Fair / Truthful** 防假边界变攻击。
+[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) 练的是 Adult 拒绝；[DBT FAST]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 的 **Fair / Truthful** 防假边界变攻击。
 
 ### 典型案例
 
@@ -426,7 +426,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 1. 此刻几岁？（像 8 岁怕老师）  
 2. 事实：容量多少？  
 3. 选择：协商优先级。  
-配合 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) 课题分离。
+配合 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) 课题分离。
 
 ### 反模式
 
@@ -452,7 +452,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 | 借钱亲戚 | 讨好 Child | 清晰拒绝 + 可选其他帮助 |
 | 伴侣冷战 | 游戏：谁先低头 | 提议谈话规则 |
 
-### 与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) 联读
+### 与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) 联读
 
 蜜月期易 Parent  nurturing 过度或 Child 融合；幻灭期宜识别「我把伴侣当父母/孩子」的脚本，重启 Adult 契约。
 
@@ -474,17 +474,17 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 | 书 | 角色 |
 |----|------|
 | **蛤蟆先生** | 识 PAC + 人生坐标（入门） |
-| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 课题分离的理论深化 |
-| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | Child 讨好后的拒绝句式 |
-| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 解释为何 Child 状态更易被触发 |
-| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | Adult 状态下的表达工具 |
-| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 情绪危机技能兜底 |
-| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 「省察克治」≈ 觉察状态切换 |
-| [阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) | 良知定锚，防脚本漂移 |
-| [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | 周复盘状态滑动 |
-| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | 人生剧本大改前多镜头 |
+| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 课题分离的理论深化 |
+| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | Child 讨好后的拒绝句式 |
+| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 解释为何 Child 状态更易被触发 |
+| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | Adult 状态下的表达工具 |
+| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 情绪危机技能兜底 |
+| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 「省察克治」≈ 觉察状态切换 |
+| [阳明心学]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) | 良知定锚，防脚本漂移 |
+| [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | 周复盘状态滑动 |
+| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | 人生剧本大改前多镜头 |
 
-**一句链**：**蛤蟆**识状态 → [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})分课题 → [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})练说不 → [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})修沟通 → [复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})验成效。
+**一句链**：**蛤蟆**识状态 → [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})分课题 → [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})练说不 → [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})修沟通 → [复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})验成效。
 
 ---
 
@@ -518,7 +518,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 - [ ] 记录一句「父母状态」内在批评语  
 - [ ] 用 Adult 语气重写同一句边界话  
 - [ ] 周复盘：人生坐标滑向哪里？  
-- [ ] 与 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 情绪日记合并一页  
+- [ ] 与 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 情绪日记合并一页  
 
 ---
 
@@ -538,7 +538,7 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 不属同一体系。PAC 是**此刻沟通功能**；MBTI 是倾向描述。宜在冲突现场用 PAC，不用类型贴人。
 
 **Q9：一直 Parent 批评自己怎么办？**  
-记一句内在 CP 台词 → 问「这是谁的声音」→ Adult 重写 → 配 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 自我慈悲一句。
+记一句内在 CP 台词 → 问「这是谁的声音」→ Adult 重写 → 配 [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 自我慈悲一句。
 
 **Q10：怎么知自己在玩游戏？**  
 重复困境 + 熟悉结局 + 短期「赢感」（道德优越、被照顾）——三者齐，疑游戏。
@@ -570,17 +570,17 @@ Adult：「事实是什么？我选择什么？」→ 边界与负责
 - *Counselling for Toads* — Robert de Board  
 - *Games People Play* — Eric Berne，心理游戏原典  
 - *Transactional Analysis in Psychotherapy* — Berne  
-- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})  
-- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})  
-- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})  
-- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})  
-- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
-- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})  
-- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})  
-- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})  
-- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})  
-- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})  
-- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan.html' | relative_url }})  
+- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})  
+- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})  
+- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})  
+- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})  
+- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
+- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})  
+- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})  
+- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})  
+- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective/' | relative_url }})  
+- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})  
+- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan/' | relative_url }})  
 
 ## 状态
 

@@ -16,7 +16,7 @@ ENTRY_ID = 255
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def format_body(text: str) -> str:
@@ -66,7 +66,7 @@ def main() -> None:
             "| 1 | 通读《大学问》，标 3 处「格物 / 致知 / 明明德」落点 |",
             "| 2 | 与《传习录》上卷格物问答对照，问：格物格什么？ |",
             "| 3 | 与导读篇「读阳明四步法」写一则短断语 |",
-            "| 4 | 对照 [传习录原文 1–34]({{ '/2026/06/18/chuanxilu-001-034.html' | relative_url }}) |",
+            "| 4 | 对照 [传习录原文 1–34]({{ '/2026/06/18/chuanxilu-001-034/' | relative_url }}) |",
             "",
             f"上一篇：[传习录原文 231–254]({rel('2026/06/25/chuanxilu-231-254')})",
             "",
@@ -74,7 +74,7 @@ def main() -> None:
             "",
             f"- [阳明心学（导读）— 本站笔记]({rel(HUB_SLUG)})，八大专题、四句教与史案",
             f"- [传习录（导读）— 本站笔记]({rel(CHUANXILU_HUB)})，诚意与边界栈",
-            "- [传习录原文 1–34 — 本站笔记]({{ '/2026/06/18/chuanxilu-001-034.html' | relative_url }})",
+            "- [传习录原文 1–34 — 本站笔记]({{ '/2026/06/18/chuanxilu-001-034/' | relative_url }})",
             "",
             "## 状态",
             "",

@@ -53,7 +53,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def gloss(ch: dict) -> str:
@@ -166,7 +166,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, batch
             f"| 1 | 通读 {start}–{end}，标 3 处「无为 / 柔弱 / 知足」落点 |",
             "| 2 | 选一史案或组织场景，问：此刻是「为」还是「妄为」？ |",
             "| 3 | 与导读篇「读道德经四步法」写一则短断语 |",
-            "| 4 | 对照 [周易]({{ '/2026/05/07/zhouyi.html' | relative_url }}) 或 [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) |",
+            "| 4 | 对照 [周易]({{ '/2026/05/07/zhouyi/' | relative_url }}) 或 [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) |",
             "",
             nav_footer,
             "",

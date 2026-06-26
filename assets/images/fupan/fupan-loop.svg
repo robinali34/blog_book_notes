@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-label="	H���:�">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="有效复盘四步闭环">
   <rect width="900" height="280" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
-  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">	H�  �e��</text>
-  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="12" fill="#7A8A75">���� � H��$� � �	L�y</text>
+  <text x="450" y="36" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#4A5A45" font-weight="bold">有效复盘四步闭环</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#7A8A75">回顾目标 → 评估结果 → 分析原因 → 总结经验</text>
   <circle cx="450" cy="155" r="88" fill="none" stroke="#9CB098" stroke-width="2" stroke-dasharray="8 5"/>
-  <rect x="390" y="68" width="120" height="44" rx="8" fill="#7A9078"/>
-  <text x="450" y="96" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#F5F7F3" font-weight="bold">` �~�</text>
-  <rect x="560" y="128" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
-  <text x="620" y="156" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">a �0Ӝ</text>
-  <rect x="390" y="198" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
-  <text x="450" y="226" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">b ���</text>
-  <rect x="220" y="128" width="120" height="44" rx="8" fill="#B8C8B0" stroke="#7A9078"/>
-  <text x="280" y="156" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">c ;�ό</text>
-  <text x="450" y="268" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75" font-style="italic">����L� � ����U � �e�Ɠ</text>
+  <rect x="390" y="46" width="120" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="450" y="73" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">回顾目标</text>
+  <rect x="500" y="106" width="120" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="560" y="133" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">评估结果</text>
+  <rect x="390" y="176" width="120" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="450" y="203" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">分析原因</text>
+  <rect x="160" y="106" width="120" height="44" rx="8" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="220" y="133" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">总结经验</text>
+  <text x="450" y="268" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#7A8A75">行动项闭环 · 日课校正</text>
 </svg>

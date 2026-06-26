@@ -52,7 +52,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def series_nav(current_vol: int, max_chapter: int = 15) -> str:
@@ -169,7 +169,7 @@ def volume_post(
             f"| 1 | 通读 {start}–{end}，标 3 处「捭 / 阖 / 权 / 决」落点 |",
             "| 2 | 选一史案或谈判场景，用本篇框架复盘 |",
             "| 3 | 与导读篇「读鬼谷子四步法」写一则短断语 |",
-            "| 4 | 对照 [孙子兵法]({{ '/2026/06/08/sunzi.html' | relative_url }}) 或 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) |",
+            "| 4 | 对照 [孙子兵法]({{ '/2026/06/08/sunzi/' | relative_url }}) 或 [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) |",
             "",
             nav_footer,
             "",

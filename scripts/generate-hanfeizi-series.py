@@ -97,7 +97,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def series_nav(current_vol: int) -> str:
@@ -202,7 +202,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, cards
             f"| 1 | 通读 {start}–{end}，标 3 处「法 / 术 / 势」落点 |",
             "| 2 | 选一寓言或史案，问：规则是否公开一致？ |",
             "| 3 | 与导读篇「读韩非四步法」写一则组织/制度短断语 |",
-            "| 4 | 对照 [商君书]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) |",
+            "| 4 | 对照 [商君书]({{ '/2026/05/13/shangjunshu/' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) |",
             "",
             nav_footer,
             "",

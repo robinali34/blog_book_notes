@@ -58,7 +58,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def gloss(ch: dict) -> str:
@@ -175,7 +175,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, batch
             f"| 1 | 通读 {start}–{end}，标 3 处「阴阳 / 正气 / 治未病」落点 |",
             "| 2 | 选一生活或公卫场景，问：此刻身与四时是否相得？ |",
             "| 3 | 与导读篇「读内经四步法」写一则短省察 |",
-            "| 4 | 对照 [道德经]({{ '/2026/06/24/daodejing.html' | relative_url }}) 或 [周易]({{ '/2026/05/07/zhouyi.html' | relative_url }}) |",
+            "| 4 | 对照 [道德经]({{ '/2026/06/24/daodejing/' | relative_url }}) 或 [周易]({{ '/2026/05/07/zhouyi/' | relative_url }}) |",
             "",
             nav_footer,
             "",

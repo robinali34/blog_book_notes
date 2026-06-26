@@ -38,8 +38,8 @@ Three questions while reading: **Which Horseman is my highest quantified risk? I
 | 6 | **Nutrition** | Individualized; critiques one-size dogma |
 | 7 | **Emotional health** | Explicit pillar—stress, relationships, purpose |
 | 8 | **Controversy** | Some supplement/pharma takes age quickly; verify with current evidence |
-| 9 | **Site links** | [Built to Move]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) for stability habits; [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) for strength base |
-| 10 | **Mind** | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}), [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) for emotional/neural layers |
+| 9 | **Site links** | [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) for stability habits; [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) for strength base |
+| 10 | **Mind** | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}), [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) for emotional/neural layers |
 
 <figure class="diagram-figure">
 <img src="{{ '/assets/images/fitness/outlive-overview.svg' | relative_url }}" alt="Outlive Medicine 3.0 framework" />
@@ -93,7 +93,7 @@ Week template (conceptual — individualize)
 Daily stability snacks (see Built to Move)
 ```
 
-[Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) covers **strength novice phase**; Attia tells you why you still need Zone 2 after LP ends. [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove.html' | relative_url }}) offers staged lifting variety; [Built to Move]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) supplies daily stability practice.
+[Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) covers **strength novice phase**; Attia tells you why you still need Zone 2 after LP ends. [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove/' | relative_url }}) offers staged lifting variety; [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) supplies daily stability practice.
 
 ---
 
@@ -120,7 +120,7 @@ Attia emphasizes:
 - **Energy balance** without reckless crash diets  
 - **Sustainability** over performative restriction  
 
-Pair quantitative curiosity with [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})—monthly review of labs, sleep, and training logs.
+Pair quantitative curiosity with [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})—monthly review of labs, sleep, and training logs.
 
 ---
 
@@ -128,7 +128,7 @@ Pair quantitative curiosity with [有效复盘]({{ '/2026/05/24/effective-retros
 
 Sleep is framed as **cardiovascular and cognitive medicine**, not laziness. Emotional health includes **stress, shame, anger, relationships**—Attia’s personal chapters model vulnerability without replacing therapy.
 
-For skills: [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}), [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}), professional support when needed.
+For skills: [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}), [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}), professional support when needed.
 
 ---
 
@@ -146,7 +146,7 @@ Drugs and supplements (statins, metformin debates, etc.) are discussed with **ri
 | Biohack shopping before sleep | Fix sleep and steps first |
 | Ignoring emotional pillar | Schedule therapy/coaching like training |
 | Copying Attia’s personal stack | Your labs and genetics differ |
-| All analysis, no lifting | [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) or coached equivalent |
+| All analysis, no lifting | [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) or coached equivalent |
 
 ---
 
@@ -154,11 +154,11 @@ Drugs and supplements (statins, metformin debates, etc.) are discussed with **ri
 
 | Book / note | Role in stack |
 |-------------|----------------|
-| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) | Strength foundation |
-| [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove.html' | relative_url }}) | Periodized lifting + body comp |
-| [Built to Move]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) | Stability + daily movement |
-| [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) | Alternate tradition of prevention and rhythm |
-| [Middle Class — Weiss]({{ '/2026/06/20/we-have-never-been-middle-class-weiss.html' | relative_url }}) | How economic stress steals sleep and health |
+| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) | Strength foundation |
+| [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove/' | relative_url }}) | Periodized lifting + body comp |
+| [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) | Stability + daily movement |
+| [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) | Alternate tradition of prevention and rhythm |
+| [Middle Class — Weiss]({{ '/2026/06/20/we-have-never-been-middle-class-weiss/' | relative_url }}) | How economic stress steals sleep and health |
 
 ---
 
@@ -189,7 +189,7 @@ Still: for many readers, *Outlive* is the first time **exercise dose** felt as s
 - Kelly & Juliet Starrett — *Built to Move*  
 - Lou Schuler & Alwyn Cosgrove — *The New Rules of Lifting*  
 - Mark Rippetoe — *Starting Strength*  
-- [Built to Move — site notes]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }})  
+- [Built to Move — site notes]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }})  
 
 ## Status
 

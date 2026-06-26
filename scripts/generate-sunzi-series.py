@@ -51,7 +51,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def series_nav(current_vol: int) -> str:
@@ -148,7 +148,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, cards
             f"| 1 | 通读 {start}–{end}，标 3 处「庙算 / 全胜 / 虚实」落点 |",
             "| 2 | 选一古代战役，用本篇框架复盘 |",
             "| 3 | 与导读篇「读孙子四步法」写一则决策短断语 |",
-            "| 4 | 对照 [鬼谷子]({{ '/2026/04/27/guiguzi.html' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) |",
+            "| 4 | 对照 [鬼谷子]({{ '/2026/04/27/guiguzi/' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) |",
             "",
             nav_footer,
             "",

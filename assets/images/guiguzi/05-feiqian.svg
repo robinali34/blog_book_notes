@@ -1,17 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="޳�:�">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="飞钳篇">
   <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
-  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">޳� � ��K</text>
-  <!-- Bird flying up -->
-  <path d="M180 130 Q200 90 240 75 Q220 95 250 85 Q230 100 270 80" fill="none" stroke="#9CB098" stroke-width="2.5"/>
-  <text x="180" y="155" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#4A5A45" font-weight="bold">�</text>
-  <text x="180" y="172" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">l�V</text>
-  <!-- Clamp -->
-  <path d="M480 70 L520 70 L540 100 L500 100 Z" fill="#B8C8B0" stroke="#7A9078"/>
-  <path d="M480 130 L520 130 L540 100 L500 100 Z" fill="#B8C8B0" stroke="#7A9078"/>
-  <circle cx="510" cy="100" r="18" fill="#E8EDE5" stroke="#9CB098"/>
-  <text x="510" y="105" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#4A5A45">�</text>
-  <text x="580" y="95" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#4A5A45" font-weight="bold">�</text>
-  <text x="580" y="115" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">)�<�</text>
-  <path d="M300 100 L470 100" stroke="#7A8A75" stroke-width="2" stroke-dasharray="5 3"/>
-  <text x="385" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">˿6�</text>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">飞钳篇</text>
+  <rect x="280" y="55" width="240" height="120" rx="4" fill="#E8EDE5" stroke="#9CB098" stroke-width="2"/>
+  <path d="M400 55 L400 175" stroke="#7A8A75" stroke-width="2"/>
+  <rect x="290" y="55" width="100" height="120" rx="4" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="340" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#2F3D2B" font-weight="bold">扬辞</text>
+  <text x="340" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#4A5A45">先服其心</text>
+  <rect x="410" y="55" width="100" height="120" rx="4" fill="#7A9078" opacity="0.9"/>
+  <text x="460" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#F5F7F3" font-weight="bold">钳势</text>
+  <text x="460" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#E8EDE5">再制其势</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#7A8A75">飞钳并用</text>
 </svg>

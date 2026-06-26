@@ -25,13 +25,13 @@ tags: [非暴力沟通, NVC, Marshall Rosenberg, 沟通, 边界]
 |---|------|------|
 | 1 | **四要素** | 观察 Observation · 感受 Feeling · 需要 Need · 请求 Request |
 | 2 | **作者背景** | 卢森堡；NVC 中心、全球工作坊；长颈鹿语言隐喻 |
-| 3 | **系列位置** | 边界栈**表达层** — 接 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) 之后 |
+| 3 | **系列位置** | 边界栈**表达层** — 接 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) 之后 |
 | 4 | **与 DBT** | GIVE（关系）+ DEAR MAN（主张）+ FAST（自尊）与 NVC 可互译 |
 | 5 | **阅读立场** | 技能需练；非道德绑架自己「永远不能生气」 |
 | 6 | **现代映射** | 冲突、亲子、伴侣、跨文化团队、线上争执 |
-| 7 | **站内对照** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})人际层；[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})诚意 |
+| 7 | **站内对照** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})人际层；[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})诚意 |
 | 8 | **安全提示** | 严重虐待关系中，「沟通」不能替代安全计划与专业帮助 |
-| 9 | **前置阅读** | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})课题分离定边界 |
+| 9 | **前置阅读** | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})课题分离定边界 |
 | 10 | **文化适配** | 中文语境「面子」「含蓄」——NVC 是结构，语气可本土化 |
 
 ---
@@ -51,11 +51,11 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 
 | 边界栈层 | 书目 | NVC 补什么 |
 |----------|------|------------|
-| 内核层 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) · [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) · [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 先识别状态与课题，再选词 |
-| 边界层 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 拒绝时的温和坚定句式 |
+| 内核层 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) · [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) · [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 先识别状态与课题，再选词 |
+| 边界层 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 拒绝时的温和坚定句式 |
 | 表达层 | **本书** | 观察—感受—需要—请求 |
-| 关系场域 | [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | 幻灭期指责改述需要 |
-| 技能库 | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 情绪危机时的结构化主张 |
+| 关系场域 | [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | 幻灭期指责改述需要 |
+| 技能库 | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 情绪危机时的结构化主张 |
 
 ---
 
@@ -103,7 +103,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 
 ### 与正念、诚意的连接
 
-[DBT 正念]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})的**描述 Describe**：只述所见。[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})「诚意」：不欺人亦不欺己——观察是诚意的语言版。
+[DBT 正念]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})的**描述 Describe**：只述所见。[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})「诚意」：不欺人亦不欺己——观察是诚意的语言版。
 
 ### 观察练习：24 小时挑战
 
@@ -133,7 +133,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 
 **舒适类**：平静、放松、满足、开心、感激、希望、好奇、温暖、踏实、轻松、振奋
 
-[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})读者：情绪粒度细不是「矫情」，而是**更早识别过载**的信号——先命名感受，再决定要不要说话。
+[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})读者：情绪粒度细不是「矫情」，而是**更早识别过载**的信号——先命名感受，再决定要不要说话。
 
 ### 场景：说不出口感受
 
@@ -144,7 +144,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 而是：「我现在有点累，需要半小时安静。」
 ```
 
-配合 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})：儿童状态常怕表达感受会招惩罚；Adult 状态练习「感受可说出来」。
+配合 [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})：儿童状态常怕表达感受会招惩罚；Adult 状态练习「感受可说出来」。
 
 ### 身体线索表（辅助命名感受）
 
@@ -215,7 +215,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 
 ### 倾听 ≠ 同意
 
-[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})强调：可先同理，再清晰拒绝。
+[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})强调：可先同理，再清晰拒绝。
 
 ```text
 「我听到你很希望这周完成（倾听观察/需要）。
@@ -223,7 +223,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 我愿意下周一把初稿给你（替代/协商）。」
 ```
 
-[被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})：对方因拒绝而生气，多半是**对方的课题**；你仍可用 NVC 表达关心，但不牺牲边界。
+[被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})：对方因拒绝而生气，多半是**对方的课题**；你仍可用 NVC 表达关心，但不牺牲边界。
 
 ---
 
@@ -265,7 +265,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 |------|------|
 | 倾听 = 同意 | 可同理后仍拒绝 |
 | 倾听 = 解决问题 | 有时对方只要被听见 |
-| 倾听 = 无限吸收 | HSP 需设时间/能量上限（见 [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})） |
+| 倾听 = 无限吸收 | HSP 需设时间/能量上限（见 [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})） |
 
 ### 倾听脚本模板
 
@@ -282,7 +282,7 @@ NVC 语言：观察+感受+需要+请求 → 对方可能听见 → 联结或清
 
 **阿杰**每次伴侣哭诉都立刻给方案，对方更怒：「你根本不懂！」
 
-**改法**：三轮倾听（感受+需要）后再问：「你需要我给建议，还是只要陪着？」——常与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})幻灭期「追—逃」相关：追的人要**联结**，不是方案。
+**改法**：三轮倾听（感受+需要）后再问：「你需要我给建议，还是只要陪着？」——常与 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})幻灭期「追—逃」相关：追的人要**联结**，不是方案。
 
 ---
 
@@ -298,7 +298,7 @@ NVC **不否认愤怒**，但区分：
 | 愤怒 | 常夹杂评判（「他不该…」） |
 | 底层 | 未满足的需要 |
 
-**练法**：愤怒上头时，[DBT STOP]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) 暂停 → 问「我需要什么？」→ 再用四要素表达。
+**练法**：愤怒上头时，[DBT STOP]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) 暂停 → 问「我需要什么？」→ 再用四要素表达。
 
 | Jackal 愤怒 | Giraffe 转化 |
 |-------------|--------------|
@@ -312,7 +312,7 @@ NVC **不否认愤怒**，但区分：
 |------|------|------|
 | 道德内疚 | 确实伤害了他人 | 承认观察、补救、改进行为 |
 | 操纵性内疚 | 别人用「你让我失望」绑架 | 区分：对方失望是对方感受；你的选择是你的课题 |
-| 讨好者内疚 | 拒绝后自责 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) 四步自处 |
+| 讨好者内疚 | 拒绝后自责 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) 四步自处 |
 
 ```text
 内疚时自问：
@@ -340,7 +340,7 @@ NVC **不否认愤怒**，但区分：
 | | E Easy manner | 轻松 | 非审判庭 |
 | **FAST** | F Fair | 公平 | 对自己与他人公平 |
 | | A Apologies | 少过度道歉 | 拒绝不必道歉十遍 |
-| | S Stick to values | 需要层价值 | 与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) 价值一致 |
+| | S Stick to values | 需要层价值 | 与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) 价值一致 |
 | | T Truthful | 观察诚实 | 不撒谎威胁 |
 
 ### 完整场景：职场请求调整分工
@@ -356,7 +356,7 @@ NVC **不否认愤怒**，但区分：
 | GIVE | 听对方是否压力大，验证：「听起来你也在赶工？」 |
 | FAST | 不贬低：「不是我小气」，诚实：「我没办法再默默接。」 |
 
-若对方拒绝：进入 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) 清晰「不」+ 上级正式渠道。
+若对方拒绝：进入 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) 清晰「不」+ 上级正式渠道。
 
 ---
 
@@ -370,11 +370,11 @@ NVC **不否认愤怒**，但区分：
 | 会议被打断 | 「你根本不尊重人！」 | 「我说到一半时被打断两次（观察）。挫败（感受）。需要被听完（需要）。愿意我先讲完再讨论吗？」 |
 | 抢功 | 「你太卑鄙！」 | 「会上呈现的是我上周发的方案（观察）。困惑、失望（感受）。需要认可与诚实（需要）。愿意会上说明来源吗？」 |
 
-**HSP 补充**：会后需恢复时间；书面 NVC 草稿常比当场吵更稳（[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})）。
+**HSP 补充**：会后需恢复时间；书面 NVC 草稿常比当场吵更稳（[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})）。
 
 ### 对父母
 
-与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})课题分离联用：
+与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})课题分离联用：
 
 | 纠缠 | NVC + 分离 |
 |------|------------|
@@ -386,7 +386,7 @@ NVC **不否认愤怒**，但区分：
 
 ### 伴侣与亲密关系
 
-联结 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})：幻灭期指责 → 改述需要。
+联结 [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})：幻灭期指责 → 改述需要。
 
 | 阶段 | 常见 Jackal | Giraffe 转向 |
 |------|--------------|--------------|
@@ -418,7 +418,7 @@ NVC **不否认愤怒**，但区分：
 | 群聊争执 | 「你就是杠精！」 | 「刚才三次打断我发言（观察）。挫败（感受）。需要被听完（需要）。愿意私聊细谈吗？」 |
 | 邮件催办 | 「你们都不负责！」 | 「截止日已过两天（观察）。担心（感受）。需要清晰进度（需要）。愿意今天下班前给更新吗？」 |
 
-[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})：线上冲突刺激更久——书面 NVC + 延迟发送。
+[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})：线上冲突刺激更久——书面 NVC + 延迟发送。
 
 ### 案例小传：拒绝后的 Giraffe
 
@@ -436,7 +436,7 @@ NVC **不否认愤怒**，但区分：
 我愿意 下次先说「我想一下」吗？
 ```
 
-[菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }})「念头才萌」：在 Jackal 自责启动前，先命名感受与需要。
+[菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }})「念头才萌」：在 Jackal 自责启动前，先命名感受与需要。
 
 ### 自我同理日记
 
@@ -468,16 +468,16 @@ NVC **不否认愤怒**，但区分：
 
 | 书 | 在 NVC 中的角色 |
 |----|-----------------|
-| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | Adult 状态再练 NVC；父母状态易 Jackal |
-| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 课题分离定边界，NVC 定说法 |
-| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 拒绝三步 + 四要素 |
-| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 感受词库、恢复、书面沟通 |
-| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 危机技能 + DEAR MAN 结构 |
-| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | 幻灭期语言改造 |
-| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 「诚意」= 观察实情，不欺人 |
-| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | 重大冲突是否离开：NVC 不能替代安全评估 |
-| [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) | 养心后再言，不急评判 |
-| [塔罗入门]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) | 冲突前抽牌问：我真正需要是什么？ |
+| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | Adult 状态再练 NVC；父母状态易 Jackal |
+| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 课题分离定边界，NVC 定说法 |
+| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 拒绝三步 + 四要素 |
+| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 感受词库、恢复、书面沟通 |
+| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 危机技能 + DEAR MAN 结构 |
+| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | 幻灭期语言改造 |
+| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 「诚意」= 观察实情，不欺人 |
+| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | 重大冲突是否离开：NVC 不能替代安全评估 |
+| [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }}) | 养心后再言，不急评判 |
+| [塔罗入门]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) | 冲突前抽牌问：我真正需要是什么？ |
 
 ---
 
@@ -505,7 +505,7 @@ NVC **不否认愤怒**，但区分：
 【实际结果 · 下次调整】
 ```
 
-### 周复盘（配合 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})）
+### 周复盘（配合 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})）
 
 ```text
 本周 Jackal 爆发 1 次：触发需要是什么？
@@ -524,7 +524,7 @@ NVC **不否认愤怒**，但区分：
 | 22–24 | 愤怒转化 | STOP + 需要清单 |
 | 25–26 | 拒绝 + NVC | 练 2 次清晰拒绝 |
 | 27 | 自我同理 | 写 1 篇对自己的四要素 |
-| 28 | 总复盘 | 与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})课题日记对照 |
+| 28 | 总复盘 | 与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})课题日记对照 |
 
 ---
 
@@ -570,16 +570,16 @@ NVC **不否认愤怒**，但区分：
 ## 关联阅读
 
 - *Nonviolent Communication: A Language of Life* — Marshall B. Rosenberg  
-- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})  
-- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})  
-- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})  
-- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
-- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})  
-- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }})  
-- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan.html' | relative_url }})  
-- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})  
-- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})  
-- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})  
+- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})  
+- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})  
+- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})  
+- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
+- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})  
+- [亲密关系 — 本站笔记]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }})  
+- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan/' | relative_url }})  
+- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})  
+- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective/' | relative_url }})  
+- [四镜头分析 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})  
 
 ## 状态
 

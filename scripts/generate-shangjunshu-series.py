@@ -60,7 +60,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def series_nav(current_vol: int) -> str:
@@ -157,7 +157,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, cards
             f"| 1 | 通读 {start}–{end}，标 3 处「更法 / 赏刑 / 农战」落点 |",
             "| 2 | 选一变法史案，用本篇框架复盘 |",
             "| 3 | 与导读篇「读商君四步法」写一则制度/变革短断语 |",
-            "| 4 | 对照 [韩非子]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) |",
+            "| 4 | 对照 [韩非子]({{ '/2026/05/02/hanfeizi/' | relative_url }}) 或 [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) |",
             "",
             nav_footer,
             "",

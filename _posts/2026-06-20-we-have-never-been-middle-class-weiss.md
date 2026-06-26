@@ -34,7 +34,7 @@ Three questions to carry while reading: **Who benefits when I treat my career an
 | 6 | **Key villains (structural)** | Financialization, individualized risk, property and credential fetishes—not lazy individuals |
 | 7 | **Politics** | Left critique of liberal mobility faith; skeptical of both austerity and aspirational consumerism |
 | 8 | **Reading stance** | Analytical lens for policy, HR, education, family finance—not a bootstrap manual |
-| 9 | **Site links** | [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) on exchange structures; [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) on ideology vs interest; [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) on post-hoc rationalization |
+| 9 | **Site links** | [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) on exchange structures; [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) on ideology vs interest; [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) on post-hoc rationalization |
 | 10 | **Parallel caution** | China-relevant parallels below are **parallel lens** only—Weiss does not analyze PRC case studies |
 
 ---
@@ -132,7 +132,7 @@ Weiss traces mobility talk to a **pacification function**: promise future inclus
 2. **Deflects redistribution** — fix the pipeline, not the cap table  
 3. **Fractures coalitions** — each household optimizes alone  
 
-This is where [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) meets sociology: Adlerian “task separation” can free individuals from approval traps, but Weiss asks the **structural** question—who designed the task list?
+This is where [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) meets sociology: Adlerian “task separation” can free individuals from approval traps, but Weiss asks the **structural** question—who designed the task list?
 
 ### Cases (as Weiss discusses)
 
@@ -171,9 +171,9 @@ Firms once offered longer job tenures and defined-benefit pensions; states expan
 
 Financialization does not mean everyone trades stocks. It means **decisions about housing, education, health, and old age** are mediated as **investment calculations**. The middle-class subject must read markets, tax codes, and school rankings like a fund manager—while lacking **inside information or leverage**.
 
-Link to [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}): organizations design exchange structures; financialized workers experience exchange as **self-negotiated bets** without a clear counterparty to hold accountable.
+Link to [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}): organizations design exchange structures; financialized workers experience exchange as **self-negotiated bets** without a clear counterparty to hold accountable.
 
-[Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) helps here: people narrate downturns as personal mistakes after the fact. Weiss wants **pre-hoc** structural sight—who guaranteed the upside to asset holders?
+[Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) helps here: people narrate downturns as personal mistakes after the fact. Weiss wants **pre-hoc** structural sight—who guaranteed the upside to asset holders?
 
 ### Cases
 
@@ -185,7 +185,7 @@ Link to [Management Essence]({{ '/2026/06/02/management-essence-interest-exchang
 
 - **Benefits design** — Label clearly what risk the firm **still** bears vs what it exported.  
 - **Personal finance media critique** — Ask whose commissions rise when you “optimize.”  
-- **Retrospectives** — Use [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) on **projects**, not life outcomes; macro variance is not a sprint failure.
+- **Retrospectives** — Use [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) on **projects**, not life outcomes; macro variance is not a sprint failure.
 
 ### Anti-patterns
 
@@ -208,7 +208,7 @@ Weiss treats degrees as **positional goods** masquerading as pure skill. States 
 
 Credentialization turns schools into **gatekeepers** and students into **debtors betting on themselves**. The double bind: you must borrow to compete; if wages don't rise, **you** failed the investment thesis—not the employers who captured productivity gains.
 
-Parallel to [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill.html' | relative_url }}): deleting bureaucratic steps is vital in firms, but **credential inflation** adds steps society-wide—another master's, another bootcamp certificate—without deleting the underlying scarcity.
+Parallel to [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill/' | relative_url }}): deleting bureaucratic steps is vital in firms, but **credential inflation** adds steps society-wide—another master's, another bootcamp certificate—without deleting the underlying scarcity.
 
 ### Cases
 
@@ -278,9 +278,9 @@ If the middle class is ideologically defined against **working class** or “und
 
 Boundary work **horizontalizes** conflict: the struggling professional resents the unionized worker's pension; the tenant resents the “non-working” poor; the immigrant becomes scapegoat. Elites benefit when **anxious middles** police boundaries instead of questioning **top-heavy asset rules**.
 
-[Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) on **术** (methods) and visibility of reward: rulers profit when subjects compete for visible rank markers. [Shangjunshu]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) on weakening lateral solidarity to strengthen central control—an ancient rhyme with modern boundary politics, not a literal mapping.
+[Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) on **术** (methods) and visibility of reward: rulers profit when subjects compete for visible rank markers. [Shangjunshu]({{ '/2026/05/13/shangjunshu/' | relative_url }}) on weakening lateral solidarity to strengthen central control—an ancient rhyme with modern boundary politics, not a literal mapping.
 
-[Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}): use the Guiguzi lens on **interests**—whose interest is served when I insist I am not “that kind of person”?
+[Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}): use the Guiguzi lens on **interests**—whose interest is served when I insist I am not “that kind of person”?
 
 ### Cases
 
@@ -315,7 +315,7 @@ Neoliberal labor markets demand **flexibility**, **lifelong learning**, and **pe
 
 The **worker-as-investor** merges employee and capitalist in one body—a fiction. You manage skills like stock, but you cannot **diversify** your life the way wealth holders diversify assets. You cannot **sell shares** of yourself without commodifying identity to exhaustion.
 
-Tie to [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}): strategy assumes **terrain and supply lines**; the investor-worker fights on terrain they do not own, with supply lines (health, childcare, housing) priced by others.
+Tie to [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}): strategy assumes **terrain and supply lines**; the investor-worker fights on terrain they do not own, with supply lines (health, childcare, housing) priced by others.
 
 ### Cases
 
@@ -348,7 +348,7 @@ Tie to [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}): strategy assumes 
 | **Israel** | Professional/middle ascent vs **housing protests**, security state economy | Startup glamour coexists with cost-of-living rage |
 | **United States** | Home + college dream, racialized history of who got FHA/suburb access | Mobility story **excludes** then blames excluded |
 
-Reading tip: compare **what interviewees say** (“I made smart choices”) with **what structures repeat** (rent, debt, who inherited down payments). [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian.html' | relative_url }}) teaches long-cycle pattern reading—useful discipline when mobility anecdotes tempt short memory.
+Reading tip: compare **what interviewees say** (“I made smart choices”) with **what structures repeat** (rent, debt, who inherited down payments). [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian/' | relative_url }}) teaches long-cycle pattern reading—useful discipline when mobility anecdotes tempt short memory.
 
 ---
 
@@ -379,18 +379,18 @@ Treat as **structural rhyme**, not evidence inside the book.
 
 | Note | Focus | Relation to Weiss |
 |------|-------|-------------------|
-| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) | Exchange structures | HR “invest in yourself” without firm risk-sharing = one-sided exchange |
-| [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill.html' | relative_url }}) | Delete bureaucratic bloat | Society-wide credential bloat needs political delete, not only personal hustle |
-| [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) | Power, visibility, method | Rank games distract from asset concentration |
-| [Shangjunshu]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) | Weak lateral ties | Boundary work weakens horizontal solidarity |
-| [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian.html' | relative_url }}) | Long cycles | Mobility faith ignores generational asset resets |
-| [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | Multi-lens decisions | See ideology, interest, composure, intuition together |
-| [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | Meritocracy, approval | Individual freedom from others' expectations ≠ structural mobility |
-| [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) | Narrative self | Post-hoc stories of “smart choices” after outcomes known |
-| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | After-action learning | Audit narratives vs data in teams—and in macro life plans |
-| [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }}) | Terrain, logistics | Fight on ground you don't own = investor-worker bind |
+| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) | Exchange structures | HR “invest in yourself” without firm risk-sharing = one-sided exchange |
+| [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill/' | relative_url }}) | Delete bureaucratic bloat | Society-wide credential bloat needs political delete, not only personal hustle |
+| [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) | Power, visibility, method | Rank games distract from asset concentration |
+| [Shangjunshu]({{ '/2026/05/13/shangjunshu/' | relative_url }}) | Weak lateral ties | Boundary work weakens horizontal solidarity |
+| [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian/' | relative_url }}) | Long cycles | Mobility faith ignores generational asset resets |
+| [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | Multi-lens decisions | See ideology, interest, composure, intuition together |
+| [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | Meritocracy, approval | Individual freedom from others' expectations ≠ structural mobility |
+| [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) | Narrative self | Post-hoc stories of “smart choices” after outcomes known |
+| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | After-action learning | Audit narratives vs data in teams—and in macro life plans |
+| [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }}) | Terrain, logistics | Fight on ground you don't own = investor-worker bind |
 
-**One chain:** Weiss names the **ideology** → [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) split story from interest → [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) asks if exchange is mutual → [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian.html' | relative_url }}) widens the time horizon → collective politics (outside this book) picks up where individual narrative ends.
+**One chain:** Weiss names the **ideology** → [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) split story from interest → [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) asks if exchange is mutual → [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian/' | relative_url }}) widens the time horizon → collective politics (outside this book) picks up where individual narrative ends.
 
 ---
 
@@ -430,7 +430,7 @@ Run quarterly on the **same** narrative (e.g., “buy now,” “MBA pays off,�
 Follow-up:
 1. If everyone in my cohort does the same move, what happens to **my** edge?
 2. What move would raise **bargaining power** instead of personal distinction?
-3. What would [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) call a fairer exchange here?
+3. What would [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) call a fairer exchange here?
 ```
 
 These worksheets are **diagnostic**, not therapeutic. They complement—but do not replace—therapy, union organizing, financial planning, or policy action.
@@ -447,7 +447,7 @@ Weiss ends in a sober place: middle-class ideology **dampens** class politics by
 
 A **class-for-itself** (in the old language) would recognize shared interests and bargain collectively. The investor-subject is a **class-in-itself** fragmented into portfolios: my home, my degree, my LinkedIn, my child's school district. Each item suggests **solo optimization** rather than strike, rent strike, or tax politics.
 
-This is where [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) meets modern sociology: when subjects compete for visible rank, **central accumulation** proceeds offstage. [Shangjunshu]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) on weakening lateral alliances rhymes with **anti-solidarity**—not as proof Weiss read Legalists, but as a cross-cultural warning about divide-and-rule.
+This is where [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) meets modern sociology: when subjects compete for visible rank, **central accumulation** proceeds offstage. [Shangjunshu]({{ '/2026/05/13/shangjunshu/' | relative_url }}) on weakening lateral alliances rhymes with **anti-solidarity**—not as proof Weiss read Legalists, but as a cross-cultural warning about divide-and-rule.
 
 ### Usage scenarios
 
@@ -488,12 +488,12 @@ This is where [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) meets
 | **Weekly** | One news story through Worksheet A (three rows minimum) |
 | **Monthly** | One personal or family plan through Worksheet B |
 | **Quarterly** | Re-read ethnographic comparison table; note what changed in your city |
-| **Yearly** | Pair with [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian.html' | relative_url }}) long-cycle reading—one chapter on rise/fall of a dynasty as antidote to mobility amnesia |
+| **Yearly** | Pair with [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian/' | relative_url }}) long-cycle reading—one chapter on rise/fall of a dynasty as antidote to mobility amnesia |
 
 ```text
 【Friday prompt】What story this week told me to invest harder—and who sold it?
 【Sunday prompt】Where did I do boundary work (taste, school, job title) without adding security?
-【Month-end】One fairer exchange I could support collectively vs alone ([Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}))
+【Month-end】One fairer exchange I could support collectively vs alone ([Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}))
 ```
 
 Not a wellness routine—a **reality check** rhythm so ideology does not become the only script.
@@ -549,7 +549,7 @@ Wrong question for this book. Ask: **what risks am I carrying**, and **whose ass
 She analyzes **property fetish**—when shelter must also be retirement lottery and moral badge. Policy and family choices differ; clarity beats fetish.
 
 **Q3: How does this relate to meritocracy?**  
-Meritocracy is the **moral soundtrack** of mobility ideology. See [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) for individual approval traps; Weiss for **systemic** merit narratives.
+Meritocracy is the **moral soundtrack** of mobility ideology. See [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) for individual approval traps; Weiss for **systemic** merit narratives.
 
 **Q4: Germany isn't the US—does the book still apply?**  
 Yes—comparison is the point. Ideology **adapts** to local institutions (vocational pride, rental laws) without dissolving the investor-subject.
@@ -558,7 +558,7 @@ Yes—comparison is the point. Ideology **adapts** to local institutions (vocati
 High income ≠ structural security if **expenses, debt, and status competition** consume the margin; many professionals do **intense boundary work**.
 
 **Q6: HR says “owners mindset”—Weiss?**  
-Classic **worker-as-investor** language without equity. Contrast with [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) mutual exchange.
+Classic **worker-as-investor** language without equity. Contrast with [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) mutual exchange.
 
 **Q7: Student debt—is college still worth it?**  
 Weiss would say “worth it for whom, at what **marginal** credential level?” Run Worksheet B; averages hide **positional** dynamics.
@@ -572,10 +572,10 @@ Share **risk map** (housing, health, pension) without mocking their sacrifices; 
 **Q10: What politics follows?**  
 Book tilts left: redistribution, decommodification, tenant power, de-emphasizing asset appreciation as social goal. Weiss does not prescribe one party platform.
 
-**Q11: Relation to [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }})?**  
+**Q11: Relation to [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }})?**  
 Brains invent coherent stories after choices; mobility ideology supplies **ready-made** success and failure scripts.
 
-**Q12: Use with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})?**  
+**Q12: Use with [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }})?**  
 Yes for **team** learning loops; don't treat macro setbacks as sprint failures without structural review.
 
 **Q13: Is this book pessimistic?**  
@@ -585,7 +585,7 @@ It refuses false comfort. Precarity is **political**, not a personal aura you ca
 Chibber often presses **material class interests** and professional-class blind spots; Weiss shows **how subjects narrate and police** middle identity in daily life. Read both: structure + lived ideology.
 
 **Q15: Managers reading this—practical takeaway?**  
-Stop exporting risk while preaching ownership. If you want investor-mindset workers, share **upside and stability**—see [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) on mutual exchange.
+Stop exporting risk while preaching ownership. If you want investor-mindset workers, share **upside and stability**—see [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) on mutual exchange.
 
 ---
 
@@ -603,7 +603,7 @@ Stop exporting risk while preaching ownership. If you want investor-mindset work
 
 ### On this site
 
-[Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) · [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill.html' | relative_url }}) · [Hanfeizi]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) · [Shangjunshu]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) · [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian.html' | relative_url }}) · [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) · [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) · [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) · [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) · [Sunzi]({{ '/2026/06/08/sunzi.html' | relative_url }})
+[Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) · [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill/' | relative_url }}) · [Hanfeizi]({{ '/2026/05/02/hanfeizi/' | relative_url }}) · [Shangjunshu]({{ '/2026/05/13/shangjunshu/' | relative_url }}) · [Zizhi Tongjian]({{ '/2026/05/25/zizhi-tongjian/' | relative_url }}) · [Four Lenses]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) · [Courage to Be Disliked]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) · [Gazzaniga]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) · [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) · [Sunzi]({{ '/2026/06/08/sunzi/' | relative_url }})
 
 ---
 

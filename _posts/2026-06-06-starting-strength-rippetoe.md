@@ -36,8 +36,8 @@ Three questions to carry while reading: **Is the bar path correct? Am I recoveri
 | 6 | **Linear progression** | Fixed sets/reps; load increases until recovery fails—then you are no longer a novice |
 | 7 | **Technique priority** | Weight is earned by **model-consistent form**; grinding ugly reps is a program failure |
 | 8 | **Recovery stack** | Sleep, food, stress management—not optional accessories to the program |
-| 9 | **Boundaries** | Training stress is not an excuse to ignore injury signals; see [DBT distress tolerance]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) for riding discomfort vs ignoring harm |
-| 10 | **Site links** | [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) for logging sessions; [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) on rhythm and recovery as a different tradition of “nourishing life” |
+| 9 | **Boundaries** | Training stress is not an excuse to ignore injury signals; see [DBT distress tolerance]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) for riding discomfort vs ignoring harm |
+| 10 | **Site links** | [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) for logging sessions; [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) on rhythm and recovery as a different tradition of “nourishing life” |
 
 <figure class="diagram-figure">
 <img src="{{ '/assets/images/fitness/starting-strength-overview.svg' | relative_url }}" alt="Starting Strength A/B template and linear progression" />
@@ -153,7 +153,7 @@ Training stress  →  Recovery  →  Adaptation (stronger)
               (next session adds stress)
 ```
 
-This loop is why **more exercises** are not better for a novice: they fragment stress and delay recovery. It also mirrors why [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) matters for lifters—without a log, you cannot tell whether failure was **technique**, **under-recovery**, or **program mismatch**.
+This loop is why **more exercises** are not better for a novice: they fragment stress and delay recovery. It also mirrors why [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) matters for lifters—without a log, you cannot tell whether failure was **technique**, **under-recovery**, or **program mismatch**.
 
 ---
 
@@ -186,12 +186,12 @@ This loop is why **more exercises** are not better for a novice: they fragment s
 
 | Lens | Connection |
 |------|------------|
-| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | Session log + T+30 review when stalls repeat |
-| [DBT Skills]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | Tolerate workout discomfort without confusing it with self-harm or injury denial |
-| [Gazzaniga — Cognitive Neuroscience]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience.html' | relative_url }}) | Motor learning, habit, and the stories we tell about “willpower” |
-| [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) | Another framework for rhythm, nourishment, and not exhausting the root |
-| [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill.html' | relative_url }}) | Delete exercise bloat; simplify before adding complexity |
-| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }}) | Trade short-term comfort for long-term capacity—honestly priced |
+| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | Session log + T+30 review when stalls repeat |
+| [DBT Skills]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | Tolerate workout discomfort without confusing it with self-harm or injury denial |
+| [Gazzaniga — Cognitive Neuroscience]({{ '/2026/05/12/gazzaniga-cognitive-neuroscience/' | relative_url }}) | Motor learning, habit, and the stories we tell about “willpower” |
+| [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) | Another framework for rhythm, nourishment, and not exhausting the root |
+| [The Algorithm]({{ '/2026/06/14/the-algorithm-jon-mcneill/' | relative_url }}) | Delete exercise bloat; simplify before adding complexity |
+| [Management Essence]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }}) | Trade short-term comfort for long-term capacity—honestly priced |
 
 ---
 
@@ -222,11 +222,11 @@ Treat SS as a **strong first operating system**, then upgrade when your data say
 - Mark Rippetoe & Andy Baker — *Practical Programming for Strength Training* (post-novice)  
 - Mark Rippetoe & Stef Bradford — *The Barbell Prescription* (strength training for masters)  
 - Lon Kilgore — *Fit* (broader fitness science context)  
-- [The New Rules of Lifting — site notes]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove.html' | relative_url }}) — staged programs after novice LP  
-- [Built to Move — site notes]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) — daily mobility and vital signs  
-- [Outlive — site notes]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }}) — longevity exercise portfolio  
-- [Effective Retrospective — site notes]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})  
-- [DBT Skills — site notes]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
+- [The New Rules of Lifting — site notes]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove/' | relative_url }}) — staged programs after novice LP  
+- [Built to Move — site notes]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) — daily mobility and vital signs  
+- [Outlive — site notes]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) — longevity exercise portfolio  
+- [Effective Retrospective — site notes]({{ '/2026/05/24/effective-retrospective/' | relative_url }})  
+- [DBT Skills — site notes]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
 
 ## Status
 

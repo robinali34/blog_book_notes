@@ -1,19 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="CÇ:þ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="æƒç¯‡">
   <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
-  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">CÇ · Ca)³</text>
-  <!-- Balance scale -->
-  <line x1="400" y1="60" x2="400" y2="150" stroke="#7A8A75" stroke-width="3"/>
-  <line x1="320" y1="80" x2="480" y2="80" stroke="#7A8A75" stroke-width="3"/>
-  <line x1="320" y1="80" x2="280" y2="120" stroke="#9CB098" stroke-width="2"/>
-  <line x1="480" y1="80" x2="520" y2="110" stroke="#9CB098" stroke-width="2"/>
-  <rect x="250" y="115" width="70" height="35" rx="6" fill="#B8C8B0" stroke="#7A9078"/>
-  <text x="285" y="138" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#2F3D2B" font-weight="bold">)</text>
-  <rect x="480" y="105" width="70" height="35" rx="6" fill="#D4DDCE" stroke="#9CB098"/>
-  <text x="515" y="128" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="13" fill="#4A5A45" font-weight="bold">³</text>
-  <polygon points="385,150 415,150 400,165" fill="#7A9078"/>
-  <text x="130" y="100" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">¡)Î</text>
-  <text x="130" y="118" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">¡³</text>
-  <text x="670" y="100" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">¡áz</text>
-  <text x="670" y="118" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">¡q</text>
-  <text x="400" y="185" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#7A8A75">à‹:6 · CaŽÃ</text>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">æƒç¯‡</text>
+  <rect x="280" y="55" width="240" height="120" rx="4" fill="#E8EDE5" stroke="#9CB098" stroke-width="2"/>
+  <path d="M400 55 L400 175" stroke="#7A8A75" stroke-width="2"/>
+  <rect x="290" y="55" width="100" height="120" rx="4" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="340" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#2F3D2B" font-weight="bold">è½»</text>
+  <text x="340" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#4A5A45">æƒè¡¡åˆ©å®³</text>
+  <rect x="410" y="55" width="100" height="120" rx="4" fill="#7A9078" opacity="0.9"/>
+  <text x="460" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#F5F7F3" font-weight="bold">é‡</text>
+  <text x="460" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#E8EDE5">è®¡å¯¡è€…æ™º</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#7A8A75">è®¡å¤šè€…ä¹±</text>
 </svg>

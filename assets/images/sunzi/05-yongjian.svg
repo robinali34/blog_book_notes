@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="(τ”τ:ώ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="η”¨ι—΄η―‡">
   <rect width="800" height="200" rx="12" fill="#F5F7F3" stroke="#C8D4C0"/>
-  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">(τΗ  ”τ;ο</text>
-  <rect x="60" y="60" width="120" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
-  <text x="120" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">ΰτ</text>
-  <rect x="200" y="60" width="120" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
-  <text x="260" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">…τ</text>
-  <rect x="340" y="60" width="120" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
-  <text x="400" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">Ντ</text>
-  <rect x="480" y="60" width="120" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
-  <text x="540" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">{τ</text>
-  <rect x="620" y="60" width="120" height="50" rx="6" fill="#D4E0D0" stroke="#7A9078"/>
-  <text x="680" y="92" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#2F3D2B">τ</text>
-  <text x="400" y="145" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#4A5A45">$@ε¨άΊϊHε_</text>
-  <text x="400" y="170" text-anchor="middle" font-family="Noto Sans SC, sans-serif" font-size="11" fill="#A65D57">;οεt · οε τ</text>
+  <text x="400" y="32" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#4A5A45" font-weight="bold">η”¨ι—΄η―‡</text>
+  <rect x="280" y="55" width="240" height="120" rx="4" fill="#E8EDE5" stroke="#9CB098" stroke-width="2"/>
+  <path d="M400 55 L400 175" stroke="#7A8A75" stroke-width="2"/>
+  <rect x="290" y="55" width="100" height="120" rx="4" fill="#D4E0D0" stroke="#7A9078"/>
+  <text x="340" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#2F3D2B" font-weight="bold">δΊ”ι—΄</text>
+  <text x="340" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#4A5A45">ε› ι—΄</text>
+  <rect x="410" y="55" width="100" height="120" rx="4" fill="#7A9078" opacity="0.9"/>
+  <text x="460" y="115" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#F5F7F3" font-weight="bold">ζδΈ»</text>
+  <text x="460" y="138" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#E8EDE5">ε†…ι—΄ει—΄</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="11" fill="#7A8A75">ζ…ζζδΈ»</text>
 </svg>

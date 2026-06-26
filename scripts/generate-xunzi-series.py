@@ -68,7 +68,7 @@ def vol_filename(vol: int, start: int, end: int) -> str:
 
 
 def rel(slug: str) -> str:
-    return f"{{{{ '/{slug}.html' | relative_url }}}}"
+    return f"{{{{ '/{slug}/' | relative_url }}}}"
 
 
 def series_nav(current_vol: int) -> str:
@@ -165,7 +165,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, cards
             f"| 1 | 通读 {start}–{end}，标 3 处「礼 / 法 / 伪」落点 |",
             "| 2 | 选一史案或组织情境，用本篇框架复盘 |",
             "| 3 | 与导读篇「读荀子四步法」写一则教化/制度短断语 |",
-            "| 4 | 对照 [韩非子]({{ '/2026/05/02/hanfeizi.html' | relative_url }}) 或 [商君书]({{ '/2026/05/13/shangjunshu.html' | relative_url }}) |",
+            "| 4 | 对照 [韩非子]({{ '/2026/05/02/hanfeizi/' | relative_url }}) 或 [商君书]({{ '/2026/05/13/shangjunshu/' | relative_url }}) |",
             "",
             nav_footer,
             "",

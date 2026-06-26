@@ -25,8 +25,8 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 | **随牌手册** | _有 / 无 — 待确认_ |
 | **第一印象** | _待补充：开箱感受、画风、手感_ |
 
-**全牌解析** → [Rider-Waite 1909 韦特塔罗 — 全牌解析与用法]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }})（78 张牌义 + 牌面图 + 韦特用法）  
-**深化磨合** → [塔罗笔记 — 新牌磨合与多副牌协作]({{ '/2026/05/16/tarot-new-deck-bonding.html' | relative_url }})（世界·战车·力量 + 21 天步骤 + 多副牌分工）
+**全牌解析** → [Rider-Waite 1909 韦特塔罗 — 全牌解析与用法]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }})（78 张牌义 + 牌面图 + 韦特用法）  
+**深化磨合** → [塔罗笔记 — 新牌磨合与多副牌协作]({{ '/2026/05/16/tarot-new-deck-bonding/' | relative_url }})（世界·战车·力量 + 21 天步骤 + 多副牌分工）
 
 ---
 
@@ -42,7 +42,7 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 | 6 | **磨合两种理解** | 心理学：建立直觉联想与解读习惯；灵性：牌组能量与使用者同步——**做法往往相同** |
 | 7 | **与《鬼谷子》之别** | 鬼谷子重识人察势；塔罗重内观象征与直觉联结 |
 | 8 | **实践原则** | 先建立牌面语言系统，再追求「解准」；每日一牌 + 写笔记 |
-| 9 | **系列位置** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})之「内观镜」；与 [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }})修省、阳明心学并读 |
+| 9 | **系列位置** | [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})之「内观镜」；与 [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }})修省、阳明心学并读 |
 | 10 | **安全边界** | 重大医疗、法律、财务决策须专业咨询；塔罗辅助反思，不替代判断 |
 
 {% include tarot-structure-diagram.html caption="图 1 — 78 张牌：大阿卡纳 22 张 + 小阿卡纳四组各 14 张" %}
@@ -85,7 +85,7 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 
 ## 新牌磨合 — 7 天方案
 
-入门第一周按此执行；第 8 天起可接 [21 天深化步骤]({{ '/2026/05/16/tarot-new-deck-bonding.html' | relative_url }})。
+入门第一周按此执行；第 8 天起可接 [21 天深化步骤]({{ '/2026/05/16/tarot-new-deck-bonding/' | relative_url }})。
 
 ### 第 1 天：正式认识牌组
 
@@ -114,7 +114,7 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 | 3 | 我们未来会如何合作？ |
 
 这类问题主要是帮助建立**互动感**，不必追求准确。  
-（进阶版：问「这副牌如何表达信息？」而非「牌灵是谁？」——见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding.html' | relative_url }})。）
+（进阶版：问「这副牌如何表达信息？」而非「牌灵是谁？」——见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding/' | relative_url }})。）
 
 ### 第 4 天：开始每日一牌
 
@@ -221,7 +221,7 @@ Tarot · 78 张 · 大阿卡纳 22 + 小阿卡纳 56 · **莱德韦特 Rider-Wai
 | XX | 审判 | Judgement | 召唤、回顾、复活 |
 | XXI | 世界 | The World | 完成、整合、新循环 |
 
-_随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }}) 续写个人理解与案例。_
+_随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }}) 续写个人理解与案例。_
 
 ---
 
@@ -287,7 +287,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 | 步骤 | 做法 |
 |------|------|
 | 晨间 | 洗牌，问：**今天我最需要关注什么？** |
-| 记录 | 抽到什么牌 · 第一感觉 · 书本牌义（可查 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }})） |
+| 记录 | 抽到什么牌 · 第一感觉 · 书本牌义（可查 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }})） |
 | 晚间 | 当天发生了什么？与牌面有何呼应？ |
 
 **示例 — 圣杯二**
@@ -307,7 +307,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 | 中 | 当前状态或核心课题 |
 | 右 | 趋势或可能走向（非定命） |
 
-**凯尔特十字** — 熟悉 22 张大阿卡纳后再尝试，结构复杂但信息量大。详见 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot.html' | relative_url }})。
+**凯尔特十字** — 熟悉 22 张大阿卡纳后再尝试，结构复杂但信息量大。详见 [全牌解析]({{ '/2026/04/28/rider-waite-1909-waite-tarot/' | relative_url }})。
 
 **单张澄清牌** — 三张牌阵抽完后，对最困惑的一张再抽一张：「关于这张牌，我还需要看见什么？」
 
@@ -324,13 +324,13 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 2. 当日回顾：他刚和老板谈崩一个方案——是「想法塌了」，不是楼塌了  
 3. 练法：吓人牌先写**三个画面元素**，再写**一个生活对照**，最后才看书义  
 
-与 [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }})「风过竹不留声」：牌面刺激可以强烈，但不必黏着灾难叙事。
+与 [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }})「风过竹不留声」：牌面刺激可以强烈，但不必黏着灾难叙事。
 
 ### 场景二：书义与直觉打架
 
 **阿敏**抽到力量逆位，直觉是「温柔一点」，书上写「软弱、失控」。她推翻直觉，按书背，结果解牌很僵。
 
-**整合路径**（见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding.html' | relative_url }})力量牌）：
+**整合路径**（见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding/' | relative_url }})力量牌）：
 
 ```text
 先感受 → 再查资料 → 最后整合
@@ -348,7 +348,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 | 替对方做决定 | 说明：塔罗是反思工具，不是私家侦探 |
 | 连环换牌直到满意 | 一题一副，抽完即停 |
 
-可联结 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})：帮朋友听见**需要**，而非给判决。
+可联结 [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})：帮朋友听见**需要**，而非给判决。
 
 ### 场景四：逆位要不要学？
 
@@ -369,7 +369,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 | 我该不该辞职？ | 若我留下，最需要调整的是什么？ |
 | 会不会升职？ | 接下来三个月，我在职场上最该练的能力是什么？ |
 
-重大决策用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})：塔罗只是一镜。
+重大决策用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})：塔罗只是一镜。
 
 ### 场景六：和心理学笔记联读
 
@@ -379,7 +379,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 | 边界模糊 | 「此刻我最该守的一条线是什么？」 |
 | 情绪过载 | 「我现在最需要什么滋养？」 |
 
-与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})课题分离、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})恢复时间并练。
+与 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})课题分离、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})恢复时间并练。
 
 ---
 
@@ -431,14 +431,14 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 
 | 步 | 动作 | 要点 |
 |----|------|------|
-| 1 | 写问题 | 战车式聚焦，见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding.html' | relative_url }}) |
+| 1 | 写问题 | 战车式聚焦，见 [磨合笔记]({{ '/2026/05/16/tarot-new-deck-bonding/' | relative_url }}) |
 | 2 | 洗牌切牌 | 意念在问题上，不求「洗到好牌」 |
 | 3 | 翻牌 | **先沉默看画面 30 秒** |
 | 4 | 第一直觉 | 写下 3 个词，不删改 |
 | 5 | 联系位置 | 牌阵位置赋予语境 |
 | 6 | 查资料 | 书义、韦特原文、个人笔记 |
 | 7 | 整合叙述 | 用「我」的语言讲给未来的自己 |
-| 8 | 晚间/周后验证 | 并入 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) |
+| 8 | 晚间/周后验证 | 并入 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) |
 
 ---
 
@@ -466,7 +466,7 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 
 ### 与复盘合并
 
-见 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})：
+见 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})：
 
 ```text
 本周每日一牌：哪张最准？哪张最偏？
@@ -507,15 +507,15 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 
 | 笔记 | 与塔罗的关系 |
 |------|--------------|
-| [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | 塔罗照盲点，与其余三镜联用 |
-| [鬼谷子]({{ '/2026/04/27/guiguzi.html' | relative_url }}) | 察人察势，外攻之术 |
-| [阳明心学]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }}) | 致良知、知行合一 |
-| [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) | 养心分寸、长期修省 |
-| [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | 每日一牌的晚间回顾可并入周复盘 |
-| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 课题分离后再抽牌，少求他人认可 |
-| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 抽牌前先看清需要与观察 |
-| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon.html' | relative_url }}) | 关系阶段 + 塔罗照投射 |
-| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 诚意：解牌时不自欺 |
+| [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | 塔罗照盲点，与其余三镜联用 |
+| [鬼谷子]({{ '/2026/04/27/guiguzi/' | relative_url }}) | 察人察势，外攻之术 |
+| [阳明心学]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) | 致良知、知行合一 |
+| [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }}) | 养心分寸、长期修省 |
+| [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | 每日一牌的晚间回顾可并入周复盘 |
+| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 课题分离后再抽牌，少求他人认可 |
+| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 抽牌前先看清需要与观察 |
+| [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) | 关系阶段 + 塔罗照投射 |
+| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 诚意：解牌时不自欺 |
 
 **一句链**：鬼谷子察**势** → 塔罗照**心** → 菜根谭养**德** → 阳明明**良知** → 复盘验**行**。
 
@@ -542,11 +542,11 @@ _随学习进度，在下方或 [全牌解析]({{ '/2026/04/28/rider-waite-1909-
 - 《韦特塔罗图像解读秘钥》【新译完整版】— 林侑青译，A. E. Waite 原著（地平线文化，2024）
 - *The Pictorial Key to the Tarot* — A. E. Waite 原著（1910）
 - *78 Degrees of Wisdom*（Rachel Pollack）— 经典深度解读
-- [鬼谷子 — 本站笔记]({{ '/2026/04/27/guiguzi.html' | relative_url }})
-- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})
-- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan.html' | relative_url }})
-- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})
-- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})
+- [鬼谷子 — 本站笔记]({{ '/2026/04/27/guiguzi/' | relative_url }})
+- [阳明心学 — 本站笔记]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})
+- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan/' | relative_url }})
+- [有效复盘 — 本站笔记]({{ '/2026/05/24/effective-retrospective/' | relative_url }})
+- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})
 
 ## 状态
 

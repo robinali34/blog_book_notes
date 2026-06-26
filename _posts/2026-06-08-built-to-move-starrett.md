@@ -32,10 +32,10 @@ Three questions while reading: **Which vital sign is my bottleneck? What is the 
 | 4 | **Not rehab** | Assessments inform habits; acute injury needs clinicians |
 | 5 | **Ten vital signs** | Scoreable tests + corrective “snacks” |
 | 6 | **Movement diet** | Steps, floor time, micro-breaks—not heroic sessions |
-| 7 | **Pairing** | Best alongside [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) or [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove.html' | relative_url }}) |
+| 7 | **Pairing** | Best alongside [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) or [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove/' | relative_url }}) |
 | 8 | **Sleep & breath** | Treated as movement prerequisites |
-| 9 | **Site links** | [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) on rhythm and “free flow”; [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }}) on stability as longevity pillar |
-| 10 | **Emotion** | Chronic pain and fear of movement—stabilize with [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) before pushing through |
+| 9 | **Site links** | [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) on rhythm and “free flow”; [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) on stability as longevity pillar |
+| 10 | **Emotion** | Chronic pain and fear of movement—stabilize with [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) before pushing through |
 
 <figure class="diagram-figure">
 <img src="{{ '/assets/images/fitness/built-to-move-overview.svg' | relative_url }}" alt="Built to Move ten vital signs" />
@@ -104,7 +104,7 @@ This is how mobility becomes **infrastructure**, not a weekend event.
 
 Popularized in longevity research, the **sit-rise test** is a blunt instrument: can you lower to the floor and stand without support? Low scores correlate with mortality risk in epidemiology—not because the test is magic, but because it bundles **strength, balance, and mobility**.
 
-*Built to Move* uses it as a **north star**, not a shame club. Train toward it with [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }})-style strength plus daily snacks.
+*Built to Move* uses it as a **north star**, not a shame club. Train toward it with [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }})-style strength plus daily snacks.
 
 ---
 
@@ -124,11 +124,11 @@ Popularized in longevity research, the **sit-rise test** is a blunt instrument: 
 
 | Lens | Connection |
 |------|------------|
-| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) | Load creates need for recovery mobility |
-| [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove.html' | relative_url }}) | Periodized lifting + daily movement diet |
-| [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }}) | Stability pillar; grip; Zone 2 walking |
-| [黄帝内经]({{ '/2026/06/25/huangdi-neijing.html' | relative_url }}) | “Flow” and rhythm as older language for same problem |
-| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) | Log vital signs like KPIs |
+| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) | Load creates need for recovery mobility |
+| [NROL]({{ '/2026/06/19/new-rules-of-lifting-schuler-cosgrove/' | relative_url }}) | Periodized lifting + daily movement diet |
+| [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) | Stability pillar; grip; Zone 2 walking |
+| [黄帝内经]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) | “Flow” and rhythm as older language for same problem |
+| [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) | Log vital signs like KPIs |
 
 ---
 
@@ -147,7 +147,7 @@ Use it to **keep moving between birthdays**, not to win Instagram contortion poi
 - Kelly Starrett — *Becoming a Supple Leopard* (deeper mobility encyclopedia)  
 - Peter Attia — *Outlive*  
 - Lou Schuler & Alwyn Cosgrove — *The New Rules of Lifting*  
-- [Outlive — site notes]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }})  
+- [Outlive — site notes]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }})  
 
 ## Status
 

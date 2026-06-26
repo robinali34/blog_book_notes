@@ -30,10 +30,10 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 3 | **系列位置** | 边界栈**关系场域层** — 亲密是边界最难练的场域 |
 | 4 | **阅读立场** | 自助成长；严重虐待关系须优先安全与专业帮助 |
 | 5 | **现代映射** | 恋爱、婚姻、同居、异地恋、原生家庭再现 |
-| 6 | **站内对照** | [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})、[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) |
-| 7 | **边界栈** | 见 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) 图 0 — 全系列由内到外 |
+| 6 | **站内对照** | [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})、[高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})、[不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) |
+| 7 | **边界栈** | 见 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) 图 0 — 全系列由内到外 |
 | 8 | **作者注** | 各版书名、译者略异；核心四阶段模型一致 |
-| 9 | **与塔罗** | 关系阶段可配合 [入门塔罗]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }})照投射 |
+| 9 | **与塔罗** | 关系阶段可配合 [入门塔罗]({{ '/2026/04/30/tarot-getting-started/' | relative_url }})照投射 |
 | 10 | **文化适配** | 部分灵性表述宜与课题分离并读，避免单方面牺牲 |
 
 ---
@@ -60,12 +60,12 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 | 边界栈层 | 书目 | 在亲密中的作用 |
 |----------|------|----------------|
-| 内核层 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | 父母/儿童状态在争吵中爆发 |
-| 内核层 | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 课题分离：情绪不纠缠 |
-| 内核层 | [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 刺激过载、深度加工、恢复 |
-| 边界层 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 怕失去而妥协底线 |
-| 表达层 | [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 幻灭期指责 → 需要与请求 |
-| 技能库 | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 危机暂停、DEAR MAN、FAST |
+| 内核层 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | 父母/儿童状态在争吵中爆发 |
+| 内核层 | [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 课题分离：情绪不纠缠 |
+| 内核层 | [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 刺激过载、深度加工、恢复 |
+| 边界层 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 怕失去而妥协底线 |
+| 表达层 | [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 幻灭期指责 → 需要与请求 |
+| 技能库 | [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 危机暂停、DEAR MAN、FAST |
 | **本书** | 四阶段地图 | 判断「卡在哪」 |
 
 ---
@@ -110,7 +110,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 **小敏（HSP）**与阿哲相识三月，觉得「终于有人懂我」。她推掉周末独处恢复，天天约会。朋友邀约全拒——「恋爱哪有时间」。
 
-三个月后幻灭：阿哲需要空间，小敏觉得被抛弃。回看绚丽期：**她把「被懂」当成策略，把伴侣当成唯一需要来源**——见 [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})：HSP 更需**预先保留恢复时间**，不是恋爱后补。
+三个月后幻灭：阿哲需要空间，小敏觉得被抛弃。回看绚丽期：**她把「被懂」当成策略，把伴侣当成唯一需要来源**——见 [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})：HSP 更需**预先保留恢复时间**，不是恋爱后补。
 
 **边界练法**：绚丽期也可说：「我很喜欢你，周三晚上我需要独处充电，周四见。」
 
@@ -124,7 +124,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 节奏 | 同居/订婚时间表由一方强推 | 明确「我还需要 X 个月了解」 |
 | 历史 | 暴力史轻描淡写、全怪前任 | 观察是否愿负责、愿求助 |
 
-与 [鬼谷子]({{ '/2026/04/27/guiguzi.html' | relative_url }})「揣情」：绚丽期也要看见**真实需要与表演**之别。
+与 [鬼谷子]({{ '/2026/04/27/guiguzi/' | relative_url }})「揣情」：绚丽期也要看见**真实需要与表演**之别。
 
 ---
 
@@ -149,12 +149,12 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 陷阱 | 表现 | 底层需要（常） | 出路 |
 |------|------|----------------|------|
 | **融合** | 「我们不该有秘密」「情侣就该透明」 | 联结、安全 | 保留正当私人空间 |
-| **控制** | 查手机、要求报备、定位 | 安全、确定 | 请求 ≠ 要求（[NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})） |
-| **讨好** | 怕失去而妥协底线 | 被爱、和平 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) |
-| **攻击** | 指责、贴标签、翻旧账 | 尊重、被看见 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})父母状态 → Adult |
+| **控制** | 查手机、要求报备、定位 | 安全、确定 | 请求 ≠ 要求（[NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})） |
+| **讨好** | 怕失去而妥协底线 | 被爱、和平 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) |
+| **攻击** | 指责、贴标签、翻旧账 | 尊重、被看见 | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})父母状态 → Adult |
 | **逃避** | 冷暴力、失联、酒/刷屏 | 休息、怕冲突 | DBT 痛苦耐受 + 约定恢复对话时间 |
 
-[被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})：伴侣情绪**不完全**是你课题，但冷漠亦非健康分离；你可表达关心，不替对方负责到消失自我。
+[被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})：伴侣情绪**不完全**是你课题，但冷漠亦非健康分离；你可表达关心，不替对方负责到消失自我。
 
 ### 争吵模式（fight patterns）速查
 
@@ -162,7 +162,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 |------|------|----------|
 | **追—逃** | 一方追问，一方沉默 | 追的人 STOP；逃的人约定「几时再谈」 |
 | **攻—攻** | 互相羞辱 | TIP + NVC 暂停 |
-| **讨好—爆** | 长期忍，突然爆发 | 早期小拒绝练 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) |
+| **讨好—爆** | 长期忍，突然爆发 | 早期小拒绝练 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) |
 | **三角化** | 拉父母/朋友站队 | 课题分离；两人关起门谈 |
 | **冷战** | 惩罚性沉默 | 设最长冷战时限；书面四要素 |
 
@@ -185,7 +185,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 阶段 | 典型幻灭：价值观 + 原生家庭脚本 |
 | 课题 | 谁带娃的最终后果谁承担更多？协商分工是**两人课题** |
 | NVC | 「听到你希望妈妈多参与（倾听）。焦虑（感受）。需要事业与公平分担（需要）。愿意一起列一周时间表吗？」 |
-| 边界 | 婆婆意见可参考，**决定权在小家庭** — [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) |
+| 边界 | 婆婆意见可参考，**决定权在小家庭** — [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) |
 
 ---
 
@@ -194,7 +194,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 ### 这一阶段发生什么？
 
 开始问：**我指责的特质，是否也是我不愿承认的自己？**  
-我爱的，究竟是这个人，还是「被爱的感觉」？（需要 vs 策略，见 [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})）
+我爱的，究竟是这个人，还是「被爱的感觉」？（需要 vs 策略，见 [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})）
 
 ### 投射自检表
 
@@ -230,7 +230,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 **阿宁**总选「需要她」的伴侣：帮还债、帮求职。第三次恋情幻灭后，她问：「我需要被需要，才能感到有价值。」
 
-联结 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})：把「被需要」当目的，边界就会塌。练法：新关系前列**不可妥协清单**（金钱、时间、身体）；用 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) 练「不拯救」。
+联结 [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})：把「被需要」当目的，边界就会塌。练法：新关系前列**不可妥协清单**（金钱、时间、身体）；用 [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) 练「不拯救」。
 
 ### 案例小传：同居后的内省
 
@@ -258,7 +258,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 课题 | 说明 |
 |------|------|
 | 不松懈 | 启示不是终点，是持续练习 |
-| 重大决策 | 仍用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) 做去留、迁居、生育 |
+| 重大决策 | 仍用 [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) 做去留、迁居、生育 |
 | 修复仪式 | 争吵后道歉、复盘、身体安抚（双方同意前提下） |
 | 外在世界 | 伴侣一致对外边界：亲友、金钱、育儿 |
 
@@ -299,17 +299,17 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 内核层
     ↓ 课题分离 · Adult 状态
 心法
-    ↓ 诚意、省察（[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})）
+    ↓ 诚意、省察（[传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})）
 ```
 
 | 层 | 工具 | 亲密示例 |
 |----|------|----------|
-| 情绪过载 | [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})恢复；DBT STOP | 「我现在过载，30 分钟后谈」 |
-| 表达 | [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 幻灭指责改观察—感受—需要—请求 |
+| 情绪过载 | [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})恢复；DBT STOP | 「我现在过载，30 分钟后谈」 |
+| 表达 | [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 幻灭指责改观察—感受—需要—请求 |
 | 主张 | DBT DEAR MAN | 谈家务、钱、性、见家长 |
-| 拒绝 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 「这周不见你父母」 |
+| 拒绝 | [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 「这周不见你父母」 |
 | 自尊 | DBT FAST | 不替对方出轨/欠债撒谎 |
-| 心法 | [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 争吵前问：我在欺人还是欺己？ |
+| 心法 | [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 争吵前问：我在欺人还是欺己？ |
 
 ### HSP 在亲密中的特别提醒
 
@@ -342,7 +342,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 「孝顺就应该…」 | 孝顺是你的价值；**如何**孝顺是你的选择与课题 |
 | 「你不尊重我家人」 | 「我听到你看重家庭聚会（倾听）。我感到为难（感受）。我需要我们小家的协商一致（需要）。愿意我们提前定出席频率吗？」 |
 
-[管理的本质]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }})式**交换**：明确各方可接受协议——不是算计，是清晰。
+[管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }})式**交换**：明确各方可接受协议——不是算计，是清晰。
 
 ### 案例小传：异地恋的幻灭
 
@@ -358,7 +358,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 **静怡**内省发现：伴侣无暴力，但长期贬低、拒绝咨询。启示期不一定是「留下」，而是**看清真相后负责的选择**。
 
-[四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})：离开也可以是边界与自我尊重——与「逃避内省」不同。
+[四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})：离开也可以是边界与自我尊重——与「逃避内省」不同。
 
 ### 案例小传：开放式关系与边界（现代情境）
 
@@ -370,7 +370,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 | 不答应 = 不够爱 | 身体与情感边界可拒绝 |
 | 内省 = 必须妥协 | 内省包括看清「我能不能」 |
 
-练法：各自写需要与不可妥协清单 → NVC 对话 → [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})评估去留。
+练法：各自写需要与不可妥协清单 → NVC 对话 → [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})评估去留。
 
 ### 案例小传：性与身体边界
 
@@ -406,16 +406,16 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 | 书 | 在亲密中的角色 |
 |----|----------------|
-| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }}) | 边界栈内核；课题分离图 0 |
-| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }}) | 争吵中的父母/儿童状态 |
-| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }}) | 怕失去时的底线 |
-| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }}) | 表达与倾听 |
-| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }}) | 恢复、刺激、情绪粒度 |
-| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }}) | 危机、DEAR MAN、FAST |
-| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }}) | 去留、重大人生决策 |
-| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }}) | 诚意、省察 |
-| [菜根谭]({{ '/2026/06/03/caigentan.html' | relative_url }}) | 宠辱不惊、关系中的分寸 |
-| [塔罗入门]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }}) | 照见投射与当下课题 |
+| [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) | 边界栈内核；课题分离图 0 |
+| [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) | 争吵中的父母/儿童状态 |
+| [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) | 怕失去时的底线 |
+| [非暴力沟通]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) | 表达与倾听 |
+| [高敏感]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) | 恢复、刺激、情绪粒度 |
+| [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) | 危机、DEAR MAN、FAST |
+| [四镜头]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) | 去留、重大人生决策 |
+| [传习录]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) | 诚意、省察 |
+| [菜根谭]({{ '/2026/06/03/caigentan/' | relative_url }}) | 宠辱不惊、关系中的分寸 |
+| [塔罗入门]({{ '/2026/04/30/tarot-getting-started/' | relative_url }}) | 照见投射与当下课题 |
 
 ---
 
@@ -452,7 +452,7 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 
 ### 与复盘合并
 
-见 [有效复盘]({{ '/2026/05/24/effective-retrospective.html' | relative_url }})：
+见 [有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }})：
 
 ```text
 本周亲密高峰冲突 1 次：阶段？模式？用了何技能？
@@ -533,17 +533,17 @@ tags: [亲密关系, 克里斯多弗·孟, 依恋, 沟通, 边界]
 ## 关联阅读
 
 - *Relationships: Bridge to the Soul* — Christopher Moon（各版书名略异）  
-- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi.html' | relative_url }})  
-- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board.html' | relative_url }})  
-- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal.html' | relative_url }})  
-- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg.html' | relative_url }})  
-- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron.html' | relative_url }})  
-- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan.html' | relative_url }})  
-- [四镜头决策 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing.html' | relative_url }})  
-- [管理的本质 — 本站笔记]({{ '/2026/06/02/management-essence-interest-exchange.html' | relative_url }})  
-- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming.html' | relative_url }})  
-- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan.html' | relative_url }})  
-- [塔罗入门 — 本站笔记]({{ '/2026/04/30/tarot-getting-started.html' | relative_url }})  
+- [被讨厌的勇气 — 本站笔记]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }})  
+- [蛤蟆先生去看心理医生 — 本站笔记]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})  
+- [不懂拒绝，你就会受伤 — 本站笔记]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }})  
+- [非暴力沟通 — 本站笔记]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }})  
+- [高敏感是种天赋 — 本站笔记]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})  
+- [DBT 技能训练手册 — 本站笔记]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})  
+- [四镜头决策 — 本站笔记]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }})  
+- [管理的本质 — 本站笔记]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }})  
+- [传习录 — 本站笔记]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }})  
+- [菜根谭 — 本站笔记]({{ '/2026/06/03/caigentan/' | relative_url }})  
+- [塔罗入门 — 本站笔记]({{ '/2026/04/30/tarot-getting-started/' | relative_url }})  
 
 ## 状态
 

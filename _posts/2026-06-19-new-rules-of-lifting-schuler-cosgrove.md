@@ -36,8 +36,8 @@ Three questions while reading: **Which stage am I in and why? Am I getting stron
 | 6 | **Stages** | Multi-week blocks with different rep ranges and goals |
 | 7 | **Cardio stance** | Conditioning matters; mindless hours on the treadmill do not |
 | 8 | **Recovery** | Built into stage transitions and fat-loss breaks |
-| 9 | **Site links** | [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) for barbell fundamentals; [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) for phase reviews |
-| 10 | **Longevity stack** | Pairs with [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }}) (healthspan) and [Built to Move]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) (daily mobility) |
+| 9 | **Site links** | [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) for barbell fundamentals; [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) for phase reviews |
+| 10 | **Longevity stack** | Pairs with [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) (healthspan) and [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) (daily mobility) |
 
 <figure class="diagram-figure">
 <img src="{{ '/assets/images/fitness/nrol-overview.svg' | relative_url }}" alt="New Rules of Lifting stage arc" />
@@ -56,7 +56,7 @@ Three questions while reading: **Which stage am I in and why? Am I getting stron
 | **What it is not** | Olympic lifting manual, sport-specific periodization, or medical nutrition therapy |
 
 **Read if you:** want programs you can run for months without inventing workouts weekly.  
-**Supplement if you:** need deep squat/deadlift coaching—add [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) or a coach.
+**Supplement if you:** need deep squat/deadlift coaching—add [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) or a coach.
 
 ---
 
@@ -109,7 +109,7 @@ NROL’s cultural contribution is insisting:
 - **Crash dieting + high volume** trades muscle for temporary weight.  
 - Measure **tape, photos, strength, energy**—not only pounds.
 
-This pairs cleanly with [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }})’s metabolic lens without copying Attia’s medical depth.
+This pairs cleanly with [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }})’s metabolic lens without copying Attia’s medical depth.
 
 ---
 
@@ -120,7 +120,7 @@ This pairs cleanly with [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | re
 | Skipping stages | Run the block; trust the rep range |
 | Adding random classes | Finish the stage; add sport **after** |
 | Ignoring nutrition chapter | Training cannot outrun kitchen |
-| No logging | Use [Effective Retrospective]({{ '/2026/05/24/effective-retrospective.html' | relative_url }}) templates |
+| No logging | Use [Effective Retrospective]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) templates |
 | Comparing to SS purists | NROL is **general population periodization**, not competition lifting |
 
 ---
@@ -129,10 +129,10 @@ This pairs cleanly with [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | re
 
 | Book | Role |
 |------|------|
-| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }}) | Barbell novice base |
+| [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) | Barbell novice base |
 | **NROL** | Staged variety + fat-loss framing |
-| [Built to Move]({{ '/2026/06/08/built-to-move-starrett.html' | relative_url }}) | Daily mobility minimums |
-| [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | relative_url }}) | Long-horizon disease prevention |
+| [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) | Daily mobility minimums |
+| [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) | Long-horizon disease prevention |
 
 ---
 
@@ -141,7 +141,7 @@ This pairs cleanly with [Outlive]({{ '/2026/04/24/outlive-peter-attia.html' | re
 - Lou Schuler & Alwyn Cosgrove — *The New Rules of Lifting for Women* / *for Life* / *Supercharged*  
 - Mark Rippetoe — *Starting Strength*  
 - Peter Attia — *Outlive*  
-- [Starting Strength — site notes]({{ '/2026/06/06/starting-strength-rippetoe.html' | relative_url }})  
+- [Starting Strength — site notes]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }})  
 
 ## Status
 

@@ -241,7 +241,7 @@ tags: [塔罗, Rider-Waite, 韦特, A.E.Waite, Pamela Colman Smith, 1909, 牌义
 
 > 史上第一副**全部 78 张牌均有场景插图**的塔罗牌。市面所称「韦特塔罗」「Rider Tarot」「Tarot original 1909」多指此系谱的再版或 1909 复刻本。
 
-**关联入门笔记**：[塔罗牌 — 新手入门笔记]({{{{ '/2026/04/30/tarot-getting-started.html' | relative_url }}}})
+**关联入门笔记**：[塔罗牌 — 新手入门笔记]({{{{ '/2026/04/30/tarot-getting-started/' | relative_url }}}})
 
 ---
 
@@ -359,7 +359,7 @@ def outro() -> str:
 |------|------|
 | *The Pictorial Key to the Tarot* — A. E. Waite | 韦特原著，牌义权威来源 |
 {lin_row}| *78 Degrees of Wisdom* — Rachel Pollack | 现代经典深度解读 |
-| [入门笔记]({{{{ '/2026/04/30/tarot-getting-started.html' | relative_url }}}}) | 本博客塔罗学习起点 |
+| [入门笔记]({{{{ '/2026/04/30/tarot-getting-started/' | relative_url }}}}) | 本博客塔罗学习起点 |
 
 ## 图例说明
 

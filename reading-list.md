@@ -5,152 +5,110 @@ permalink: /reading-list/
 lang: en
 ---
 
-Index of book notes on this site, grouped by topic. Each title links to its post.
+Book notes on this site, grouped by topic. **Start with the overview (导读)** for each classic — themes, cases, and series navigation to full-text volumes.
 
-**Language:** Notes on English-language books are written in English; other notes are primarily in Chinese (use the Translate widget for English).
+**Language:** English-language book notes are in English; most classic notes are in Chinese (use the Translate widget).
+
+---
 
 ## Chinese Classics
 
+### Strategy, statecraft & law
+
+| Work | Author | Start here |
+|------|--------|------------|
+| [鬼谷子]({{ site.baseurl }}/2026/04/27/guiguzi/) | 鬼谷子（传） | Persuasion, strategic speech · 4 text volumes |
+| [孙子兵法]({{ site.baseurl }}/2026/06/08/sunzi/) | 孙武 | Planning, terrain, deception · 4 text volumes |
+| [韩非子]({{ site.baseurl }}/2026/05/02/hanfeizi/) | 韩非 | Law, method, power · 8 text volumes |
+| [商君书]({{ site.baseurl }}/2026/05/13/shangjunshu/) | 商鞅（传） | Reform, rewards, punishment · 4 text volumes |
+| [荀子]({{ site.baseurl }}/2026/06/18/xunzi/) | 荀卿 | Ritual, education, human nature · 4 text volumes |
+
+### Cosmology, change & the way
+
+| Work | Author | Start here |
+|------|--------|------------|
+| [周易]({{ site.baseurl }}/2026/05/07/zhouyi/) | 伏羲/文王/孔子（传） | Hexagrams, divination, change · 8 经传 volumes |
+| [道德经]({{ site.baseurl }}/2026/06/24/daodejing/) | 老子（传） | Dao, wu wei, softness · 8 text volumes |
+
+### Self-cultivation & mind
+
+| Work | Author | Start here |
+|------|--------|------------|
+| [菜根谭]({{ site.baseurl }}/2026/06/03/caigentan/) | 洪应明（传） | Five themes, daily wisdom · 8 text volumes |
+| [阳明心学]({{ site.baseurl }}/2026/06/22/yangming-xinxue/) | 王守仁 | Innate knowing, unity of knowledge and action |
+| [传习录]({{ site.baseurl }}/2026/06/17/chuanxilu-wang-yangming/) | 王守仁 等 | Sincerity, introspection, boundaries · 8 text volumes |
+| [《大学问》]({{ site.baseurl }}/2026/06/25/yangming-daxuewen/) | 王守仁 | Treatise on the Great Learning (single text) |
+
+### Medicine & history
+
+| Work | Author | Start here |
+|------|--------|------------|
+| [黄帝内经]({{ site.baseurl }}/2026/06/25/huangdi-neijing/) | 托名黄帝 | Yin-yang, five phases, preventive medicine · 16 text volumes |
+| [资治通鉴]({{ site.baseurl }}/2026/05/25/zizhi-tongjian/) | 司马光 | Ten themes, historical cases (overview only) |
+
+<details markdown="1">
+<summary><strong>Full-text volume index</strong> (all classics)</summary>
+
+**鬼谷子** — [1–4]({{ "/2026/04/28/guiguzi-01-04/" | relative_url }}) · [5–8]({{ "/2026/04/29/guiguzi-05-08/" | relative_url }}) · [9–12]({{ "/2026/04/30/guiguzi-09-12/" | relative_url }}) · [13–15]({{ "/2026/05/01/guiguzi-13-15/" | relative_url }})
+
+**周易** — [1–8]({{ "/2026/05/08/zhouyi-01-08/" | relative_url }}) · [9–16]({{ "/2026/05/09/zhouyi-09-16/" | relative_url }}) · [17–24]({{ "/2026/05/10/zhouyi-17-24/" | relative_url }}) · [25–32]({{ "/2026/05/11/zhouyi-25-32/" | relative_url }}) · [33–40]({{ "/2026/05/12/zhouyi-33-40/" | relative_url }}) · [41–48]({{ "/2026/05/13/zhouyi-41-48/" | relative_url }}) · [49–56]({{ "/2026/05/14/zhouyi-49-56/" | relative_url }}) · [57–64]({{ "/2026/05/15/zhouyi-57-64/" | relative_url }})
+
+**孙子兵法** — [1–4]({{ "/2026/06/09/sunzi-01-04/" | relative_url }}) · [5–7]({{ "/2026/06/10/sunzi-05-07/" | relative_url }}) · [8–10]({{ "/2026/06/11/sunzi-08-10/" | relative_url }}) · [11–13]({{ "/2026/06/12/sunzi-11-13/" | relative_url }})
+
+**韩非子** — [1–7]({{ "/2026/05/03/hanfeizi-01-07/" | relative_url }}) · [8–14]({{ "/2026/05/04/hanfeizi-08-14/" | relative_url }}) · [15–21]({{ "/2026/05/05/hanfeizi-15-21/" | relative_url }}) · [22–28]({{ "/2026/05/06/hanfeizi-22-28/" | relative_url }}) · [29–35]({{ "/2026/05/07/hanfeizi-29-35/" | relative_url }}) · [36–42]({{ "/2026/05/08/hanfeizi-36-42/" | relative_url }}) · [43–49]({{ "/2026/05/09/hanfeizi-43-49/" | relative_url }}) · [50–55]({{ "/2026/05/10/hanfeizi-50-55/" | relative_url }})
+
+**商君书** — [1–6]({{ "/2026/05/14/shangjunshu-01-06/" | relative_url }}) · [7–12]({{ "/2026/05/15/shangjunshu-07-12/" | relative_url }}) · [13–18]({{ "/2026/05/16/shangjunshu-13-18/" | relative_url }}) · [19–24]({{ "/2026/05/17/shangjunshu-19-24/" | relative_url }})
+
+**荀子** — [1–8]({{ "/2026/06/19/xunzi-01-08/" | relative_url }}) · [9–16]({{ "/2026/06/20/xunzi-09-16/" | relative_url }}) · [17–24]({{ "/2026/06/21/xunzi-17-24/" | relative_url }}) · [25–32]({{ "/2026/06/22/xunzi-25-32/" | relative_url }})
+
+**传习录** — [1–34]({{ "/2026/06/18/chuanxilu-001-034/" | relative_url }}) · [35–76]({{ "/2026/06/19/chuanxilu-035-076/" | relative_url }}) · [77–111]({{ "/2026/06/20/chuanxilu-077-111/" | relative_url }}) · [112–128]({{ "/2026/06/21/chuanxilu-112-128/" | relative_url }}) · [129–139]({{ "/2026/06/22/chuanxilu-129-139/" | relative_url }}) · [140–190]({{ "/2026/06/23/chuanxilu-140-190/" | relative_url }}) · [191–230]({{ "/2026/06/24/chuanxilu-191-230/" | relative_url }}) · [231–254]({{ "/2026/06/25/chuanxilu-231-254/" | relative_url }})
+
+**菜根谭** — [1–31]({{ "/2026/06/04/caigentan-001-031/" | relative_url }}) · [32–82]({{ "/2026/06/05/caigentan-032-082/" | relative_url }}) · [83–130]({{ "/2026/06/06/caigentan-083-130/" | relative_url }}) · [131–178]({{ "/2026/06/07/caigentan-131-178/" | relative_url }}) · [179–231]({{ "/2026/06/08/caigentan-179-231/" | relative_url }}) · [232–284]({{ "/2026/06/09/caigentan-232-284/" | relative_url }}) · [285–337]({{ "/2026/06/10/caigentan-285-337/" | relative_url }}) · [338–375]({{ "/2026/06/11/caigentan-338-375/" | relative_url }})
+
+**道德经** — [1–10]({{ "/2026/06/16/daodejing-01-10/" | relative_url }}) · [11–20]({{ "/2026/06/17/daodejing-11-20/" | relative_url }}) · [21–30]({{ "/2026/06/18/daodejing-21-30/" | relative_url }}) · [31–37]({{ "/2026/06/19/daodejing-31-37/" | relative_url }}) · [38–47]({{ "/2026/06/20/daodejing-38-47/" | relative_url }}) · [48–57]({{ "/2026/06/21/daodejing-48-57/" | relative_url }}) · [58–67]({{ "/2026/06/22/daodejing-58-67/" | relative_url }}) · [68–81]({{ "/2026/06/23/daodejing-68-81/" | relative_url }})
+
+**黄帝内经** — [素问 1–10]({{ "/2026/06/09/huangdi-neijing-001-010/" | relative_url }}) · [11–20]({{ "/2026/06/10/huangdi-neijing-011-020/" | relative_url }}) · [21–30]({{ "/2026/06/11/huangdi-neijing-021-030/" | relative_url }}) · [31–40]({{ "/2026/06/12/huangdi-neijing-031-040/" | relative_url }}) · [41–50]({{ "/2026/06/13/huangdi-neijing-041-050/" | relative_url }}) · [51–60]({{ "/2026/06/14/huangdi-neijing-051-060/" | relative_url }}) · [61–70]({{ "/2026/06/15/huangdi-neijing-061-070/" | relative_url }}) · [71–81]({{ "/2026/06/16/huangdi-neijing-071-081/" | relative_url }}) · [灵枢 1–10]({{ "/2026/06/17/huangdi-neijing-082-091/" | relative_url }}) · [11–20]({{ "/2026/06/18/huangdi-neijing-092-101/" | relative_url }}) · [21–30]({{ "/2026/06/19/huangdi-neijing-102-111/" | relative_url }}) · [31–40]({{ "/2026/06/20/huangdi-neijing-112-121/" | relative_url }}) · [41–50]({{ "/2026/06/21/huangdi-neijing-122-131/" | relative_url }}) · [51–60]({{ "/2026/06/22/huangdi-neijing-132-141/" | relative_url }}) · [61–70]({{ "/2026/06/23/huangdi-neijing-142-151/" | relative_url }}) · [71–81]({{ "/2026/06/24/huangdi-neijing-152-162/" | relative_url }})
+
+</details>
+
+---
+
+## Psychology, Communication & Relationships
+
 | Note | Author | About |
 |------|--------|-------|
-| [鬼谷子（导读）— 纵横捭阖]({{ "/2026/04/27/guiguzi/" | relative_url }}) | 鬼谷子（传） | Overview, persuasion, strategic speech |
-| [鬼谷子原文 1–4（捭阖至抵巇）]({{ "/2026/04/28/guiguzi-01-04/" | relative_url }}) | 《鬼谷子》 | Chapters 1–4, full text |
-| [鬼谷子原文 5–8（飞钳至摩）]({{ "/2026/04/29/guiguzi-05-08/" | relative_url }}) | 《鬼谷子》 | Chapters 5–8 |
-| [鬼谷子原文 9–12（权至符言）]({{ "/2026/04/30/guiguzi-09-12/" | relative_url }}) | 《鬼谷子》 | Chapters 9–12 |
-| [鬼谷子原文 13–15（卷下）]({{ "/2026/05/01/guiguzi-13-15/" | relative_url }}) | 《鬼谷子》 | 卷下三篇 |
-| [周易（导读）— 观象系辞]({{ "/2026/05/07/zhouyi/" | relative_url }}) | 伏羲/文王/孔子（传） | Overview, methods, divination |
-| [周易经传 1–8（乾至比）]({{ "/2026/05/08/zhouyi-01-08/" | relative_url }}) | 《周易》经 | Hexagrams 1–8, full text |
-| [周易经传 9–16（小畜至豫）]({{ "/2026/05/09/zhouyi-09-16/" | relative_url }}) | 《周易》经 | Hexagrams 9–16 |
-| [周易经传 17–24（随至复）]({{ "/2026/05/10/zhouyi-17-24/" | relative_url }}) | 《周易》经 | Hexagrams 17–24 |
-| [周易经传 25–32（无妄至恒）]({{ "/2026/05/11/zhouyi-25-32/" | relative_url }}) | 《周易》经 | Hexagrams 25–32 |
-| [周易经传 33–40（遁至解）]({{ "/2026/05/12/zhouyi-33-40/" | relative_url }}) | 《周易》经 | Hexagrams 33–40 |
-| [周易经传 41–48（损至井）]({{ "/2026/05/13/zhouyi-41-48/" | relative_url }}) | 《周易》经 | Hexagrams 41–48 |
-| [周易经传 49–56（革至旅）]({{ "/2026/05/14/zhouyi-49-56/" | relative_url }}) | 《周易》经 | Hexagrams 49–56 |
-| [周易经传 57–64（巽至未济）]({{ "/2026/05/15/zhouyi-57-64/" | relative_url }}) | 《周易》经 | Hexagrams 57–64 |
-| [孙子兵法（导读）— 先胜后战]({{ "/2026/06/08/sunzi/" | relative_url }}) | 孙武 | Overview, planning, terrain, deception |
-| [孙子兵法原文 1–4（始计至军形）]({{ "/2026/06/09/sunzi-01-04/" | relative_url }}) | 《孙子兵法》 | Chapters 1–4, full text |
-| [孙子兵法原文 5–7（兵势至军争）]({{ "/2026/06/10/sunzi-05-07/" | relative_url }}) | 《孙子兵法》 | Chapters 5–7 |
-| [孙子兵法原文 8–10（九变至地形）]({{ "/2026/06/11/sunzi-08-10/" | relative_url }}) | 《孙子兵法》 | Chapters 8–10 |
-| [孙子兵法原文 11–13（九地至用间）]({{ "/2026/06/12/sunzi-11-13/" | relative_url }}) | 《孙子兵法》 | Chapters 11–13 |
-| [资治通鉴 — 鉴往知来]({{ "/2026/05/25/zizhi-tongjian/" | relative_url }}) | 司马光 | Ten themes and historical cases |
-| [韩非子（导读）— 法术势]({{ "/2026/05/02/hanfeizi/" | relative_url }}) | 韩非 | Overview, law, method, power |
-| [韩非子原文 1–7（初见秦至二柄）]({{ "/2026/05/03/hanfeizi-01-07/" | relative_url }}) | 《韩非子》 | Chapters 1–7, full text |
-| [韩非子原文 8–14（扬权至奸劫弑臣）]({{ "/2026/05/04/hanfeizi-08-14/" | relative_url }}) | 《韩非子》 | Chapters 8–14 |
-| [韩非子原文 15–21（亡徵至喻老）]({{ "/2026/05/05/hanfeizi-15-21/" | relative_url }}) | 《韩非子》 | Chapters 15–21 |
-| [韩非子原文 22–28（说林上至功名）]({{ "/2026/05/06/hanfeizi-22-28/" | relative_url }}) | 《韩非子》 | Chapters 22–28 |
-| [韩非子原文 29–35（大体至外储说右下）]({{ "/2026/05/07/hanfeizi-29-35/" | relative_url }}) | 《韩非子》 | Chapters 29–35 |
-| [韩非子原文 36–42（难一至问田）]({{ "/2026/05/08/hanfeizi-36-42/" | relative_url }}) | 《韩非子》 | Chapters 36–42 |
-| [韩非子原文 43–49（定法至五蠹）]({{ "/2026/05/09/hanfeizi-43-49/" | relative_url }}) | 《韩非子》 | Chapters 43–49 |
-| [韩非子原文 50–55（显学至制分）]({{ "/2026/05/10/hanfeizi-50-55/" | relative_url }}) | 《韩非子》 | Chapters 50–55 |
-| [荀子（导读）— 化性起伪]({{ "/2026/06/18/xunzi/" | relative_url }}) | 荀卿 | Ritual, education, human nature |
-| [荀子原文 1–8（劝学至儒效）]({{ "/2026/06/19/xunzi-01-08/" | relative_url }}) | 《荀子》 | Chapters 1–8, full text |
-| [荀子原文 9–16（王制至强国）]({{ "/2026/06/20/xunzi-09-16/" | relative_url }}) | 《荀子》 | Chapters 9–16 |
-| [荀子原文 17–24（天论至君子）]({{ "/2026/06/21/xunzi-17-24/" | relative_url }}) | 《荀子》 | Chapters 17–24 |
-| [荀子原文 25–32（成相至尧问）]({{ "/2026/06/22/xunzi-25-32/" | relative_url }}) | 《荀子》 | Chapters 25–32 |
-| [商君书（导读）— 变法强国]({{ "/2026/05/13/shangjunshu/" | relative_url }}) | 商鞅（传） | Reform, rewards, and punishment |
-| [商君书原文 1–6（更法至算地）]({{ "/2026/05/14/shangjunshu-01-06/" | relative_url }}) | 《商君书》 | Chapters 1–6, full text |
-| [商君书原文 7–12（开塞至兵守）]({{ "/2026/05/15/shangjunshu-07-12/" | relative_url }}) | 《商君书》 | Chapters 7–12 |
-| [商君书原文 13–18（靳令至境内）]({{ "/2026/05/16/shangjunshu-13-18/" | relative_url }}) | 《商君书》 | Chapters 13–18 |
-| [商君书原文 19–24（弱民至定分）]({{ "/2026/05/17/shangjunshu-19-24/" | relative_url }}) | 《商君书》 | Chapters 19–24 |
-| [阳明心学（导读）— 致良知，知行合一]({{ "/2026/06/22/yangming-xinxue/" | relative_url }}) | 王守仁 | Overview, innate knowing, unity of knowledge and action |
-| [传习录（导读）— 诚意、省察与言行边界]({{ "/2026/06/17/chuanxilu-wang-yangming/" | relative_url }}) | 王守仁 等 | Sincerity, introspection, boundaries (classic capstone) |
-| [传习录原文 1–34（徐爱录至格物问答）]({{ "/2026/06/18/chuanxilu-001-034/" | relative_url }}) | 《传习录》 | Entries 1–34, full text |
-| [传习录原文 35–76（上卷问答续）]({{ "/2026/06/19/chuanxilu-035-076/" | relative_url }}) | 《传习录》 | Entries 35–76 |
-| [传习录原文 77–111（上卷末至中卷开篇）]({{ "/2026/06/20/chuanxilu-077-111/" | relative_url }}) | 《传习录》 | Entries 77–111 |
-| [传习录原文 112–128（答罗整庵等书信）]({{ "/2026/06/21/chuanxilu-112-128/" | relative_url }}) | 《传习录》 | Entries 112–128 |
-| [传习录原文 129–139（答聂文蔚等书信）]({{ "/2026/06/22/chuanxilu-129-139/" | relative_url }}) | 《传习录》 | Entries 129–139 |
-| [传习录原文 140–190（中卷末至下卷初）]({{ "/2026/06/23/chuanxilu-140-190/" | relative_url }}) | 《传习录》 | Entries 140–190 |
-| [传习录原文 191–230（九川诸友问答）]({{ "/2026/06/24/chuanxilu-191-230/" | relative_url }}) | 《传习录》 | Entries 191–230 |
-| [传习录原文 231–254（下卷末语录）]({{ "/2026/06/25/chuanxilu-231-254/" | relative_url }}) | 《传习录》 | Entries 231–254 |
-| [阳明心学（原文）— 《大学问》]({{ "/2026/06/25/yangming-daxuewen/" | relative_url }}) | 《大学问》 | Treatise on Great Learning |
-| [菜根谭（导读）— 布衣菜根]({{ "/2026/06/03/caigentan/" | relative_url }}) | 洪应明（传） | Overview, five themes, historical cases |
-| [菜根谭原文 1–31（修身）]({{ "/2026/06/04/caigentan-001-031/" | relative_url }}) | 《菜根谭》 | Entries 1–31, full text |
-| [菜根谭原文 32–82（应酬）]({{ "/2026/06/05/caigentan-032-082/" | relative_url }}) | 《菜根谭》 | Entries 32–82 |
-| [菜根谭原文 83–130（评议）]({{ "/2026/06/06/caigentan-083-130/" | relative_url }}) | 《菜根谭》 | Entries 83–130 |
-| [菜根谭原文 131–178（闲适）]({{ "/2026/06/07/caigentan-131-178/" | relative_url }}) | 《菜根谭》 | Entries 131–178 |
-| [菜根谭原文 179–231（概论）]({{ "/2026/06/08/caigentan-179-231/" | relative_url }}) | 《菜根谭》 | Entries 179–231 |
-| [菜根谭原文 232–284（概论）]({{ "/2026/06/09/caigentan-232-284/" | relative_url }}) | 《菜根谭》 | Entries 232–284 |
-| [菜根谭原文 285–337（概论）]({{ "/2026/06/10/caigentan-285-337/" | relative_url }}) | 《菜根谭》 | Entries 285–337 |
-| [菜根谭原文 338–375（概论）]({{ "/2026/06/11/caigentan-338-375/" | relative_url }}) | 《菜根谭》 | Entries 338–375 |
-| [道德经（导读）— 道法自然，无为而无不为]({{ "/2026/06/24/daodejing/" | relative_url }}) | 老子（传） | Overview, dao, wu wei, softness, governance |
-| [道德经原文 1–10（道可道至上善若水）]({{ "/2026/06/16/daodejing-01-10/" | relative_url }}) | 《道德经》 | Chapters 1–10, full text |
-| [道德经原文 11–20（有物混成至大道废）]({{ "/2026/06/17/daodejing-11-20/" | relative_url }}) | 《道德经》 | Chapters 11–20 |
-| [道德经原文 21–30（孔德之容至以道佐主）]({{ "/2026/06/18/daodejing-21-30/" | relative_url }}) | 《道德经》 | Chapters 21–30 |
-| [道德经原文 31–37（夫兵者至道法自然）]({{ "/2026/06/19/daodejing-31-37/" | relative_url }}) | 《道德经》 | Chapters 31–37 |
-| [道德经原文 38–47（上德不德至祸兮福所倚）]({{ "/2026/06/20/daodejing-38-47/" | relative_url }}) | 《道德经》 | Chapters 38–47 |
-| [道德经原文 48–57（为学日益至以正治国）]({{ "/2026/06/21/daodejing-48-57/" | relative_url }}) | 《道德经》 | Chapters 48–57 |
-| [道德经原文 58–67（其政闷闷至天下皆谓我大）]({{ "/2026/06/22/daodejing-58-67/" | relative_url }}) | 《道德经》 | Chapters 58–67 |
-| [道德经原文 68–81（善为士者至为而不争）]({{ "/2026/06/23/daodejing-68-81/" | relative_url }}) | 《道德经》 | Chapters 68–81 |
-| [黄帝内经（导读）— 天人合一，治未病]({{ "/2026/06/25/huangdi-neijing/" | relative_url }}) | 托名黄帝 | Overview, yin-yang, five phases, preventive medicine |
-| [黄帝内经原文 1–10（上古天真论至五脏别论）]({{ "/2026/06/09/huangdi-neijing-001-010/" | relative_url }}) | 《素问》 | Chapters 1–10, full text |
-| [黄帝内经原文 11–20（异法方宜论至三部九候论）]({{ "/2026/06/10/huangdi-neijing-011-020/" | relative_url }}) | 《素问》 | Chapters 11–20 |
-| [黄帝内经原文 21–30（经脉别论至阳明脉解）]({{ "/2026/06/11/huangdi-neijing-021-030/" | relative_url }}) | 《素问》 | Chapters 21–30 |
-| [黄帝内经原文 31–40（热论至腹中论）]({{ "/2026/06/12/huangdi-neijing-031-040/" | relative_url }}) | 《素问》 | Chapters 31–40 |
-| [黄帝内经原文 41–50（刺腰痛论至刺要论）]({{ "/2026/06/13/huangdi-neijing-041-050/" | relative_url }}) | 《素问》 | Chapters 41–50 |
-| [黄帝内经原文 51–60（刺齐论至水热穴论）]({{ "/2026/06/14/huangdi-neijing-051-060/" | relative_url }}) | 《素问》 | Chapters 51–60 |
-| [黄帝内经原文 61–70（调经论至五常政大论）]({{ "/2026/06/15/huangdi-neijing-061-070/" | relative_url }}) | 《素问》 | Chapters 61–70 |
-| [黄帝内经原文 71–81（六元正纪大论至解精微论）]({{ "/2026/06/16/huangdi-neijing-071-081/" | relative_url }}) | 《素问》 | Chapters 71–81 |
-| [黄帝内经原文 82–91（九针十二原至经脉）]({{ "/2026/06/17/huangdi-neijing-082-091/" | relative_url }}) | 《灵枢》 | Chapters 1–10 |
-| [黄帝内经原文 92–101（经别至五邪）]({{ "/2026/06/18/huangdi-neijing-092-101/" | relative_url }}) | 《灵枢》 | Chapters 11–20 |
-| [黄帝内经原文 102–111（师传至病传）]({{ "/2026/06/19/huangdi-neijing-102-111/" | relative_url }}) | 《灵枢》 | Chapters 21–30 |
-| [黄帝内经原文 112–121（淫邪发梦至五味）]({{ "/2026/06/20/huangdi-neijing-112-121/" | relative_url }}) | 《灵枢》 | Chapters 31–40 |
-| [黄帝内经原文 122–131（水胀至阴阳二十五人）]({{ "/2026/06/21/huangdi-neijing-122-131/" | relative_url }}) | 《灵枢》 | Chapters 41–50 |
-| [黄帝内经原文 132–141（五音五味至通天）]({{ "/2026/06/22/huangdi-neijing-132-141/" | relative_url }}) | 《灵枢》 | Chapters 51–60 |
-| [黄帝内经原文 142–151（官能至九宫八风）]({{ "/2026/06/23/huangdi-neijing-142-151/" | relative_url }}) | 《灵枢》 | Chapters 61–70 |
-| [黄帝内经原文 152–162（九针论至痈疽）]({{ "/2026/06/24/huangdi-neijing-152-162/" | relative_url }}) | 《灵枢》 | Chapters 71–81 |
+| [蛤蟆先生去看心理医生]({{ site.baseurl }}/2026/05/15/counselling-for-toads-de-board/) | Robert de Board | TA: Parent / Adult / Child |
+| [被讨厌的勇气]({{ site.baseurl }}/2026/05/08/courage-to-be-disliked-kishimi/) | 岸見一郎、古賀史健 | Adler, task separation |
+| [不懂拒绝，你就会受伤]({{ site.baseurl }}/2026/05/21/art-of-saying-no-refusal/) | 石田淳 等 | Saying no without guilt |
+| [高敏感是种天赋]({{ site.baseurl }}/2026/05/26/highly-sensitive-person-aron/) | Elaine N. Aron | HSP temperament and boundaries |
+| [非暴力沟通]({{ site.baseurl }}/2026/06/01/nonviolent-communication-rosenberg/) | Marshall Rosenberg | Observation, feeling, need, request |
+| [亲密关系]({{ site.baseurl }}/2026/06/10/intimate-relationships-moon/) | 克里斯多弗·孟 | Four stages of intimate relationships |
+| [DBT 技能训练手册]({{ site.baseurl }}/2026/05/19/dbt-skills-handouts-linehan/) | Marsha M. Linehan | Four modules and worksheets |
+| [认知神经科学]({{ site.baseurl }}/2026/05/12/gazzaniga-cognitive-neuroscience/) | Michael S. Gazzaniga et al. | Split-brain and modular mind |
 
 ## Health & Fitness
 
 | Note | Author | About |
 |------|--------|-------|
-| [Starting Strength — Mark Rippetoe]({{ "/2026/06/06/starting-strength-rippetoe/" | relative_url }}) | Mark Rippetoe | Barbell training, novice linear progression, five lifts |
-| [The New Rules of Lifting — Lou Schuler & Alwyn Cosgrove]({{ "/2026/06/19/new-rules-of-lifting-schuler-cosgrove/" | relative_url }}) | Lou Schuler, Alwyn Cosgrove | Periodized lifting, fat loss, movement patterns |
-| [Built to Move — Kelly & Juliet Starrett]({{ "/2026/06/08/built-to-move-starrett/" | relative_url }}) | Kelly Starrett, Juliet Starrett | Ten vital signs, daily mobility habits |
-| [Outlive — Peter Attia]({{ "/2026/04/24/outlive-peter-attia/" | relative_url }}) | Peter Attia | Longevity, Medicine 3.0, Four Horsemen, exercise prescription |
+| [Starting Strength]({{ site.baseurl }}/2026/06/06/starting-strength-rippetoe/) | Mark Rippetoe | Barbell training, novice linear progression |
+| [The New Rules of Lifting]({{ site.baseurl }}/2026/06/19/new-rules-of-lifting-schuler-cosgrove/) | Lou Schuler, Alwyn Cosgrove | Periodized lifting, fat loss |
+| [Built to Move]({{ site.baseurl }}/2026/06/08/built-to-move-starrett/) | Kelly & Juliet Starrett | Ten vital signs, daily mobility |
+| [Outlive]({{ site.baseurl }}/2026/04/24/outlive-peter-attia/) | Peter Attia | Longevity, Medicine 3.0, exercise prescription |
 
-## Methodology & Practice
+## Methodology, Business & Society
 
 | Note | Source | About |
 |------|--------|-------|
-| [有效复盘 — 时间轴、模板与场景应用]({{ "/2026/05/24/effective-retrospective/" | relative_url }}) | Practice notes | Timeline templates and use cases |
-| [管理的本质 — 让人主动交换利益]({{ "/2026/06/02/management-essence-interest-exchange/" | relative_url }}) | 《管理的本质》 | Interest exchange and sustainable management |
-| [四镜头分析 — 认识自己、理解他人、做出选择]({{ "/2026/05/25/four-lenses-knowing-choosing/" | relative_url }}) | Personal framework | Tarot · Guiguzi · Yangming · Caigentan |
+| [四镜头分析]({{ site.baseurl }}/2026/05/25/four-lenses-knowing-choosing/) | Personal framework | Tarot · Guiguzi · Yangming · Caigentan |
+| [有效复盘]({{ site.baseurl }}/2026/05/24/effective-retrospective/) | Practice notes | Timeline templates and use cases |
+| [管理的本质]({{ site.baseurl }}/2026/06/02/management-essence-interest-exchange/) | 《管理的本质》 | Interest exchange and sustainable management |
+| [The Algorithm]({{ site.baseurl }}/2026/06/14/the-algorithm-jon-mcneill/) | Jon McNeill | Operating rhythm and five-step method |
+| [We Have Never Been Middle Class]({{ site.baseurl }}/2026/06/20/we-have-never-been-middle-class-weiss/) | Hadas Weiss | Middle class as ideology |
 
 ## Tarot
 
 | Note | Deck / source | About |
 |------|---------------|-------|
-| [塔罗牌 — 新手入门笔记]({{ "/2026/04/30/tarot-getting-started/" | relative_url }}) | Rider-Waite 1909 | 7-day bonding and RWS learning path |
-| [Rider-Waite 1909 韦特塔罗 — 全牌解析与用法]({{ "/2026/04/28/rider-waite-1909-waite-tarot/" | relative_url }}) | Waite / Pamela Colman Smith | All 78 cards and spreads |
-| [塔罗笔记 — 新牌磨合与多副牌协作]({{ "/2026/05/16/tarot-new-deck-bonding/" | relative_url }}) | Personal practice | 21-day deepening and multi-deck workflow |
-
-## Science & Psychology
-
-| Note | Author | About |
-|------|--------|-------|
-| [认知神经科学 — Gazzaniga 与心智的生物学]({{ "/2026/05/12/gazzaniga-cognitive-neuroscience/" | relative_url }}) | Michael S. Gazzaniga et al. | Split-brain and modular mind |
-| [DBT 技能训练手册 — Linehan 讲义与练习册]({{ "/2026/05/19/dbt-skills-handouts-linehan/" | relative_url }}) | Marsha M. Linehan | Four modules and worksheets |
-
-## Psychology, Boundaries & Communication
-
-| Note | Author | About |
-|------|--------|-------|
-| [蛤蟆先生去看心理医生 — 心理咨询与自我状态]({{ "/2026/05/15/counselling-for-toads-de-board/" | relative_url }}) | Robert de Board | TA: Parent / Adult / Child |
-| [被讨厌的勇气 — 阿德勒与课题分离]({{ "/2026/05/08/courage-to-be-disliked-kishimi/" | relative_url }}) | 岸見一郎、古賀史健 | Adler, task separation |
-| [不懂拒绝，你就会受伤 — 拒绝与边界]({{ "/2026/05/21/art-of-saying-no-refusal/" | relative_url }}) | 石田淳 等 | Saying no without guilt |
-| [高敏感是种天赋 — HSP 与边界]({{ "/2026/05/26/highly-sensitive-person-aron/" | relative_url }}) | Elaine N. Aron | Highly sensitive temperament |
-| [非暴力沟通 — NVC 四要素]({{ "/2026/06/01/nonviolent-communication-rosenberg/" | relative_url }}) | Marshall Rosenberg | Observation, feeling, need, request |
-| [亲密关系 — 通往灵魂的桥梁]({{ "/2026/06/10/intimate-relationships-moon/" | relative_url }}) | 克里斯多弗·孟 | Four stages of intimate relationships |
-| [传习录（导读）— 诚意、省察与言行边界]({{ "/2026/06/17/chuanxilu-wang-yangming/" | relative_url }}) | 王守仁 等 | Sincerity and inner boundaries (classic capstone) |
-
-## Business & Management
-
-| Note | Author | About |
-|------|--------|-------|
-| [The Algorithm — Jon McNeill]({{ "/2026/06/14/the-algorithm-jon-mcneill/" | relative_url }}) | Jon McNeill | Operating rhythm and five-step method |
-
-## Society & Economics
-
-| Note | Author | About |
-|------|--------|-------|
-| [We Have Never Been Middle Class — Hadas Weiss]({{ "/2026/06/20/we-have-never-been-middle-class-weiss/" | relative_url }}) | Hadas Weiss | Middle class as ideology; mobility and financialization |
+| [塔罗牌 — 新手入门]({{ site.baseurl }}/2026/04/30/tarot-getting-started/) | Rider-Waite 1909 | 7-day bonding and learning path |
+| [Rider-Waite 1909 全牌解析]({{ site.baseurl }}/2026/04/28/rider-waite-1909-waite-tarot/) | Waite / Colman Smith | All 78 cards and spreads |
+| [新牌磨合与多副牌协作]({{ site.baseurl }}/2026/05/16/tarot-new-deck-bonding/) | Personal practice | 21-day deepening workflow |

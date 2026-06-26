@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-label="Outlive Medicine 3.0 framework">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4F6F8"/>
+      <stop offset="100%" stop-color="#E8ECF0"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#5A6A78" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="900" height="320" rx="16" fill="url(#bg)" stroke="#C5CDD6" stroke-width="1.5"/>
+  <text x="450" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#2C3E50" font-weight="bold">Outlive  Medicine 3.0</text>
+  <text x="450" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5A6A78">Prevent the Four Horsemen · train for the Centenarian Decathlon</text>
+  <g filter="url(#shadow)">
+    <rect x="40" y="85" width="400" height="130" rx="12" fill="#D8E2EC" stroke="#A8B8C8"/>
+    <text x="240" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" font-weight="bold">Four Horsemen (disease)</text>
+    <text x="70" y="140" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">" Atherosclerotic cardiovascular disease</text>
+    <text x="70" y="162" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">" Cancer</text>
+    <text x="70" y="184" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">" Neurodegenerative disease</text>
+    <text x="70" y="206" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">" Metabolic dysfunction</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="460" y="85" width="400" height="130" rx="12" fill="#C8D8E8" stroke="#98A8B8"/>
+    <text x="660" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" font-weight="bold">Five tactical domains</text>
+    <text x="490" y="140" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Exercise (Zone 2 · VO2max · strength · stability)</text>
+    <text x="490" y="162" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Nutrition · Sleep · Emotional health</text>
+    <text x="490" y="184" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Exogenous molecules (when evidence supports)</text>
+    <text x="490" y="206" font-family="Arial, sans-serif" font-size="12" fill="#5A6A78">Start decades before symptoms</text>
+  </g>
+  <rect x="120" y="240" width="660" height="60" rx="10" fill="#A8B8C8" stroke="#788898" filter="url(#shadow)"/>
+  <text x="450" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#F4F6F8" font-weight="bold">Centenarian Decathlon  train for life at 90+, not just live to 90</text>
+  <text x="450" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#E8ECF0">Carry groceries · get off floor · hike · play with grandchildren</text>
+</svg>

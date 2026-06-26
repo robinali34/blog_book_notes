@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/caigentan-jing.json"
 HUB_SLUG = "2026-06-03-caigentan"
-SERIES_START = date(2026, 7, 4)
+SERIES_START = date(2026, 6, 17)
 
 VOLUMES = [
     (1, 1, 31, "修身", "1–31"),

@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/xunzi-jing.json"
-SERIES_START = date(2026, 9, 11)
+SERIES_START = date(2026, 5, 11)
 
 VOLUMES = [
     (1, 1, 8, "卷一至八", "劝学至儒效"),

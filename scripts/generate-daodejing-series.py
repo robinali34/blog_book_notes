@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/daodejing-jing.json"
 HUB_SLUG = "2026/06/24/daodejing"
-SERIES_START = date(2026, 8, 5)
+SERIES_START = date(2026, 5, 30)
 
 VOLUMES = [
     (1, 1, 10, "道经·上", "道可道至上善若水"),

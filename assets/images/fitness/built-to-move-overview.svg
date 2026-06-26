@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="Built to Move ten vital signs">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4F6F8"/>
+      <stop offset="100%" stop-color="#E8ECF0"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#5A6A78" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="900" height="360" rx="16" fill="url(#bg)" stroke="#C5CDD6" stroke-width="1.5"/>
+  <text x="450" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#2C3E50" font-weight="bold">Built to Move  10 Vital Signs</text>
+  <text x="450" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5A6A78">Assess · score · daily minimums · retest quarterly</text>
+  <g filter="url(#shadow)" font-family="Arial, sans-serif" font-size="11" fill="#2C3E50">
+    <rect x="40" y="80" width="160" height="56" rx="8" fill="#D8E2EC" stroke="#A8B8C8"/><text x="120" y="114" text-anchor="middle">Breathing</text>
+    <rect x="220" y="80" width="160" height="56" rx="8" fill="#D8E2EC" stroke="#A8B8C8"/><text x="300" y="114" text-anchor="middle">Sit-rise test</text>
+    <rect x="400" y="80" width="160" height="56" rx="8" fill="#D8E2EC" stroke="#A8B8C8"/><text x="480" y="114" text-anchor="middle">Extension</text>
+    <rect x="580" y="80" width="160" height="56" rx="8" fill="#D8E2EC" stroke="#A8B8C8"/><text x="660" y="114" text-anchor="middle">Shoulder rotation</text>
+    <rect x="760" y="80" width="100" height="56" rx="8" fill="#D8E2EC" stroke="#A8B8C8"/><text x="810" y="114" text-anchor="middle">Balance</text>
+    <rect x="40" y="150" width="160" height="56" rx="8" fill="#C8D8E8" stroke="#98A8B8"/><text x="120" y="184" text-anchor="middle">Resting squat</text>
+    <rect x="220" y="150" width="160" height="56" rx="8" fill="#C8D8E8" stroke="#98A8B8"/><text x="300" y="184" text-anchor="middle">Walking / steps</text>
+    <rect x="400" y="150" width="160" height="56" rx="8" fill="#C8D8E8" stroke="#98A8B8"/><text x="480" y="184" text-anchor="middle">Grip strength</text>
+    <rect x="580" y="150" width="160" height="56" rx="8" fill="#C8D8E8" stroke="#98A8B8"/><text x="660" y="184" text-anchor="middle">Hip flexion</text>
+    <rect x="760" y="150" width="100" height="56" rx="8" fill="#C8D8E8" stroke="#98A8B8"/><text x="810" y="184" text-anchor="middle">Sleep</text>
+  </g>
+  <rect x="120" y="240" width="660" height="90" rx="12" fill="#B8C8D8" stroke="#8898A8" filter="url(#shadow)"/>
+  <text x="450" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" font-weight="bold">Daily movement diet</text>
+  <text x="450" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4A5A68">8k+ steps · micro-breaks · floor time · 10-min mobility snack</text>
+  <text x="450" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4A5A68">Stack habits onto existing routines  not a separate life</text>
+</svg>

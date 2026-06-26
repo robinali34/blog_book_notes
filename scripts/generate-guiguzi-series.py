@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/guiguzi-jing.json"
-SERIES_START = date(2026, 6, 3)
+SERIES_START = date(2026, 4, 28)
 
 # Twelve core chapters (hub); vol 4 adds 卷下 three parts
 VOLUMES = [

@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/yangming-jing.json"
 HUB_SLUG = "2026/06/22/yangming-xinxue"
 CHUANXILU_HUB = "2026/06/17/chuanxilu-wang-yangming"
-POST_DATE = date(2026, 4, 27)
+POST_DATE = date(2026, 6, 25)
 ENTRY_ID = 255
 
 
@@ -66,15 +66,15 @@ def main() -> None:
             "| 1 | 通读《大学问》，标 3 处「格物 / 致知 / 明明德」落点 |",
             "| 2 | 与《传习录》上卷格物问答对照，问：格物格什么？ |",
             "| 3 | 与导读篇「读阳明四步法」写一则短断语 |",
-            "| 4 | 对照 [传习录原文 1–34]({{ '/2026/06/03/chuanxilu-001-034.html' | relative_url }}) |",
+            "| 4 | 对照 [传习录原文 1–34]({{ '/2026/06/18/chuanxilu-001-034.html' | relative_url }}) |",
             "",
-            f"上一篇：[传习录原文 231–254]({rel('2026/05/11/chuanxilu-231-254')})",
+            f"上一篇：[传习录原文 231–254]({rel('2026/06/25/chuanxilu-231-254')})",
             "",
             "## 关联阅读",
             "",
             f"- [阳明心学（导读）— 本站笔记]({rel(HUB_SLUG)})，八大专题、四句教与史案",
             f"- [传习录（导读）— 本站笔记]({rel(CHUANXILU_HUB)})，诚意与边界栈",
-            "- [传习录原文 1–34 — 本站笔记]({{ '/2026/06/03/chuanxilu-001-034.html' | relative_url }})",
+            "- [传习录原文 1–34 — 本站笔记]({{ '/2026/06/18/chuanxilu-001-034.html' | relative_url }})",
             "",
             "## 状态",
             "",

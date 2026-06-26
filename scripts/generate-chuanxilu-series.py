@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/chuanxilu-jing.json"
 HUB_SLUG = "2026/06/17/chuanxilu-wang-yangming"
-SERIES_START = date(2026, 6, 3)
+SERIES_START = date(2026, 6, 18)
 
 VOLUMES = [
     (1, 1, 34, "卷上·一", "徐爱录至格物问答"),
@@ -174,7 +174,7 @@ def volume_post(vol: int, start: int, end: int, label: str, subtitle: str, batch
             "",
             f"- [传习录（导读）— 本站笔记]({rel(HUB_SLUG)})，诚意、省察与边界栈",
             "- [阳明心学（导读）— 本站笔记]({{ '/2026/06/22/yangming-xinxue.html' | relative_url }})，八大专题与四句教",
-            "- [《大学问》原文 — 本站笔记]({{ '/2026/04/27/yangming-daxuewen.html' | relative_url }})，纲领一篇",
+            "- [《大学问》原文 — 本站笔记]({{ '/2026/06/25/yangming-daxuewen.html' | relative_url }})，纲领一篇",
         ]
     )
     for v, s, e, _label, sub in VOLUMES:

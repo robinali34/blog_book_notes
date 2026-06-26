@@ -11,7 +11,7 @@ from datetime import date, timedelta
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "assets/data/zhouyi-jing.json"
 HUB_SLUG = "2026-05-07-zhouyi"
-SERIES_START = date(2026, 5, 20)
+SERIES_START = date(2026, 5, 8)
 
 # One-line glosses (from site overview + common readings)
 GLOSSES: dict[str, str] = {

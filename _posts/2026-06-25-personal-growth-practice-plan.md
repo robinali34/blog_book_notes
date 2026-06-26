@@ -47,7 +47,7 @@ RELATE（关系）→ 倾听、边界、人名录   → 少而深的人际连接
 | 6 | **每周底线** | 运动 3×、社交复盘 1×、深度连接 1×、日课 5 min×多数天 |
 | 7 | **成功标准** | 可验证行为（睡眠时数、跟进消息数、复盘行动项），非「感觉变好了」 |
 | 8 | **与 HSP** | 见 [高敏感是种天赋]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }})：社交后须恢复，噪音场合减量 |
-| 9 | **与边界栈** | 蛤蟆 → 勇气 → 拒绝 → HSP → NVC → 亲密关系 → 传习录（诚意收束） |
+| 9 | **与边界栈** | 蛤蟆 → 勇气 → 拒绝 → HSP → NVC → 亲密关系 → 传习录（诚意收束）；延伸见 [情商]({{ '/2026/06/26/emotional-intelligence-goleman/' | relative_url }}) · [关键对话]({{ '/2026/06/26/crucial-conversations-patterson/' | relative_url }}) · [依恋理论]({{ '/2026/06/26/attached-levine-heller/' | relative_url }}) |
 | 10 | **与身体书** | [Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) · [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) · [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) · [黄帝内经导读]({{ '/2026/06/25/huangdi-neijing/' | relative_url }}) |
 
 ---
@@ -105,7 +105,7 @@ RELATE（关系）→ 倾听、边界、人名录   → 少而深的人际连接
 
 | 轨道 | 行动 | 目标 |
 |------|------|------|
-| BODY | 固定起床；睡前 30 min 无屏；3×/周运动 | 摸清睡眠与社交电量基线 |
+| BODY | 固定起床；睡前 30 min 无屏；3×/周运动 | 摸清睡眠与社交电量基线；见 [我们为什么要睡觉]({{ '/2026/06/26/why-we-sleep-walker/' | relative_url }}) · [昼夜节律的密码]({{ '/2026/06/26/circadian-code-satchin-panda/' | relative_url }}) |
 | MIND | 2 周日志：声音压力 1–10、社交能量 1–10 | 找到自己的「每日新面孔上限」 |
 | RELATE | **不赶大型酒会**；每周 1 次咖啡 1:1 | 练人名录流程，不求多 |
 
@@ -119,7 +119,7 @@ RELATE（关系）→ 倾听、边界、人名录   → 少而深的人际连接
 | MIND | [蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }})：标 Parent/Child/Adult | 对话中觉察状态 |
 | RELATE | 每场新人 **1h 内** 填人名录；**48h 跟进** | 名录 ≥20 条；跟进率 ≥80% |
 
-**技能练法（情商）：**
+**技能练法（情商）：** 下表为四技能周练执行摘要；延伸阅读 [情绪灵活性]({{ '/2026/06/26/emotional-agility-susan-david/' | relative_url }}) · [高难度谈话]({{ '/2026/06/26/difficult-conversations-stone/' | relative_url }})。
 
 | 技能 | 来源 | 每周最小练量 |
 |------|------|----------------|
@@ -348,11 +348,13 @@ RELATE
 
 执行层：[有效复盘]({{ '/2026/05/24/effective-retrospective/' | relative_url }}) · [四镜头分析]({{ '/2026/05/25/four-lenses-knowing-choosing/' | relative_url }}) · [管理的本质]({{ '/2026/06/02/management-essence-interest-exchange/' | relative_url }})
 
-边界与沟通：[蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) · [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) · [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) · [HSP]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) · [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) · [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) · [传习录导读]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) · [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }})
+边界与沟通：[蛤蟆先生]({{ '/2026/05/15/counselling-for-toads-de-board/' | relative_url }}) · [被讨厌的勇气]({{ '/2026/05/08/courage-to-be-disliked-kishimi/' | relative_url }}) · [不懂拒绝]({{ '/2026/05/21/art-of-saying-no-refusal/' | relative_url }}) · [HSP]({{ '/2026/05/26/highly-sensitive-person-aron/' | relative_url }}) · [NVC]({{ '/2026/06/01/nonviolent-communication-rosenberg/' | relative_url }}) · [亲密关系]({{ '/2026/06/10/intimate-relationships-moon/' | relative_url }}) · [传习录导读]({{ '/2026/06/17/chuanxilu-wang-yangming/' | relative_url }}) · [DBT]({{ '/2026/05/19/dbt-skills-handouts-linehan/' | relative_url }}) · [情商]({{ '/2026/06/26/emotional-intelligence-goleman/' | relative_url }}) · [关键对话]({{ '/2026/06/26/crucial-conversations-patterson/' | relative_url }}) · [高难度谈话]({{ '/2026/06/26/difficult-conversations-stone/' | relative_url }}) · [情绪灵活性]({{ '/2026/06/26/emotional-agility-susan-david/' | relative_url }}) · [绝不妥协]({{ '/2026/06/26/never-split-the-difference-voss/' | relative_url }}) · [依恋理论]({{ '/2026/06/26/attached-levine-heller/' | relative_url }})
+
+作息与睡眠：[我们为什么要睡觉]({{ '/2026/06/26/why-we-sleep-walker/' | relative_url }}) · [生命时光]({{ '/2026/06/26/life-time-russell-foster/' | relative_url }}) · [昼夜节律的密码]({{ '/2026/06/26/circadian-code-satchin-panda/' | relative_url }}) · [何时做]({{ '/2026/06/26/power-of-when-michael-breus/' | relative_url }}) · [睡眠革命]({{ '/2026/06/26/sleep-nick-littlehales/' | relative_url }})
 
 身体：[Outlive]({{ '/2026/04/24/outlive-peter-attia/' | relative_url }}) · [Built to Move]({{ '/2026/06/08/built-to-move-starrett/' | relative_url }}) · [Starting Strength]({{ '/2026/06/06/starting-strength-rippetoe/' | relative_url }}) · [黄帝内经导读]({{ '/2026/06/25/huangdi-neijing/' | relative_url }})
 
-经典日课：[菜根谭导读]({{ '/2026/06/03/caigentan/' | relative_url }}) · [阳明心学导读]({{ '/2026/06/22/yangming-xinxue/' | relative_url }})
+经典日课：[菜根谭导读]({{ '/2026/06/03/caigentan/' | relative_url }}) · [阳明心学导读]({{ '/2026/06/22/yangming-xinxue/' | relative_url }}) · [冰心诀]({{ '/2026/06/26/bingxin-jue/' | relative_url }})（情绪过载时短诵）
 
 ## 状态
 

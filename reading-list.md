@@ -38,6 +38,7 @@ Book notes on this site, grouped by topic. **Start with the overview (导读)** 
 | [阳明心学]({{ site.baseurl }}/2026/06/22/yangming-xinxue/) | 王守仁 | Innate knowing, unity of knowledge and action |
 | [传习录]({{ site.baseurl }}/2026/06/17/chuanxilu-wang-yangming/) | 王守仁 等 | Sincerity, introspection, boundaries · 8 text volumes |
 | [《大学问》]({{ site.baseurl }}/2026/06/25/yangming-daxuewen/) | 王守仁 | Treatise on the Great Learning (single text) |
+| [冰心诀]({{ site.baseurl }}/2026/06/26/bingxin-jue/) | 佚名（传） | Daoist verse for calming the mind · single text |
 
 ### Medicine & history
 
@@ -85,11 +86,22 @@ Book notes on this site, grouped by topic. **Start with the overview (导读)** 
 | [亲密关系]({{ site.baseurl }}/2026/06/10/intimate-relationships-moon/) | 克里斯多弗·孟 | Four stages of intimate relationships |
 | [DBT 技能训练手册]({{ site.baseurl }}/2026/05/19/dbt-skills-handouts-linehan/) | Marsha M. Linehan | Four modules and worksheets |
 | [认知神经科学]({{ site.baseurl }}/2026/05/12/gazzaniga-cognitive-neuroscience/) | Michael S. Gazzaniga et al. | Split-brain and modular mind |
+| [情商]({{ site.baseurl }}/2026/06/26/emotional-intelligence-goleman/) | Daniel Goleman | Five dimensions of emotional intelligence |
+| [关键对话]({{ site.baseurl }}/2026/06/26/crucial-conversations-patterson/) | Kerry Patterson et al. | High-stakes dialogue tools |
+| [高难度谈话]({{ site.baseurl }}/2026/06/26/difficult-conversations-stone/) | Douglas Stone et al. | Three layers of difficult conversations |
+| [情绪灵活性]({{ site.baseurl }}/2026/06/26/emotional-agility-susan-david/) | Susan David | Emotions as data, not commands |
+| [绝不妥协]({{ site.baseurl }}/2026/06/26/never-split-the-difference-voss/) | Chris Voss | Tactical empathy and calibrated questions |
+| [依恋理论]({{ site.baseurl }}/2026/06/26/attached-levine-heller/) | Amir Levine & Rachel Heller | Anxious, avoidant, secure attachment |
 
 ## Health & Fitness
 
 | Note | Author | About |
 |------|--------|-------|
+| [我们为什么要睡觉]({{ site.baseurl }}/2026/06/26/why-we-sleep-walker/) | Matthew Walker | Sleep science and why it matters |
+| [生命时光]({{ site.baseurl }}/2026/06/26/life-time-russell-foster/) | Russell Foster | Circadian rhythms and daily timing |
+| [昼夜节律的密码]({{ site.baseurl }}/2026/06/26/circadian-code-satchin-panda/) | Satchin Panda | Light, food timing, and body clocks |
+| [何时做]({{ site.baseurl }}/2026/06/26/power-of-when-michael-breus/) | Michael Breus | Chronotypes and when to do what |
+| [睡眠革命]({{ site.baseurl }}/2026/06/26/sleep-nick-littlehales/) | Nick Littlehales | 90-minute sleep cycles, recovery |
 | [Starting Strength]({{ site.baseurl }}/2026/06/06/starting-strength-rippetoe/) | Mark Rippetoe | Barbell training, novice linear progression |
 | [The New Rules of Lifting]({{ site.baseurl }}/2026/06/19/new-rules-of-lifting-schuler-cosgrove/) | Lou Schuler, Alwyn Cosgrove | Periodized lifting, fat loss |
 | [Built to Move]({{ site.baseurl }}/2026/06/08/built-to-move-starrett/) | Kelly & Juliet Starrett | Ten vital signs, daily mobility |

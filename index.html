@@ -17,6 +17,7 @@ lang: en
             <a href="{{ page_obj.url | relative_url }}">{{ page_obj.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
+        <a href="{{ "/calendar/" | relative_url }}">Calendar</a>
       </nav>
       <div class="header-translate">
         {%- include translate-widget.html -%}
@@ -74,6 +75,7 @@ lang: en
       {%- if site.posts.size > 3 -%}
         <div class="view-all-posts">
           <a href="{{ "/posts/" | relative_url }}" class="btn">View All Notes</a>
+          <a href="{{ "/calendar/" | relative_url }}" class="btn btn-outline">Calendar</a>
         </div>
       {%- endif -%}
     </section>

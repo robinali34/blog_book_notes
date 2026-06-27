@@ -112,6 +112,7 @@ Book notes on this site, grouped by topic. **Start with the overview (导读)** 
 | Note | Source | About |
 |------|--------|-------|
 | [个人成长实践路径 — 健康、自我理解与情商]({{ site.baseurl }}/2026/06/25/personal-growth-practice-plan/) | Practice template | 6-month plan: body, mind, relate; people log & HSP-friendly networking |
+| [Posts Calendar]({{ site.baseurl }}/calendar/) | Archive | Browse all notes by date — monthly grid & year overview |
 | [四镜头分析]({{ site.baseurl }}/2026/05/25/four-lenses-knowing-choosing/) | Personal framework | Tarot · Guiguzi · Yangming · Caigentan |
 | [有效复盘]({{ site.baseurl }}/2026/05/24/effective-retrospective/) | Practice notes | Timeline templates and use cases |
 | [管理的本质]({{ site.baseurl }}/2026/06/02/management-essence-interest-exchange/) | 《管理的本质》 | Interest exchange and sustainable management |
